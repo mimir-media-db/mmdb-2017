@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_meet_the_mp",
+  "title": "Meet the MP",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122443068",
+    "imdb": "tt15204638"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

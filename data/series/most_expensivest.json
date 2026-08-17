@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_most_expensivest",
+  "title": "Most Expensivest",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q54953701",
+    "imdb": "tt7686128",
+    "tmdb": 74806
+  },
+  "last_updated": "2026-08-17"
+}

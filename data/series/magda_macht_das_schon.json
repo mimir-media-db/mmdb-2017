@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magda_macht_das_schon",
+  "title": "Magda macht das schon!",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28604443",
+    "imdb": "tt6381190",
+    "tmdb": 69083
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 46
+}

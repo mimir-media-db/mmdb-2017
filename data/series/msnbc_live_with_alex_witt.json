@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_msnbc_live_with_alex_witt",
+  "title": "MSNBC Live with Alex Witt",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q137009640"
+  },
+  "last_updated": "2026-08-17"
+}

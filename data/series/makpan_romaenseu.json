@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_makpan_romaenseu",
+  "title": "Makpan Romaenseu",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q42304233",
+    "imdb": "tt7523032",
+    "tmdb": 74948
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

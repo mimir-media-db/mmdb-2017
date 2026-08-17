@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_muy_padres",
+  "title": "Muy padres",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q33111618",
+    "imdb": "tt7330496",
+    "tmdb": 76289
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 98
+}

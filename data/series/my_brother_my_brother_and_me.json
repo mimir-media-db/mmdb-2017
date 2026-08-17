@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_brother_my_brother_and_me",
+  "title": "My Brother, My Brother and Me",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113467991",
+    "imdb": "tt6570046",
+    "tmdb": 70305
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

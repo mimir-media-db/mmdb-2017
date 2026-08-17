@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_melo_holic",
+  "title": "Melo Holic",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30946969",
+    "imdb": "tt7521734",
+    "tmdb": 74565
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

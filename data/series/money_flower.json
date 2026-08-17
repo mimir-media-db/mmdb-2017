@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_money_flower",
+  "title": "Money Flower",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q41497738",
+    "imdb": "tt7521802",
+    "tmdb": 74887
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

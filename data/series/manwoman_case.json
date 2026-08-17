@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_manwoman_case",
+  "title": "The Man-Woman Case",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30741121",
+    "imdb": "tt6814200"
+  },
+  "last_updated": "2026-08-17"
+}

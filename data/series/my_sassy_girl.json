@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sassy_girl",
+  "title": "My Sassy Girl",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24833788",
+    "imdb": "tt6175760",
+    "tmdb": 71347
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_madiba",
+  "title": "Madiba",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28732528",
+    "imdb": "tt4797212",
+    "tmdb": 69877
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

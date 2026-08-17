@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_man_in_the_kitchen",
+  "title": "Man in the Kitchen",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q31178373",
+    "imdb": "tt7094956",
+    "tmdb": 73576
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

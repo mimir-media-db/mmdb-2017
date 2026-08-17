@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_merivalja",
+  "title": "Merivälja",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61389328"
+  },
+  "last_updated": "2026-08-17"
+}

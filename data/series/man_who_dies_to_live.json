@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_man_who_dies_to_live",
+  "title": "Man Who Dies to Live",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30061576",
+    "imdb": "tt7075142",
+    "tmdb": 72800
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

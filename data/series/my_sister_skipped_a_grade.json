@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sister_skipped_a_grade",
+  "title": "My Sister Skipped a Grade",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55649195",
+    "imdb": "tt12221552",
+    "tmdb": 97533
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

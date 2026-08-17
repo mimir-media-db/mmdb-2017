@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_novo_mundo",
+  "title": "Novo Mundo",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28950137",
+    "imdb": "tt6491434",
+    "tmdb": 70984
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 160
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nicht_tot_zu_kriegen",
+  "title": "Nicht tot zu kriegen",
+  "start_year": 2017,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q33123510",
+    "imdb": "tt6219106",
+    "tmdb": 69996
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nimki_mukhiya",
+  "title": "Nimki Mukhiya",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39059999",
+    "imdb": "tt7993396",
+    "tmdb": 75266
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

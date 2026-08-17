@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nils_holgersson",
+  "title": "Nils Holgersson",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56388646",
+    "imdb": "tt6851660",
+    "tmdb": 74498
+  },
+  "last_updated": "2026-08-17"
+}

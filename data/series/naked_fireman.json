@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_naked_fireman",
+  "title": "Naked Fireman",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28086335",
+    "imdb": "tt6413646",
+    "tmdb": 69610
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

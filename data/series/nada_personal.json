@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nada_personal",
+  "title": "Nada personal",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q29541223",
+    "imdb": "tt6814062",
+    "tmdb": 108534
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 77
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_8969_2017",
+  "title": "8969",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25302674",
+    "imdb": "tt4024858",
+    "tmdb": 622118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 147
+}

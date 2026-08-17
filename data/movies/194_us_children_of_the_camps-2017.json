@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_194_us_children_of_the_camps_2017",
+  "title": "194. Us, Children of the Camps",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52391499",
+    "tmdb": 453931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

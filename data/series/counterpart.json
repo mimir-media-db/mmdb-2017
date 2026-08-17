@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_counterpart",
+  "title": "Counterpart",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q20642675",
+    "imdb": "tt4643084",
+    "tmdb": 63646
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_coyotes_crazy_smart_science_show",
+  "title": "Coyote's Crazy Smart Science Show",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105763884",
+    "imdb": "tt6521774"
+  },
+  "last_updated": "2026-08-17"
+}

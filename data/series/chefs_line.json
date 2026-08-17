@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_chefs_line",
+  "title": "The Chefs' Line",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30694305"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_codemirage",
+  "title": "CODE:MIRAGE",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29254960",
+    "imdb": "tt6771056",
+    "tmdb": 84028
+  },
+  "last_updated": "2026-08-17"
+}

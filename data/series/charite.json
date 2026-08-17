@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_charite",
+  "title": "Charité",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23815652",
+    "imdb": "tt5337806",
+    "tmdb": 70837
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

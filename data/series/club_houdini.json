@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_club_houdini",
+  "title": "Club Houdini",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q112796122",
+    "imdb": "tt7538258",
+    "tmdb": 96154
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

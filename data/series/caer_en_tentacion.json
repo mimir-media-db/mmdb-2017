@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_caer_en_tentacion",
+  "title": "Caer en tentación",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30041947",
+    "imdb": "tt7368796",
+    "tmdb": 82515
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 102
+}

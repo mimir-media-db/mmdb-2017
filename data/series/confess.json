@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_confess",
+  "title": "Confess",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61042897",
+    "imdb": "tt6316900",
+    "tmdb": 71131
+  },
+  "last_updated": "2026-08-17"
+}

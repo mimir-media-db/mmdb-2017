@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_creeped_out",
+  "title": "Creeped Out",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q29344728",
+    "imdb": "tt7573024",
+    "tmdb": 78036
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

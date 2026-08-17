@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_charite_at_war",
+  "title": "Charité at War",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85751527",
+    "imdb": "tt5337806",
+    "tmdb": 70837
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

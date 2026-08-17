@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_96_2017",
+  "title": "'96",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30597974",
+    "imdb": "tt7019842",
+    "tmdb": 441717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

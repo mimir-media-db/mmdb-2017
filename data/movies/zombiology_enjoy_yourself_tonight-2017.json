@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombiology_enjoy_yourself_tonight_2017",
+  "title": "Zombiology: Enjoy Yourself Tonight",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32624052",
+    "imdb": "tt6220406",
+    "tmdb": 455650
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

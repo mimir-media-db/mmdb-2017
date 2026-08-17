@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trivisa_2017",
+  "title": "Trivisa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19854354",
+    "imdb": "tt4379800",
+    "tmdb": 380762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-31",
+  "runtime_minutes": 97
+}

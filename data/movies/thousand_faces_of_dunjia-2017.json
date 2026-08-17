@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thousand_faces_of_dunjia_2017",
+  "title": "The Thousand Faces of Dunjia",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28753451",
+    "imdb": "tt6814080",
+    "tmdb": 460557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-01"
+}

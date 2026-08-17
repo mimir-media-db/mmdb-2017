@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tombstone_rashomon_2017",
+  "title": "Tombstone Rashomon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55450587",
+    "imdb": "tt5669410",
+    "tmdb": 441924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-08"
+}

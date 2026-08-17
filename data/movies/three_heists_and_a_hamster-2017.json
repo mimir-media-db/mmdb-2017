@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_heists_and_a_hamster_2017",
+  "title": "Three Heists and a Hamster",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27908086",
+    "imdb": "tt4942270",
+    "tmdb": 420956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-02",
+  "runtime_minutes": 90
+}

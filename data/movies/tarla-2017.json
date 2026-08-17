@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tarla_2017",
+  "title": "Tarla",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37689576",
+    "imdb": "tt5586310",
+    "tmdb": 474825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22",
+  "runtime_minutes": 85
+}

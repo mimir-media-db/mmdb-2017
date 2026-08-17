@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ti_ani_itar_2017",
+  "title": "Ti Ani Itar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116265726",
+    "imdb": "tt7392180",
+    "tmdb": 582957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-21"
+}

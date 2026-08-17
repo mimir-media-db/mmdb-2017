@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tesla_world_light_2017",
+  "title": "The Tesla World Light",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30051951",
+    "imdb": "tt7970452",
+    "tmdb": 461859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-23",
+  "runtime_minutes": 8
+}

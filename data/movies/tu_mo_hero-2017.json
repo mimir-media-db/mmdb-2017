@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_mo_hero_2017",
+  "title": "Tu Mo Hero",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41562383",
+    "imdb": "tt31529731"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20"
+}

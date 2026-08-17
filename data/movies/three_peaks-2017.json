@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_peaks_2017",
+  "title": "Three Peaks",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073815",
+    "imdb": "tt5485522",
+    "tmdb": 467542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 94
+}

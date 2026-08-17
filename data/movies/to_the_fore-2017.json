@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_the_fore_2017",
+  "title": "To The Fore",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18657644",
+    "imdb": "tt4788638",
+    "tmdb": 339562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-07",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_throbbin_84_2017",
+  "title": "Throbbin’ 84",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600788",
+    "imdb": "tt7020770",
+    "tmdb": 483766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

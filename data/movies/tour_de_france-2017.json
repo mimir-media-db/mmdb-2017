@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tour_de_france_2017",
+  "title": "Tour de France",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925083",
+    "imdb": "tt5189440",
+    "tmdb": 394262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-02",
+  "runtime_minutes": 95
+}

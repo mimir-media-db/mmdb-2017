@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tulipani_love_honour_and_a_bicycle_2017",
+  "title": "Tulipani, Love, Honour and a Bicycle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39047748",
+    "imdb": "tt4121610",
+    "tmdb": 471617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-20",
+  "runtime_minutes": 90
+}

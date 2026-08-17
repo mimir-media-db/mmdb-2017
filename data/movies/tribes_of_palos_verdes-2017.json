@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tribes_of_palos_verdes_2017",
+  "title": "The Tribes of Palos Verdes",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905287",
+    "imdb": "tt1507571",
+    "tmdb": 324562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-06"
+}

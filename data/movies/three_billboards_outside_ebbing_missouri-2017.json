@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_billboards_outside_ebbing_missouri_2017",
+  "title": "Three Billboards Outside Ebbing, Missouri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24053277",
+    "imdb": "tt5027774",
+    "tmdb": 359940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-04",
+  "runtime_minutes": 115
+}

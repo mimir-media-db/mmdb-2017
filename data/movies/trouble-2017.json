@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_2017",
+  "title": "Trouble",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674090",
+    "imdb": "tt5689632",
+    "tmdb": 456648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08"
+}

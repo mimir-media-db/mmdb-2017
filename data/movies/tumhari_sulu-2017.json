@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tumhari_sulu_2017",
+  "title": "Tumhari Sulu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29025265",
+    "imdb": "tt6791730",
+    "tmdb": 460844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-01"
+}

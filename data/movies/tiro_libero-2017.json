@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiro_libero_2017",
+  "title": "Tiro libero",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854281",
+    "imdb": "tt7382572",
+    "tmdb": 476979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

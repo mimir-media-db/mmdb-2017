@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turn_it_around_the_story_of_east_bay_punk_2017",
+  "title": "Turn It Around: The Story of East Bay Punk",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60773071",
+    "imdb": "tt3913194",
+    "tmdb": 459617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

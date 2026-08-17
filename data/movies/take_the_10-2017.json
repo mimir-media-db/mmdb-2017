@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_the_10_2017",
+  "title": "Take the 10",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840460",
+    "imdb": "tt5792472",
+    "tmdb": 433245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 80
+}

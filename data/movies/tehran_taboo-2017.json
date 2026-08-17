@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tehran_taboo_2017",
+  "title": "Tehran Taboo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29585785",
+    "imdb": "tt5584796",
+    "tmdb": 453364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-20",
+  "runtime_minutes": 96
+}

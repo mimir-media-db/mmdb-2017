@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thondimuthalum_driksakshiyum_2017",
+  "title": "Thondimuthalum Driksakshiyum",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28127585",
+    "imdb": "tt5906392",
+    "tmdb": 459719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-30"
+}

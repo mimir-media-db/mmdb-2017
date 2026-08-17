@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twin_detective_2017",
+  "title": "Twin Detective",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136689348",
+    "tmdb": 797808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-20",
+  "runtime_minutes": 73
+}

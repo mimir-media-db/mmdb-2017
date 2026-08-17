@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tatara_samurai_2017",
+  "title": "Tatara Samurai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24860438",
+    "imdb": "tt4197474",
+    "tmdb": 411607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-20",
+  "runtime_minutes": 135
+}

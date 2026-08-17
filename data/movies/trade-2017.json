@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trade_2017",
+  "title": "The Trade",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60173727",
+    "imdb": "tt5340626",
+    "tmdb": 427520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

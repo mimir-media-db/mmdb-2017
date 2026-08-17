@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_summers_2017",
+  "title": "Three Summers",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34411664",
+    "imdb": "tt6046754",
+    "tmdb": 466380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-02"
+}

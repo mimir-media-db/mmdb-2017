@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_test_case_2017",
+  "title": "The Test Case",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30603350",
+    "imdb": "tt6868278"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-30"
+}

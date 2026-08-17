@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thane_of_east_county_2017",
+  "title": "Thane of East County",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28548559",
+    "imdb": "tt3856302",
+    "tmdb": 435663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-12",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tammisunnuntai_1918_2017",
+  "title": "Tammisunnuntai 1918",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65245222",
+    "imdb": "tt7611606",
+    "tmdb": 486449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-24",
+  "runtime_minutes": 50
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_das_gegenteil_von_grau_2017",
+  "title": "Das Gegenteil von Grau",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29652813",
+    "imdb": "tt6795344",
+    "tmdb": 454876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23"
+}

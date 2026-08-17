@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deuces_2017",
+  "title": "Deuces",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095437",
+    "imdb": "tt5081606",
+    "tmdb": 450308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-16"
+}

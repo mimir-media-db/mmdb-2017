@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_rebellie_van_lafras_verwey_2017",
+  "title": "Die Rebellie van Lafras Verwey",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245315",
+    "imdb": "tt5693190",
+    "tmdb": 469560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 109
+}

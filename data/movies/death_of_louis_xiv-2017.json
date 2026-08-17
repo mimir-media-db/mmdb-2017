@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_louis_xiv_2017",
+  "title": "The Death of Louis XIV",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24936887",
+    "imdb": "tt5129510",
+    "tmdb": 371859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_gabe_zu_heilen_2017",
+  "title": "Die Gabe zu heilen",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28758247",
+    "imdb": "tt7710806",
+    "tmdb": 446308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-23"
+}

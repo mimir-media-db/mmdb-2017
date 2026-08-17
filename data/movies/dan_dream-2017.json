@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dan_dream_2017",
+  "title": "Dan Dream",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28378142",
+    "imdb": "tt5822690",
+    "tmdb": 442438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 90
+}

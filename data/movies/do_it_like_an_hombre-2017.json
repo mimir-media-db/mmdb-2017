@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_do_it_like_an_hombre_2017",
+  "title": "Do It Like an Hombre",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42529702",
+    "imdb": "tt6046212",
+    "tmdb": 460316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11",
+  "runtime_minutes": 109
+}

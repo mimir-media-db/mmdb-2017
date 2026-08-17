@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dayavittu_gamanisi_2017",
+  "title": "Dayavittu Gamanisi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39659606",
+    "imdb": "tt7342028",
+    "tmdb": 716328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20"
+}

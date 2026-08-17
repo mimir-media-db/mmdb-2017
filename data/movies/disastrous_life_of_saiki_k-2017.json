@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disastrous_life_of_saiki_k_2017",
+  "title": "The Disastrous Life of Saiki K.",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30606456",
+    "imdb": "tt4773438",
+    "tmdb": 447185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-21",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_damat_takimi_2017",
+  "title": "Damat Takimi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39681283",
+    "imdb": "tt7526338",
+    "tmdb": 474718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20",
+  "runtime_minutes": 109
+}

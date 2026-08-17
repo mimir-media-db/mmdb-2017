@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deportation_class_2017",
+  "title": "Deportation Class",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29981654",
+    "imdb": "tt6263740",
+    "tmdb": 451015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-01"
+}

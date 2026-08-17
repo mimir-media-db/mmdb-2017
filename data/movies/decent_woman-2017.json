@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_decent_woman_2017",
+  "title": "A Decent Woman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36219008",
+    "imdb": "tt5679536",
+    "tmdb": 411730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01"
+}

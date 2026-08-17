@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_romance_2017",
+  "title": "Dirty Romance",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28700252",
+    "imdb": "tt4527624",
+    "tmdb": 346562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-05"
+}

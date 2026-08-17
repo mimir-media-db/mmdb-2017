@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_do_not_resist_2017",
+  "title": "Do Not Resist",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24631454",
+    "imdb": "tt5557976",
+    "tmdb": 390296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-23",
+  "runtime_minutes": 75
+}

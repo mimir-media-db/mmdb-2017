@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_demon_inside_2017",
+  "title": "The Demon Inside",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131592856",
+    "imdb": "tt4458946",
+    "tmdb": 581252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-16"
+}

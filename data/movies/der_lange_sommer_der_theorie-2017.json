@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_lange_sommer_der_theorie_2017",
+  "title": "Der lange Sommer der Theorie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43078147",
+    "imdb": "tt6982508",
+    "tmdb": 465028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-23",
+  "runtime_minutes": 82
+}

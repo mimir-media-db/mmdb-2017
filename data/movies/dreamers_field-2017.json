@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamers_field_2017",
+  "title": "The Dreamers' Field",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31197858",
+    "imdb": "tt5839570",
+    "tmdb": 446885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-15",
+  "runtime_minutes": 65
+}

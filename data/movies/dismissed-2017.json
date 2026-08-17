@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dismissed_2017",
+  "title": "Dismissed",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60851104",
+    "imdb": "tt5039994",
+    "tmdb": 398588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

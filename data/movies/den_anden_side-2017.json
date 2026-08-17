@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_den_anden_side_2017",
+  "title": "Den anden side",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33529991",
+    "imdb": "tt6435274",
+    "tmdb": 455119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 90
+}

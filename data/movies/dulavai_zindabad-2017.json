@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dulavai_zindabad_2017",
+  "title": "Dulavai Zindabad",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31726871",
+    "imdb": "tt6543310"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20"
+}

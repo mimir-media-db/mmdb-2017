@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devotion_of_suspect_x_2017",
+  "title": "The Devotion of Suspect X",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28948604",
+    "imdb": "tt3401392",
+    "tmdb": 446076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-31",
+  "runtime_minutes": 112
+}

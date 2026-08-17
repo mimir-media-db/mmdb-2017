@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dort_kose_2017",
+  "title": "Dört Köşe",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35718279",
+    "imdb": "tt7882406",
+    "tmdb": 477076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-06"
+}

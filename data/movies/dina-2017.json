@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dina_2017",
+  "title": "Dina",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30765975",
+    "imdb": "tt6333058",
+    "tmdb": 432607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 103
+}

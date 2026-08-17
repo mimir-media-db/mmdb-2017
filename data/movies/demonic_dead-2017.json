@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_demonic_dead_2017",
+  "title": "The Demonic Dead",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106948867",
+    "imdb": "tt6069336",
+    "tmdb": 619116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-17"
+}

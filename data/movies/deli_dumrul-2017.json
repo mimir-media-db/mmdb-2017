@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deli_dumrul_2017",
+  "title": "Deli Dumrul",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35551275",
+    "imdb": "tt7282952",
+    "tmdb": 474712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01",
+  "runtime_minutes": 105
+}

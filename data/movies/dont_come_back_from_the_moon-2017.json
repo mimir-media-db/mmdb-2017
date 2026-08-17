@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_come_back_from_the_moon_2017",
+  "title": "Don't Come Back from the Moon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42049252",
+    "imdb": "tt5249200",
+    "tmdb": 459970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-20"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_devenir_il_ou_elle_2017",
+  "title": "Devenir il ou elle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125869346",
+    "imdb": "tt6461692"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

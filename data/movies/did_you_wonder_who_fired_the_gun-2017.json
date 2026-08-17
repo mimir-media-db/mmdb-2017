@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_did_you_wonder_who_fired_the_gun_2017",
+  "title": "Did You Wonder Who Fired the Gun?",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100453221",
+    "imdb": "tt6370614",
+    "tmdb": 445238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

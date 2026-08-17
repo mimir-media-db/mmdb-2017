@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dangal_2017",
+  "title": "Dangal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20762668",
+    "imdb": "tt5074352",
+    "tmdb": 360814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-24",
+  "runtime_minutes": 161
+}

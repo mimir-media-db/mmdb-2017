@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_worry_2017",
+  "title": "Don’t Worry",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28700048",
+    "tmdb": 467768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-05",
+  "runtime_minutes": 61
+}

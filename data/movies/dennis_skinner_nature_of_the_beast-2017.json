@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dennis_skinner_nature_of_the_beast_2017",
+  "title": "Dennis Skinner: Nature of the Beast",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463414",
+    "imdb": "tt6171452",
+    "tmdb": 444606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-17",
+  "runtime_minutes": 106
+}

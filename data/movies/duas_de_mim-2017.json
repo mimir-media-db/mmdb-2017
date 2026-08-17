@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duas_de_mim_2017",
+  "title": "Duas de Mim",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61002555",
+    "imdb": "tt5909218",
+    "tmdb": 478397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 83
+}

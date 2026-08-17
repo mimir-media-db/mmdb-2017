@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamed_path_2017",
+  "title": "The Dreamed Path",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29574160",
+    "imdb": "tt5025550",
+    "tmdb": 376312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 81
+}

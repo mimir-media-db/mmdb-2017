@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_beethoven_2017",
+  "title": "Dancing Beethoven",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29051801",
+    "imdb": "tt6194934",
+    "tmdb": 452299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-13",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_sam_mulaneys_burden_2017",
+  "title": "Dr. Sam Mulaney's Burden",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115640651",
+    "imdb": "tt7895762",
+    "tmdb": 734950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_destruction_los_angeles_2017",
+  "title": "Destruction: Los Angeles",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106391122",
+    "imdb": "tt6422938",
+    "tmdb": 467342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

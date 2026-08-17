@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_park_2017",
+  "title": "Dog Park",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130349139",
+    "imdb": "tt7070486",
+    "tmdb": 655767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

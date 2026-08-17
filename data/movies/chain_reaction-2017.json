@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chain_reaction_2017",
+  "title": "Chain Reaction",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672790",
+    "imdb": "tt7201536",
+    "tmdb": 499793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-08"
+}

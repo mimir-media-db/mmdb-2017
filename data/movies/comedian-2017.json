@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comedian_2017",
+  "title": "The Comedian",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23767849",
+    "imdb": "tt1967614",
+    "tmdb": 369524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-31",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charlie_en_hannah_gaan_uit_2017",
+  "title": "Charlie en Hannah gaan uit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108701182",
+    "imdb": "tt6218996",
+    "tmdb": 481808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conny_plank_the_potential_of_noise_2017",
+  "title": "Conny Plank – The Potential of Noise",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39486970",
+    "imdb": "tt4979826",
+    "tmdb": 483211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-28",
+  "runtime_minutes": 92
+}

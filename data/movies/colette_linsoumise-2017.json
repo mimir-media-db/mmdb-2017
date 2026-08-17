@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colette_linsoumise_2017",
+  "title": "Colette, l'insoumise",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136084911",
+    "imdb": "tt10219342",
+    "tmdb": 596960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 53
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_counters_2017",
+  "title": "Counters",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738536",
+    "imdb": "tt6985596",
+    "tmdb": 489303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

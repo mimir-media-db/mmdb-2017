@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cat_kapi_ask_2017",
+  "title": "Çat Kapi Ask",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45603671",
+    "imdb": "tt7287656",
+    "tmdb": 477340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-29",
+  "runtime_minutes": 92
+}

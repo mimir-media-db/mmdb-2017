@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cahaya_cinta_pesantren_2017",
+  "title": "Cahaya Cinta Pesantren",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25469684",
+    "imdb": "tt15092716",
+    "tmdb": 587169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 144
+}

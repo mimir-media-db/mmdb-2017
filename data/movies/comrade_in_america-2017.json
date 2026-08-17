@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comrade_in_america_2017",
+  "title": "Comrade in America",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28974067",
+    "imdb": "tt5925772",
+    "tmdb": 439601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05",
+  "runtime_minutes": 134
+}

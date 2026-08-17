@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coyote_2017",
+  "title": "Coyote",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28842798",
+    "imdb": "tt5641832",
+    "tmdb": 442370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-14",
+  "runtime_minutes": 126
+}

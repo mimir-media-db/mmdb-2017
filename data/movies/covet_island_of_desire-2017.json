@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_covet_island_of_desire_2017",
+  "title": "Covet: Island of Desire",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840749",
+    "imdb": "tt26862235",
+    "tmdb": 458083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-04"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chevalier_2017",
+  "title": "Chevalier",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20856862",
+    "imdb": "tt3526706",
+    "tmdb": 314220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01",
+  "runtime_minutes": 104
+}

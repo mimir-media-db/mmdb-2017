@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cream_2017",
+  "title": "Cream",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98131597",
+    "imdb": "tt6601152",
+    "tmdb": 443176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 5
+}

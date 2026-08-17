@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_cenaze_isleri_2017",
+  "title": "Cenaze İşleri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35568772"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08"
+}

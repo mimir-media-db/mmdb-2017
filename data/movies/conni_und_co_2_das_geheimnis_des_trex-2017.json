@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conni_und_co_2_das_geheimnis_des_trex_2017",
+  "title": "Conni und Co 2 - Das Geheimnis des T-Rex",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26504410",
+    "imdb": "tt6284544",
+    "tmdb": 429976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 96
+}

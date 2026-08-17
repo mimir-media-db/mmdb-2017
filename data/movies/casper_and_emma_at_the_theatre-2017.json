@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casper_and_emma_at_the_theatre_2017",
+  "title": "Casper and Emma at the Theatre",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106774342",
+    "imdb": "tt6403668",
+    "tmdb": 473392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-27",
+  "runtime_minutes": 81
+}

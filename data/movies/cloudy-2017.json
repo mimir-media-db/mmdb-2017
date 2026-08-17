@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cloudy_2017",
+  "title": "Cloudy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48920721",
+    "imdb": "tt7010242",
+    "tmdb": 487622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-10"
+}

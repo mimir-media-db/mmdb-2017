@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clair_obscur_2017",
+  "title": "Clair Obscur",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27865927",
+    "imdb": "tt4373956",
+    "tmdb": 412200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07",
+  "runtime_minutes": 105
+}

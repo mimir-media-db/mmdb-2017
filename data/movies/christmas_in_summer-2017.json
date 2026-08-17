@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_in_summer_2017",
+  "title": "A Christmas in summer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116205406",
+    "imdb": "tt7569470",
+    "tmdb": 490784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

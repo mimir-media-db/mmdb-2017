@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cut_shoot_kill_2017",
+  "title": "Cut Shoot Kill",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65301983",
+    "imdb": "tt5667696",
+    "tmdb": 436369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 98
+}

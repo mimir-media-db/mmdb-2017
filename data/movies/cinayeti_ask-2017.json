@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinayeti_ask_2017",
+  "title": "Cinayet-i Aşk",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33110057",
+    "imdb": "tt7843986",
+    "tmdb": 567051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-28"
+}

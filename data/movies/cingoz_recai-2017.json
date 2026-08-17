@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cingoz_recai_2017",
+  "title": "Cingoz Recai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39643795",
+    "imdb": "tt7218732",
+    "tmdb": 474716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-12",
+  "runtime_minutes": 113
+}

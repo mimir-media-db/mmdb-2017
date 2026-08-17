@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cool_mama_2017",
+  "title": "Cool Mama",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65924978",
+    "imdb": "tt7264064"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-07",
+  "runtime_minutes": 79
+}

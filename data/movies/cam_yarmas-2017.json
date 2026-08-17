@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cam_yarmas_2017",
+  "title": "Çam Yarması",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29572885",
+    "imdb": "tt8555446",
+    "tmdb": 511074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05"
+}

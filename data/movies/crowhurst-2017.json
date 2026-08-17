@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crowhurst_2017",
+  "title": "Crowhurst",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42808989",
+    "imdb": "tt4791984",
+    "tmdb": 353828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-15",
+  "runtime_minutes": 103
+}

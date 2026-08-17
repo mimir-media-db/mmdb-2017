@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cat_skin_2017",
+  "title": "Cat Skin",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56304070",
+    "imdb": "tt4264716",
+    "tmdb": 487624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 97
+}

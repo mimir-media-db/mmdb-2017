@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ceremony_the_return_of_friedrich_engels_2017",
+  "title": "Ceremony: The Return of Friedrich Engels",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642110",
+    "imdb": "tt7614788",
+    "tmdb": 533421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-05",
+  "runtime_minutes": 60
+}

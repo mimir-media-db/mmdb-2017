@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_casa_por_carcel_2017",
+  "title": "Casa por cárcel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66011186"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

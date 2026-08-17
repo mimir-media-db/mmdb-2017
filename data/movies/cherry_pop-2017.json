@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_pop_2017",
+  "title": "Cherry Pop",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45269577",
+    "imdb": "tt4807950",
+    "tmdb": 442896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22",
+  "runtime_minutes": 79
+}

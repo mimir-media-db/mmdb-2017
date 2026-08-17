@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chase_2017",
+  "title": "The Chase",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28700502",
+    "imdb": "tt8088944",
+    "tmdb": 488621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-29",
+  "runtime_minutes": 110
+}

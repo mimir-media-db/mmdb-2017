@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chinese_lives_of_uli_sigg_2017",
+  "title": "The Chinese Lives of Uli Sigg",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24708072",
+    "imdb": "tt5624276",
+    "tmdb": 409268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-03",
+  "runtime_minutes": 93
+}

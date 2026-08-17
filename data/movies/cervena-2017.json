@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cervena_2017",
+  "title": "Cervena",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46078945",
+    "imdb": "tt7447114",
+    "tmdb": 604655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-30",
+  "runtime_minutes": 83
+}

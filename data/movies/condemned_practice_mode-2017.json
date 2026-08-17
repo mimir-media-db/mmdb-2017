@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_condemned_practice_mode_2017",
+  "title": "Condemned Practice Mode",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48926457",
+    "imdb": "tt7147464",
+    "tmdb": 470679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11"
+}

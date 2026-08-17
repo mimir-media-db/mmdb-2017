@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casper_and_emma_go_hiking_2017",
+  "title": "Casper and Emma Go Hiking",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106774335",
+    "imdb": "tt5514914",
+    "tmdb": 459708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-10",
+  "runtime_minutes": 85
+}

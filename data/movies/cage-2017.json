@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cage_2017",
+  "title": "The Cage",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41016691",
+    "imdb": "tt7421526",
+    "tmdb": 478627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22",
+  "runtime_minutes": 110
+}

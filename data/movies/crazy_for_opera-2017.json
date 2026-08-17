@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_for_opera_2017",
+  "title": "Crazy for Opera",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29982210",
+    "imdb": "tt6469224",
+    "tmdb": 457068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-01",
+  "runtime_minutes": 90
+}

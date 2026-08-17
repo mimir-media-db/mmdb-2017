@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caccia_al_tesoro_2017",
+  "title": "Caccia al tesoro",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48804499",
+    "imdb": "tt6918790",
+    "tmdb": 468199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-23",
+  "runtime_minutes": 90
+}

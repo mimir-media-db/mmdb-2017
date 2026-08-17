@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_kings_of_atlantis",
+  "title": "Kings of Atlantis",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30689588"
+  },
+  "last_updated": "2026-08-17"
+}

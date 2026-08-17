@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kahogo_no_kahoko",
+  "title": "Kahogo no Kahoko",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q33628305",
+    "imdb": "tt7066036",
+    "tmdb": 74550
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

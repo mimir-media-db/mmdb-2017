@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kati_horismena_palikaria",
+  "title": "Kati horismena palikaria",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q61989543",
+    "imdb": "tt7411714",
+    "tmdb": 127199
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 80
+}

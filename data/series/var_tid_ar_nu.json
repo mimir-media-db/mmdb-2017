@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_var_tid_ar_nu",
+  "title": "Vår tid är nu",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q28154022",
+    "imdb": "tt5603140",
+    "tmdb": 74731
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

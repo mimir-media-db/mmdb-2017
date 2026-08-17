@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_una_historia_necesaria",
+  "title": "Una historia necesaria",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q42912728",
+    "imdb": "tt7456158",
+    "tmdb": 106478
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ufak_tefek_cinayetler",
+  "title": "Ufak Tefek Cinayetler",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q42799699",
+    "imdb": "tt7535994",
+    "tmdb": 74660
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 45
+}

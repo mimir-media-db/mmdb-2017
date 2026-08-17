@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_u_svom_filmu",
+  "title": "U svom filmu",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124827524",
+    "imdb": "tt31947920"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 218
+}

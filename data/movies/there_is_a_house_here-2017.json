@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_there_is_a_house_here_2017",
+  "title": "There Is a House Here",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39049635",
+    "imdb": "tt7696328",
+    "tmdb": 475361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

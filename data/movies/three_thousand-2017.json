@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_thousand_2017",
+  "title": "Three Thousand",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48314137",
+    "imdb": "tt18557456",
+    "tmdb": 499458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

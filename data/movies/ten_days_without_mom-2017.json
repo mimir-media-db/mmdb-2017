@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ten_days_without_mom_2017",
+  "title": "Ten Days Without Mom",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28503654",
+    "imdb": "tt6629064",
+    "tmdb": 467525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

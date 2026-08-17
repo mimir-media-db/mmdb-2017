@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thor_ragnarok_2017",
+  "title": "Thor: Ragnarok",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22665878",
+    "imdb": "tt3501632",
+    "tmdb": 284053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taawdo_the_sunlight_2017",
+  "title": "Taawdo The Sunlight",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42530194",
+    "imdb": "tt7302010",
+    "tmdb": 1213772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

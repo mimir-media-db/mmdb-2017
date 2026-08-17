@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thirst_street_2017",
+  "title": "Thirst Street",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30101332",
+    "imdb": "tt5802404",
+    "tmdb": 426259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thappu_thanda_2017",
+  "title": "Thappu Thanda",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29831812",
+    "imdb": "tt7201238",
+    "tmdb": 475004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

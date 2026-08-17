@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ti_saddhya_kay_karte_2017",
+  "title": "Ti Saddhya Kay Karte",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28127574",
+    "imdb": "tt6267944",
+    "tmdb": 564221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

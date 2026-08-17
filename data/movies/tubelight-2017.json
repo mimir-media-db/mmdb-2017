@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tubelight_2017",
+  "title": "Tubelight",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26267945",
+    "imdb": "tt5882970",
+    "tmdb": 441881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 136
+}

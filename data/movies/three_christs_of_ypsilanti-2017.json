@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_christs_of_ypsilanti_2017",
+  "title": "The Three Christs of Ypsilanti",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27962481",
+    "imdb": "tt5706370",
+    "tmdb": 418533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 117
+}

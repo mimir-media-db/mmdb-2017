@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_team_5_2017",
+  "title": "Team 5",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31700844",
+    "imdb": "tt7160938",
+    "tmdb": 466180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

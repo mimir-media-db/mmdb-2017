@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_true_to_the_game_2017",
+  "title": "True to the Game",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528186",
+    "imdb": "tt5116504",
+    "tmdb": 467432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 108
+}

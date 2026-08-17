@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tera_intezaar_2017",
+  "title": "Tera Intezaar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590067",
+    "imdb": "tt5784852",
+    "tmdb": 481738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

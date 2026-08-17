@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_to_spain_2017",
+  "title": "The Trip to Spain",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38769920",
+    "imdb": "tt6193424",
+    "tmdb": 426264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

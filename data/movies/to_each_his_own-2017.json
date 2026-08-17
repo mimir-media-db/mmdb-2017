@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_to_each_his_own_2017",
+  "title": "To Each His Own",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30933783",
+    "imdb": "tt5922578",
+    "tmdb": 474626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

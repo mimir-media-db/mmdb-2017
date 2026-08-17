@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tough_guys_2017",
+  "title": "Tough Guys",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55636067",
+    "imdb": "tt5023566",
+    "tmdb": 476853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_boy_second_generation_2017",
+  "title": "The Invisible Boy – Second Generation",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303083",
+    "imdb": "tt5981944",
+    "tmdb": 433150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

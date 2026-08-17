@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_innocent_of_blood_2017",
+  "title": "Innocent of Blood",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24873658",
+    "imdb": "tt6908978",
+    "tmdb": 590207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

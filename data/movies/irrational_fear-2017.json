@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irrational_fear_2017",
+  "title": "Irrational Fear",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30601378",
+    "imdb": "tt6155600",
+    "tmdb": 495303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

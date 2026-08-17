@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_club_dei_27_2017",
+  "title": "Il Club dei 27",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303240",
+    "imdb": "tt6129124",
+    "tmdb": 834874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 63
+}

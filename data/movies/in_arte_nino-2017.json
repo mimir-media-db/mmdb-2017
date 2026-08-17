@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_arte_nino_2017",
+  "title": "In arte Nino",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303221",
+    "imdb": "tt6316724",
+    "tmdb": 477253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

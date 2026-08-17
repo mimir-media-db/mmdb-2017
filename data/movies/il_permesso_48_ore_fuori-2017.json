@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_permesso_48_ore_fuori_2017",
+  "title": "Il permesso - 48 ore fuori",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29034230",
+    "imdb": "tt5746178",
+    "tmdb": 428988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

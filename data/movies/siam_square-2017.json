@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siam_square_2017",
+  "title": "Siam Square",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29996004",
+    "imdb": "tt6750506",
+    "tmdb": 445981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 113
+}

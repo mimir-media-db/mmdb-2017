@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schule_schule_die_zeit_nach_berg_fidel_2017",
+  "title": "Schule, Schule - Die Zeit nach Berg Fidel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35234618",
+    "imdb": "tt6596752",
+    "tmdb": 475672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-21",
+  "runtime_minutes": 98
+}

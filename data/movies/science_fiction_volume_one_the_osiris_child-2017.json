@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_science_fiction_volume_one_the_osiris_child_2017",
+  "title": "Science Fiction Volume One: The Osiris Child",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28768886",
+    "imdb": "tt4536768",
+    "tmdb": 354282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11",
+  "runtime_minutes": 99
+}

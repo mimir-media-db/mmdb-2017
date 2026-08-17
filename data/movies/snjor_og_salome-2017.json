@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snjor_og_salome_2017",
+  "title": "Snjór og Salóme",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113001189",
+    "imdb": "tt5711254",
+    "tmdb": 445754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-07"
+}

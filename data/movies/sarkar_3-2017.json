@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sarkar_3_2017",
+  "title": "Sarkar 3",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590086",
+    "imdb": "tt5742874",
+    "tmdb": 441868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-17",
+  "runtime_minutes": 130
+}

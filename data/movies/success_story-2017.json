@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_success_story_2017",
+  "title": "Success Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71269465",
+    "imdb": "tt7320478",
+    "tmdb": 481156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-02"
+}

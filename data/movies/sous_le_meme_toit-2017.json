@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sous_le_meme_toit_2017",
+  "title": "Sous le même toit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807424",
+    "imdb": "tt5969846",
+    "tmdb": 426962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_star_raiders_the_adventures_of_saber_raine_2017",
+  "title": "Star Raiders: The Adventures of Saber Raine",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048497",
+    "imdb": "tt2039380",
+    "tmdb": 433829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-08"
+}

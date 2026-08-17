@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sinyalciler_son_aksam_yemegi_2017",
+  "title": "Sinyalciler: Son Akşam Yemeği",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61077725",
+    "imdb": "tt7023596",
+    "tmdb": 466056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-16"
+}

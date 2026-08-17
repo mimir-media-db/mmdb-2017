@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sarah_silverman_a_speck_of_dust_2017",
+  "title": "Sarah Silverman A Speck of Dust",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100450",
+    "imdb": "tt6948354",
+    "tmdb": 459295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-30"
+}

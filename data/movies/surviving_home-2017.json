@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surviving_home_2017",
+  "title": "Surviving Home",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58223847",
+    "imdb": "tt3480136",
+    "tmdb": 512072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-11",
+  "runtime_minutes": 85
+}

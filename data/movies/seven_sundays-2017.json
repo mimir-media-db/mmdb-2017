@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_sundays_2017",
+  "title": "Seven Sundays",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42757841",
+    "imdb": "tt7502214",
+    "tmdb": 480651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-11",
+  "runtime_minutes": 128
+}

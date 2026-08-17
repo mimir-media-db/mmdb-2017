@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_street_cat_named_bob_2017",
+  "title": "A Street Cat Named Bob",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21872268",
+    "imdb": "tt3606888",
+    "tmdb": 404378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 96
+}

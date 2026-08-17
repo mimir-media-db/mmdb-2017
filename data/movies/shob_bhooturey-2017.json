@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shob_bhooturey_2017",
+  "title": "Shob Bhooturey",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39060155",
+    "imdb": "tt7791106",
+    "tmdb": 495120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08"
+}

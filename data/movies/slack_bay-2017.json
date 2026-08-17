@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slack_bay_2017",
+  "title": "Slack Bay",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23817747",
+    "imdb": "tt4726636",
+    "tmdb": 371865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26",
+  "runtime_minutes": 122
+}

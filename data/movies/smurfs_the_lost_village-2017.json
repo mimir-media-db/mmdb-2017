@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smurfs_the_lost_village_2017",
+  "title": "Smurfs: The Lost Village",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15985075",
+    "imdb": "tt2398241",
+    "tmdb": 137116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 90
+}

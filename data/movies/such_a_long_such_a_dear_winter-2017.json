@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_such_a_long_such_a_dear_winter_2017",
+  "title": "Such a Long, Such a Dear Winter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575552",
+    "imdb": "tt19894798",
+    "tmdb": 971410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 67
+}

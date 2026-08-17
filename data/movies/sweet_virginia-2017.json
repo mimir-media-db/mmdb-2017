@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_virginia_2017",
+  "title": "Sweet Virginia",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39071361",
+    "imdb": "tt2582498",
+    "tmdb": 413992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-21"
+}

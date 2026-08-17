@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seeds_of_violence_2017",
+  "title": "The Seeds Of Violence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105681",
+    "imdb": "tt7478284",
+    "tmdb": 451924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

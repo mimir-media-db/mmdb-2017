@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sac_la_mort_2017",
+  "title": "Sac la mort",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75017603",
+    "imdb": "tt5487218",
+    "tmdb": 396934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skokan_2017",
+  "title": "Skokan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46078983",
+    "imdb": "tt5271340",
+    "tmdb": 481623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08",
+  "runtime_minutes": 94
+}

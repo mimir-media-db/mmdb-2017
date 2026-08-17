@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_share_everything_2017",
+  "title": "Sisters! Share everything",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45315400",
+    "imdb": "tt5494984",
+    "tmdb": 436332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07"
+}

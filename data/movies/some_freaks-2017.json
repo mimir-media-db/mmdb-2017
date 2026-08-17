@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_some_freaks_2017",
+  "title": "Some Freaks",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302453",
+    "imdb": "tt3283864",
+    "tmdb": 402464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04"
+}

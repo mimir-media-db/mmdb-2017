@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_hunter_2017",
+  "title": "Sky Hunter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30645765",
+    "imdb": "tt6908536",
+    "tmdb": 478826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29"
+}

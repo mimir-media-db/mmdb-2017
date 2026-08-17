@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shockwave_2017",
+  "title": "Shockwave",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61099880",
+    "imdb": "tt6727598",
+    "tmdb": 479753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-02"
+}

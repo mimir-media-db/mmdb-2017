@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_suburban_love_story_2017",
+  "title": "A Suburban Love Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600344",
+    "imdb": "tt4588122"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

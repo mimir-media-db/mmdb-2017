@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samui_song_2017",
+  "title": "Samui Song",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274094",
+    "imdb": "tt6596796",
+    "tmdb": 472644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 108
+}

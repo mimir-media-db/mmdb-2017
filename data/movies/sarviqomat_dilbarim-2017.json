@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sarviqomat_dilbarim_2017",
+  "title": "Sarviqomat dilbarim",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122879640",
+    "imdb": "tt29309370",
+    "tmdb": 1543485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-17",
+  "runtime_minutes": 105
+}

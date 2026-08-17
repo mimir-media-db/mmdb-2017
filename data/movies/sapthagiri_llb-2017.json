@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sapthagiri_llb_2017",
+  "title": "Sapthagiri LLB",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671332",
+    "imdb": "tt9729774",
+    "tmdb": 492085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07"
+}

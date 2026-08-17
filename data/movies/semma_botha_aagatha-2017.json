@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_semma_botha_aagatha_2017",
+  "title": "Semma Botha Aagatha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24887455",
+    "imdb": "tt7482302",
+    "tmdb": 412455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-01"
+}

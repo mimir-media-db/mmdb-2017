@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_security_ugalugalan_2017",
+  "title": "Security Ugal-ugalan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63614984",
+    "imdb": "tt11646320",
+    "tmdb": 428509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-19",
+  "runtime_minutes": 98
+}

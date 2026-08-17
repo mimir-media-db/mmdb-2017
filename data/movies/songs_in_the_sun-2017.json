@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_songs_in_the_sun_2017",
+  "title": "Songs in the Sun",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47459297",
+    "imdb": "tt7144900",
+    "tmdb": 515653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-09",
+  "runtime_minutes": 69
+}

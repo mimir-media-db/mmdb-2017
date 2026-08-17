@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_so_close_shig_2017",
+  "title": "So Close Shig",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131629743",
+    "imdb": "tt5737044"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soseongri_2017",
+  "title": "Soseongri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61095142",
+    "imdb": "tt8362782",
+    "tmdb": 527022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

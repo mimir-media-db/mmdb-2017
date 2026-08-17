@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seth_rogens_hilarity_for_charity_2017",
+  "title": "Seth Rogen's Hilarity for Charity",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56071283",
+    "imdb": "tt8178116",
+    "tmdb": 516525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

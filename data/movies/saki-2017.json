@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saki_2017",
+  "title": "Saki",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28224339",
+    "imdb": "tt6027102",
+    "tmdb": 433045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-03"
+}

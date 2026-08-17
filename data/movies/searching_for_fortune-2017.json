@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_searching_for_fortune_2017",
+  "title": "Searching for Fortune",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89784550",
+    "imdb": "tt3025636",
+    "tmdb": 530406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

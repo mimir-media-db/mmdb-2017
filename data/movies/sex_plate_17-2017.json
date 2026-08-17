@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_plate_17_2017",
+  "title": "Sex Plate 17",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105834",
+    "imdb": "tt18568228",
+    "tmdb": 532794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

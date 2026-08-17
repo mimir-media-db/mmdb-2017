@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sheikh_jackson_2017",
+  "title": "Sheikh Jackson",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39047277",
+    "imdb": "tt6953076",
+    "tmdb": 470644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-11",
+  "runtime_minutes": 93
+}

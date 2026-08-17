@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_southern_belle_2017",
+  "title": "Southern Belle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111773571",
+    "imdb": "tt7100408",
+    "tmdb": 480482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

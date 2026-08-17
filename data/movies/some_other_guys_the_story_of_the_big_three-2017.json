@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_some_other_guys_the_story_of_the_big_three_2017",
+  "title": "Some Other Guys: The Story of the Big Three",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123517545",
+    "imdb": "tt3984282",
+    "tmdb": 793279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

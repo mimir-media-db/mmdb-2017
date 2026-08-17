@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_shaggys_showdown_2017",
+  "title": "Scooby-Doo! Shaggy's Showdown",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27941572",
+    "imdb": "tt6425560",
+    "tmdb": 427564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-31",
+  "runtime_minutes": 80
+}

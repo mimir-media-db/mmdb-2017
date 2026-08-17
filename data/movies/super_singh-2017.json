@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_singh_2017",
+  "title": "Super Singh",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30641878",
+    "imdb": "tt5891348",
+    "tmdb": 460738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-16"
+}

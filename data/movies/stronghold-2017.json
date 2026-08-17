@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stronghold_2017",
+  "title": "The Stronghold",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22192695",
+    "imdb": "tt5238240",
+    "tmdb": 434245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-12",
+  "runtime_minutes": 111
+}

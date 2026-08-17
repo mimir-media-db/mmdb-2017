@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stars_80_la_suite_2017",
+  "title": "Stars 80, la suite",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44797343",
+    "imdb": "tt5254154",
+    "tmdb": 395439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-06",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_senjittale_en_kadhala_2017",
+  "title": "Senjittale En Kadhala",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29467936",
+    "imdb": "tt6984772",
+    "tmdb": 453547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-07"
+}

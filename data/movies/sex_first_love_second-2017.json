@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_first_love_second_2017",
+  "title": "Sex First, Love Second",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55730927",
+    "imdb": "tt12684216",
+    "tmdb": 471413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

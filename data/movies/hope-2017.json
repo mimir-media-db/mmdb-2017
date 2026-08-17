@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hope_2017",
+  "title": "Hope",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123766242",
+    "imdb": "tt6786172",
+    "tmdb": 455317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 76
+}

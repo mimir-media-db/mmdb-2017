@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollars_2017",
+  "title": "The Hollars",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150704",
+    "imdb": "tt3714720",
+    "tmdb": 325346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 88
+}

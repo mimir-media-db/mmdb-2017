@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hum_chaar_2017",
+  "title": "Hum Chaar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768193",
+    "imdb": "tt9319812",
+    "tmdb": 584206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

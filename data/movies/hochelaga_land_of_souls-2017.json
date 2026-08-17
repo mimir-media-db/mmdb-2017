@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hochelaga_land_of_souls_2017",
+  "title": "Hochelaga, Land of Souls",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39048922",
+    "imdb": "tt6530104",
+    "tmdb": 473183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-06",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hampstead_2017",
+  "title": "Hampstead",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29913451",
+    "imdb": "tt5153236",
+    "tmdb": 441728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-23",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_is_where_your_heart_is_2017",
+  "title": "Home is Where Your Heart is",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29110213",
+    "imdb": "tt5490310",
+    "tmdb": 436882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-02",
+  "runtime_minutes": 101
+}

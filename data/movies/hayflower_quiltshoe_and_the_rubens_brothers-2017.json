@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hayflower_quiltshoe_and_the_rubens_brothers_2017",
+  "title": "Hayflower, Quiltshoe and the Rubens Brothers",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90698580",
+    "imdb": "tt6591568",
+    "tmdb": 471339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-24",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honnoji_hotel_2017",
+  "title": "Honnōji Hotel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28373586",
+    "imdb": "tt5839938",
+    "tmdb": 469261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-14"
+}

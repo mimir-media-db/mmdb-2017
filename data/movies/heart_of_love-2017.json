@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_love_2017",
+  "title": "Heart of Love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672781",
+    "imdb": "tt6874488",
+    "tmdb": 434848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-01"
+}

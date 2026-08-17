@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haruta_chika_2017",
+  "title": "Haruta & Chika",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27701620",
+    "imdb": "tt5564148",
+    "tmdb": 438553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-04"
+}

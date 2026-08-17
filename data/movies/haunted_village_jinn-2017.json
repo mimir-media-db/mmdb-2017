@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_village_jinn_2017",
+  "title": "The Haunted Village: Jinn",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29572080",
+    "imdb": "tt7225360",
+    "tmdb": 481449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-28",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_2017",
+  "title": "Happy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28865004",
+    "imdb": "tt6646916",
+    "tmdb": 508161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-16"
+}

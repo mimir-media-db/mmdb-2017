@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horrible_woman_2017",
+  "title": "A Horrible Woman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31746318",
+    "imdb": "tt6286796",
+    "tmdb": 480536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-25",
+  "runtime_minutes": 86
+}

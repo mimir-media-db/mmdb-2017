@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hasan_minhaj_homecoming_king_2017",
+  "title": "Hasan Minhaj: Homecoming King",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30049991",
+    "imdb": "tt6900644",
+    "tmdb": 458310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-23"
+}

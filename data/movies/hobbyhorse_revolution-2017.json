@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hobbyhorse_revolution_2017",
+  "title": "Hobbyhorse Revolution",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854215",
+    "imdb": "tt6150944",
+    "tmdb": 454823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

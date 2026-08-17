@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_flow_2017",
+  "title": "Human Flow",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34613674",
+    "imdb": "tt6573444",
+    "tmdb": 468213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01",
+  "runtime_minutes": 140
+}

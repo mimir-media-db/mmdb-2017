@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_halda_2017",
+  "title": "Halda",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31734412",
+    "imdb": "tt5624838",
+    "tmdb": 491422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-01"
+}

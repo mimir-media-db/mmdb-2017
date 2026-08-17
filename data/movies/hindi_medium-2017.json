@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hindi_medium_2017",
+  "title": "Hindi Medium",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957931",
+    "imdb": "tt5764096",
+    "tmdb": 456570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-18",
+  "runtime_minutes": 132
+}

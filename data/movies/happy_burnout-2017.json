@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_burnout_2017",
+  "title": "Happy Burnout",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29054509",
+    "imdb": "tt5584176",
+    "tmdb": 400552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 102
+}

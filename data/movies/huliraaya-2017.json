@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_huliraaya_2017",
+  "title": "Huliraaya",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39046909",
+    "imdb": "tt7412232"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-06"
+}

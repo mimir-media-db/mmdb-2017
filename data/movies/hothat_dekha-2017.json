@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hothat_dekha_2017",
+  "title": "Hothat dekha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62075079",
+    "imdb": "tt6694312"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

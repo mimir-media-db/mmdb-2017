@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_outside_a_baseball_noir_2017",
+  "title": "High & Outside: A Baseball Noir",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120478583",
+    "imdb": "tt2258058",
+    "tmdb": 758366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_again_2017",
+  "title": "Hello Again",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350755",
+    "imdb": "tt3710966",
+    "tmdb": 446289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-08",
+  "runtime_minutes": 105
+}

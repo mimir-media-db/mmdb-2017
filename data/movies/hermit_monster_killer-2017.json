@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hermit_monster_killer_2017",
+  "title": "Hermit: Monster killer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76110494",
+    "imdb": "tt2259908",
+    "tmdb": 422652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-15"
+}

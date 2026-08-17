@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heartbeat_operator_2017",
+  "title": "The Heartbeat Operator",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105783",
+    "imdb": "tt32058233",
+    "tmdb": 493896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

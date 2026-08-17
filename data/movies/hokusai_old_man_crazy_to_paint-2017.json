@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hokusai_old_man_crazy_to_paint_2017",
+  "title": "Hokusai: Old Man Crazy to Paint",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90132587",
+    "imdb": "tt7181498",
+    "tmdb": 460587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-06",
+  "runtime_minutes": 87
+}

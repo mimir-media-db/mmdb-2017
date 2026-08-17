@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_humanity_bureau_2017",
+  "title": "The Humanity Bureau",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29906269",
+    "imdb": "tt6143568",
+    "tmdb": 456048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-14"
+}

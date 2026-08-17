@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_a_hospital_2017",
+  "title": "The Heart of a Hospital",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121792630",
+    "imdb": "tt6273326",
+    "tmdb": 473366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-03"
+}

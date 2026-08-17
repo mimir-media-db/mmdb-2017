@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ondu_motteya_kathe_2017",
+  "title": "Ondu Motteya Kathe",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30673545",
+    "imdb": "tt6620238",
+    "tmdb": 474956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-06"
+}

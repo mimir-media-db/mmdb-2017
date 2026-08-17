@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_open_at_night_2017",
+  "title": "Open at Night",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27962364",
+    "imdb": "tt5252396",
+    "tmdb": 415036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-11"
+}

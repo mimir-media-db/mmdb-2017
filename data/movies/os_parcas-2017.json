@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_os_parcas_2017",
+  "title": "Os Parças",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303118",
+    "imdb": "tt7702334",
+    "tmdb": 488503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-30"
+}

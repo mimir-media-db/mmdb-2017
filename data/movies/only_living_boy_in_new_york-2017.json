@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_only_living_boy_in_new_york_2017",
+  "title": "The Only Living Boy in New York",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30521583",
+    "imdb": "tt0460890",
+    "tmdb": 95608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11"
+}

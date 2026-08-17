@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_offene_wunde_deutscher_film_2017",
+  "title": "Offene Wunde deutscher Film",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29471140",
+    "imdb": "tt6635814",
+    "tmdb": 427857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-17",
+  "runtime_minutes": 116
+}

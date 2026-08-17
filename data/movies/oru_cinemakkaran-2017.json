@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_cinemakkaran_2017",
+  "title": "Oru Cinemakkaran",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30647421",
+    "imdb": "tt6680752",
+    "tmdb": 458504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-24"
+}

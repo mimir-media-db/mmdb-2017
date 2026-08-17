@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_milky_road_2017",
+  "title": "On the Milky Road",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18639593",
+    "imdb": "tt2800340",
+    "tmdb": 255160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12"
+}

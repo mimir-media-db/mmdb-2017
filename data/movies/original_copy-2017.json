@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_original_copy_2017",
+  "title": "Original Copy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28824041",
+    "imdb": "tt4788320",
+    "tmdb": 333833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-09"
+}

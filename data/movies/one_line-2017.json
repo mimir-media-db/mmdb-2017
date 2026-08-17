@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_line_2017",
+  "title": "One Line",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24858895",
+    "imdb": "tt5628332",
+    "tmdb": 442014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-29"
+}

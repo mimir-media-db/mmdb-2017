@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_body_and_soul_2017",
+  "title": "On Body and Soul",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28127581",
+    "imdb": "tt5607714",
+    "tmdb": 436343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-10",
+  "runtime_minutes": 116
+}

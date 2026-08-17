@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_sheki_2017",
+  "title": "Once Upon a Time in Sheki",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110413298",
+    "imdb": "tt9572420",
+    "tmdb": 1329545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-25",
+  "runtime_minutes": 95
+}

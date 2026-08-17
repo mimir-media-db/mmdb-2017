@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ok_jaanu_2017",
+  "title": "Ok Jaanu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23044946",
+    "imdb": "tt5764024",
+    "tmdb": 413882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-13",
+  "runtime_minutes": 135
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_octobre_blanc_2017",
+  "title": "Octobre blanc",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104832984",
+    "imdb": "tt11958516",
+    "tmdb": 923529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 52
+}

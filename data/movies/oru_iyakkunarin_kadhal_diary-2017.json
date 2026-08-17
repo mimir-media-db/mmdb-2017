@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_iyakkunarin_kadhal_diary_2017",
+  "title": "Oru Iyakkunarin Kadhal Diary",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30639062",
+    "imdb": "tt7087926",
+    "tmdb": 1381973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-02"
+}

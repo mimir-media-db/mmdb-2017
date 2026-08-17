@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oltre_il_confine_la_storia_di_ettore_castiglioni_2017",
+  "title": "Oltre il confine - La storia di Ettore Castiglioni",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56323362",
+    "imdb": "tt7330402",
+    "tmdb": 825512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 66
+}

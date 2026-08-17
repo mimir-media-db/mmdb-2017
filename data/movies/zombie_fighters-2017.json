@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_fighters_2017",
+  "title": "Zombie Fighters",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38805033",
+    "imdb": "tt6780894",
+    "tmdb": 460378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-06"
+}

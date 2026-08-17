@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zahradnictvi_rodinny_pritel_2017",
+  "title": "Zahradnictví: Rodinný prítel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897470",
+    "imdb": "tt6806524",
+    "tmdb": 469470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 130
+}

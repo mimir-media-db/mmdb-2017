@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zahradnictvi_napadnik_2017",
+  "title": "Zahradnictví: Nápadník",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897476",
+    "imdb": "tt6807202",
+    "tmdb": 513199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-16",
+  "runtime_minutes": 113
+}

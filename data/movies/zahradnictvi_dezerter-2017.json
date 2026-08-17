@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zahradnictvi_dezerter_2017",
+  "title": "Zahradnictví: Dezertér",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897475",
+    "imdb": "tt6807074",
+    "tmdb": 481740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-28",
+  "runtime_minutes": 115
+}

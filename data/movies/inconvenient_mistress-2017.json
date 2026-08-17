@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inconvenient_mistress_2017",
+  "title": "An Inconvenient Mistress",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60052937",
+    "imdb": "tt7444424",
+    "tmdb": 478603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

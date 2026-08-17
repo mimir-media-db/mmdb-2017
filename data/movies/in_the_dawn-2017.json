@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_dawn_2017",
+  "title": "In the Dawn",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65406344",
+    "imdb": "tt10540854",
+    "tmdb": 617463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ignacio_de_loyola_2017",
+  "title": "Ignacio de Loyola",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26085451",
+    "imdb": "tt5040624",
+    "tmdb": 408323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-13",
+  "runtime_minutes": 118
+}

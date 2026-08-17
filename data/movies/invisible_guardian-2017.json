@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_guardian_2017",
+  "title": "The Invisible Guardian",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28870401",
+    "imdb": "tt4924942",
+    "tmdb": 392207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-03",
+  "runtime_minutes": 129
+}

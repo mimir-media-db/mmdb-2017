@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infinity_baby_2017",
+  "title": "Infinity Baby",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840480",
+    "imdb": "tt5665256",
+    "tmdb": 438500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-11",
+  "runtime_minutes": 80
+}

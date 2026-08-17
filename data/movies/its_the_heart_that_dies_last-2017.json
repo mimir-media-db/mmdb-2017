@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_the_heart_that_dies_last_2017",
+  "title": "It's the Heart That Dies Last",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671605",
+    "imdb": "tt6541904",
+    "tmdb": 451834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-14",
+  "runtime_minutes": 103
+}

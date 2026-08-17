@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_remember_you_2017",
+  "title": "I Remember You",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50660620",
+    "imdb": "tt4966532",
+    "tmdb": 423236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-02",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infiltration_2017",
+  "title": "Infiltration",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597760",
+    "imdb": "tt7173636",
+    "tmdb": 464759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

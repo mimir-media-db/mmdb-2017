@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ingen_tid_for_karlek_en_film_om_johnny_bode_2017",
+  "title": "Ingen tid för kärlek - En film om Johnny Bode",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76345240",
+    "imdb": "tt7585614",
+    "tmdb": 484731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-03",
+  "runtime_minutes": 85
+}

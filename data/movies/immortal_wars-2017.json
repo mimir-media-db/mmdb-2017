@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immortal_wars_2017",
+  "title": "The Immortal Wars",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110465340",
+    "imdb": "tt5259598",
+    "tmdb": 464850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

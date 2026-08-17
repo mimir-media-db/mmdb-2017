@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_kills_2017",
+  "title": "It Kills",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117628370",
+    "imdb": "tt7546024",
+    "tmdb": 488115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 66
+}

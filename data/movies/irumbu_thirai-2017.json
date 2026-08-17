@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irumbu_thirai_2017",
+  "title": "Irumbu Thirai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27962587",
+    "imdb": "tt7179784",
+    "tmdb": 487593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-01"
+}

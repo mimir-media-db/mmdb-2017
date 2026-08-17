@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_battalion_2017",
+  "title": "Invisible Battalion",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56359734",
+    "imdb": "tt11155372",
+    "tmdb": 951723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 89
+}

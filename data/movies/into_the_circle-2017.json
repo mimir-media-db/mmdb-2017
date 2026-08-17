@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_circle_2017",
+  "title": "Into the Circle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109758038",
+    "imdb": "tt8246850",
+    "tmdb": 498954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-10",
+  "runtime_minutes": 86
+}

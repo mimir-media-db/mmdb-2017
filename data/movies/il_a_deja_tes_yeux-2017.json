@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_a_deja_tes_yeux_2017",
+  "title": "Il a déjà tes yeux",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27887602",
+    "imdb": "tt5256722",
+    "tmdb": 398920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-13",
+  "runtime_minutes": 95
+}

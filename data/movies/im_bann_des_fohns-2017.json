@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_bann_des_fohns_2017",
+  "title": "Im Bann des Föhns",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52985947",
+    "imdb": "tt8396422"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-09",
+  "runtime_minutes": 70
+}

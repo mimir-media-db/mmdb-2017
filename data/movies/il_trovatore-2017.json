@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_trovatore_2017",
+  "title": "Il trovatore",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51289518",
+    "imdb": "tt6914234",
+    "tmdb": 446899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-03"
+}

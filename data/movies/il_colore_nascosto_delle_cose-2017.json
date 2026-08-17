@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_colore_nascosto_delle_cose_2017",
+  "title": "Il colore nascosto delle cose",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36130767",
+    "imdb": "tt7120532",
+    "tmdb": 468204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_land_of_wonders_2017",
+  "title": "In The Land Of Wonders",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83498934",
+    "imdb": "tt7153718",
+    "tmdb": 580176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

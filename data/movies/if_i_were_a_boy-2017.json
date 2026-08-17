@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_i_were_a_boy_2017",
+  "title": "If I were a Boy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28420034",
+    "imdb": "tt5598172",
+    "tmdb": 430528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-22",
+  "runtime_minutes": 96
+}

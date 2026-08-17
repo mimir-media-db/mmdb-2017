@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_heath_ledger_2017",
+  "title": "I Am Heath Ledger",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738594",
+    "imdb": "tt6739646",
+    "tmdb": 450945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

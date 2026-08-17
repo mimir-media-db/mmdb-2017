@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witchcraft_xvi_hollywood_coven_2017",
+  "title": "Witchcraft XVI: Hollywood Coven",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031251",
+    "imdb": "tt4760268",
+    "tmdb": 469359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 82
+}

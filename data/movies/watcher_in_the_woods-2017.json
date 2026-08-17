@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_watcher_in_the_woods_2017",
+  "title": "The Watcher in the Woods",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48743898",
+    "imdb": "tt6266306",
+    "tmdb": 479837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_open_arms_2017",
+  "title": "With Open Arms",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28497085",
+    "imdb": "tt5804948",
+    "tmdb": 430365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

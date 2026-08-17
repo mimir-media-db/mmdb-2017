@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_for_you_2017",
+  "title": "Waiting For You",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20650031",
+    "imdb": "tt4727128",
+    "tmdb": 424239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walter_pfeiffer_chasing_beauty_2017",
+  "title": "Walter Pfeiffer: Chasing Beauty",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49757773",
+    "imdb": "tt7238338",
+    "tmdb": 484286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

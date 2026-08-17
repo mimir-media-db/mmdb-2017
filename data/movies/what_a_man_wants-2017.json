@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_a_man_wants_2017",
+  "title": "What a Man Wants",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28869818",
+    "imdb": "tt8108278",
+    "tmdb": 511883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

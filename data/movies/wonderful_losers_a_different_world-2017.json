@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonderful_losers_a_different_world_2017",
+  "title": "Wonderful Losers: A Different World",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56241217",
+    "imdb": "tt7495440",
+    "tmdb": 486525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 71
+}

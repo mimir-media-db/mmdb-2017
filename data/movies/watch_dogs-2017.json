@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_watch_dogs_2017",
+  "title": "Watch Dogs",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25444470",
+    "imdb": "tt2572696",
+    "tmdb": 608115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wasting_2017",
+  "title": "The Wasting",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50649624",
+    "imdb": "tt4505994",
+    "tmdb": 508189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wunschkinder_2017",
+  "title": "Wunschkinder",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37319488",
+    "imdb": "tt5945020",
+    "tmdb": 437065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

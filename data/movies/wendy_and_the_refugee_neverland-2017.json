@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wendy_and_the_refugee_neverland_2017",
+  "title": "Wendy and the Refugee Neverland",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31087788",
+    "imdb": "tt4498092",
+    "tmdb": 497529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

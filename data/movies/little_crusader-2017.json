@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_crusader_2017",
+  "title": "Little Crusader",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14541802",
+    "imdb": "tt3474438",
+    "tmdb": 467600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

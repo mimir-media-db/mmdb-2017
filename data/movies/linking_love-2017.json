@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_linking_love_2017",
+  "title": "Linking Love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48753191",
+    "imdb": "tt7112172",
+    "tmdb": 558472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mia_famiglia_a_soqquadro_2017",
+  "title": "La mia famiglia a soqquadro",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28671047",
+    "imdb": "tt4792446",
+    "tmdb": 447444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

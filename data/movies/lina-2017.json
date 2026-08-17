@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lina_2017",
+  "title": "Lina",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28746146",
+    "imdb": "tt6027174",
+    "tmdb": 466887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 94
+}

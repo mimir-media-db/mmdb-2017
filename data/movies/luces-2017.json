@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luces_2017",
+  "title": "Luces",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54018141",
+    "imdb": "tt5526362",
+    "tmdb": 612699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 120
+}

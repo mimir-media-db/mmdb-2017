@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_education_2017",
+  "title": "Love Education",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28417200",
+    "imdb": "tt7479718",
+    "tmdb": 482590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 120
+}

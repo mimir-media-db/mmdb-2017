@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lover_for_a_day_2017",
+  "title": "Lover for a Day",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24014272",
+    "imdb": "tt5642124",
+    "tmdb": 434131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 76
+}

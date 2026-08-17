@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lincredibile_storia_della_signora_del_terzo_piano_2017",
+  "title": "L'incredibile storia della signora del terzo piano",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48808531",
+    "imdb": "tt4716644",
+    "tmdb": 844052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 74
+}

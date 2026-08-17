@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_sargento_matacho_2017",
+  "title": "La sargento Matacho",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55448088",
+    "imdb": "tt1894486",
+    "tmdb": 527020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

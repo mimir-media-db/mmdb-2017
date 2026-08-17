@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_macchinazione_2017",
+  "title": "La macchinazione",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23900071",
+    "imdb": "tt3838498",
+    "tmdb": 389365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 115
+}

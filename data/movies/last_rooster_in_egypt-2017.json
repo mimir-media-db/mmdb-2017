@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_rooster_in_egypt_2017",
+  "title": "Last Rooster in Egypt",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28923532",
+    "imdb": "tt6206240",
+    "tmdb": 469939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

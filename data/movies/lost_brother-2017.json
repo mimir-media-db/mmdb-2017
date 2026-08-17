@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_brother_2017",
+  "title": "The Lost Brother",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29047508",
+    "imdb": "tt6522634",
+    "tmdb": 447904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 112
+}

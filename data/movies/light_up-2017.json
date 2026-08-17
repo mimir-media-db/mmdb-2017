@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_light_up_2017",
+  "title": "Light Up!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30890176",
+    "imdb": "tt7126386",
+    "tmdb": 457847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 97
+}

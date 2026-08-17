@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_las_cloacas_de_interior_2017",
+  "title": "Las cloacas de Interior",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33120116",
+    "imdb": "tt7322838",
+    "tmdb": 464452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 78
+}

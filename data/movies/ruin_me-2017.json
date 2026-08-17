@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ruin_me_2017",
+  "title": "Ruin Me",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109241293",
+    "imdb": "tt4807272",
+    "tmdb": 401272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-26"
+}

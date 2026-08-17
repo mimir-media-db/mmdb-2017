@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_road_to_sunrise_2017",
+  "title": "The Road to Sunrise",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411389",
+    "imdb": "tt6835808",
+    "tmdb": 505061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_recall_2017",
+  "title": "The Recall",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47482852",
+    "imdb": "tt5669936",
+    "tmdb": 455551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-02",
+  "runtime_minutes": 90
+}

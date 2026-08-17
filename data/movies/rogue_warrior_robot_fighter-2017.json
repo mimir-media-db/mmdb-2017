@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rogue_warrior_robot_fighter_2017",
+  "title": "Rogue Warrior: Robot Fighter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65247702",
+    "imdb": "tt4937114",
+    "tmdb": 470458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

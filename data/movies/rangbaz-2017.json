@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rangbaz_2017",
+  "title": "Rangbaz",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30645872",
+    "imdb": "tt6799506",
+    "tmdb": 598250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-10"
+}

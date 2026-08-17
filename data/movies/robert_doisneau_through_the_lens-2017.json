@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robert_doisneau_through_the_lens_2017",
+  "title": "Robert Doisneau: Through the Lens",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34601671",
+    "imdb": "tt6425446",
+    "tmdb": 417582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-17",
+  "runtime_minutes": 83
+}

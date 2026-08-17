@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rodney_king_2017",
+  "title": "Rodney King",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64022059",
+    "imdb": "tt6624312",
+    "tmdb": 454854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-28",
+  "runtime_minutes": 52
+}

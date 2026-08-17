@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_requiem_for_mrs_j_2017",
+  "title": "Requiem for Mrs. J.",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28753463",
+    "imdb": "tt5207166",
+    "tmdb": 435352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-11",
+  "runtime_minutes": 94
+}

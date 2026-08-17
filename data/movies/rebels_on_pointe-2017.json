@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rebels_on_pointe_2017",
+  "title": "Rebels on Pointe",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62018335",
+    "imdb": "tt6094970",
+    "tmdb": 450933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

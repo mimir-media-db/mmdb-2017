@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_radio_kobani_2017",
+  "title": "Radio Kobanî",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125558515",
+    "imdb": "tt6260534",
+    "tmdb": 430358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20"
+}

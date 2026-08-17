@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ramen_heads_2017",
+  "title": "Ramen Heads",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97183434",
+    "imdb": "tt6764122",
+    "tmdb": 455146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

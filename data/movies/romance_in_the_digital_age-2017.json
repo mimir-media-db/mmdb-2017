@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romance_in_the_digital_age_2017",
+  "title": "(Romance) in the Digital Age",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674404",
+    "imdb": "tt5525418",
+    "tmdb": 467933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-07"
+}

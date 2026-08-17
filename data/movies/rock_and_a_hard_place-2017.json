@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_and_a_hard_place_2017",
+  "title": "Rock and a Hard Place",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28457897",
+    "imdb": "tt5348190",
+    "tmdb": 444526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-27"
+}

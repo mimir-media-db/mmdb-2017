@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_return_to_nuke_em_high_aka_volume_2_2017",
+  "title": "Return to Return to Nuke 'Em High AKA Volume 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68681364",
+    "imdb": "tt3039472",
+    "tmdb": 207680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rarandoi_veduka_chudham_2017",
+  "title": "Rarandoi Veduka Chudham",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29831847",
+    "imdb": "tt6185674",
+    "tmdb": 458641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-26"
+}

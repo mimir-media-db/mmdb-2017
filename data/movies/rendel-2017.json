@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rendel_2017",
+  "title": "Rendel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23045576",
+    "imdb": "tt3881026",
+    "tmdb": 397852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22"
+}

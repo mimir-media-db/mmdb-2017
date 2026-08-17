@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romeo_juliet_2017",
+  "title": "Romeo & Juliet",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124800837",
+    "imdb": "tt3827726",
+    "tmdb": 462646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

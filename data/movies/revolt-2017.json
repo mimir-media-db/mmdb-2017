@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_revolt_2017",
+  "title": "Revolt",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39070764",
+    "imdb": "tt3722614",
+    "tmdb": 313943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-01"
+}

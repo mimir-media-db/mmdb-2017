@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_excited_2017",
+  "title": "Excited",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93740906",
+    "tmdb": 485469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-06"
+}

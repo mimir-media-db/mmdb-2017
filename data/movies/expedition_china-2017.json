@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_expedition_china_2017",
+  "title": "Expedition China",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75500353",
+    "imdb": "tt8064392",
+    "tmdb": 526145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

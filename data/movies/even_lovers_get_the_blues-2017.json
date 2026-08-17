@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_even_lovers_get_the_blues_2017",
+  "title": "Even Lovers Get the Blues",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56301214",
+    "imdb": "tt4529162",
+    "tmdb": 433602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-30"
+}

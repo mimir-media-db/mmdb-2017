@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eleven_days_2017",
+  "title": "Eleven Days",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543802",
+    "imdb": "tt5974592",
+    "tmdb": 699714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

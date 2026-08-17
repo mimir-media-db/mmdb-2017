@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_europa_ein_kontinent_als_beute_2017",
+  "title": "Europa – ein Kontinent als Beute",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28758369",
+    "imdb": "tt6566570",
+    "tmdb": 439987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-23"
+}

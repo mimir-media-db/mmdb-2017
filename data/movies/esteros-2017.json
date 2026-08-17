@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_esteros_2017",
+  "title": "Esteros",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28818937",
+    "imdb": "tt5883632",
+    "tmdb": 418718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-06",
+  "runtime_minutes": 82
+}

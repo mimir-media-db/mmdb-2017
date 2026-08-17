@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_pais_mas_feliz_del_mundo_2017",
+  "title": "El país más feliz del mundo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56641802",
+    "imdb": "tt7945646",
+    "tmdb": 926093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

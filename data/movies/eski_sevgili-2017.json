@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eski_sevgili_2017",
+  "title": "Eski Sevgili",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29572906",
+    "imdb": "tt6574246",
+    "tmdb": 468961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05",
+  "runtime_minutes": 93
+}

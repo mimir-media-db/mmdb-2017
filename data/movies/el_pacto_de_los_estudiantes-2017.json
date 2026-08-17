@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_pacto_de_los_estudiantes_2017",
+  "title": "El pacto de los estudiantes",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110304328",
+    "imdb": "tt7831784"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 71
+}

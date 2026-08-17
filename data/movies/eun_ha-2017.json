@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eun_ha_2017",
+  "title": "Eun Ha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28698369",
+    "imdb": "tt7477384",
+    "tmdb": 473634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-24"
+}

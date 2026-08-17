@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_excess_luggage_2017",
+  "title": "Excess Luggage",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113242587",
+    "imdb": "tt15590792",
+    "tmdb": 1007859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

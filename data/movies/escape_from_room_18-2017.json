@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_room_18_2017",
+  "title": "Escape from room 18",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102391022",
+    "imdb": "tt4688142",
+    "tmdb": 806942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 60
+}

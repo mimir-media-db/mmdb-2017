@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eric_ernie_and_me_2017",
+  "title": "Eric, Ernie and Me",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411635",
+    "imdb": "tt7309706",
+    "tmdb": 492378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-29"
+}

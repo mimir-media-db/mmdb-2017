@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_show_de_cejas_pobladas_2017",
+  "title": "El show de Cejas Pobladas",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64333753",
+    "imdb": "tt7941592"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 93
+}

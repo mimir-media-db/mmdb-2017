@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_beautiful_is_far_away_2017",
+  "title": "Everything Beautiful Is Far Away",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674147",
+    "imdb": "tt3605266",
+    "tmdb": 459974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-21",
+  "runtime_minutes": 91
+}

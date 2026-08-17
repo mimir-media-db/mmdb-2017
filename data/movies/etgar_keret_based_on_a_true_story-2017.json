@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_etgar_keret_based_on_a_true_story_2017",
+  "title": "Etgar Keret: Based on a True Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61000007",
+    "imdb": "tt6603516",
+    "tmdb": 470198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

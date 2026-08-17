@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_suis_reste_dans_les_bois_2017",
+  "title": "Je suis resté dans les bois",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30744295",
+    "imdb": "tt4670568",
+    "tmdb": 550731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 83
+}

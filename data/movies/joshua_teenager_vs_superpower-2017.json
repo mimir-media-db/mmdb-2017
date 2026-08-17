@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joshua_teenager_vs_superpower_2017",
+  "title": "Joshua: Teenager vs. Superpower",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28753344",
+    "imdb": "tt6333072",
+    "tmdb": 433084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 79
+}

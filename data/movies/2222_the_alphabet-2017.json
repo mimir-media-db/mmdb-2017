@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2222_the_alphabet_2017",
+  "title": "2+2=22 [The Alphabet]",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719431",
+    "imdb": "tt8609374",
+    "tmdb": 440084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_favour_2017",
+  "title": "Good Favour",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37325847",
+    "imdb": "tt3687938",
+    "tmdb": 473356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_who_invented_kissing_2017",
+  "title": "The Girl Who Invented Kissing",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85847705",
+    "imdb": "tt2850480",
+    "tmdb": 369914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-29",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghostland_the_view_of_the_juhoansi_2017",
+  "title": "Ghostland: The View of the Ju'Hoansi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26884646",
+    "imdb": "tt5517370",
+    "tmdb": 381090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-02",
+  "runtime_minutes": 85
+}

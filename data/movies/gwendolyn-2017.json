@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gwendolyn_2017",
+  "title": "Gwendolyn",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138783011",
+    "imdb": "tt7492880",
+    "tmdb": 497861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-01",
+  "runtime_minutes": 85
+}

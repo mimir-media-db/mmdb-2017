@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grooms_block_2017",
+  "title": "Groom's Block",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35716267",
+    "imdb": "tt6101458",
+    "tmdb": 451791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29"
+}

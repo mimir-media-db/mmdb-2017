@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gabriel_and_the_mountain_2017",
+  "title": "Gabriel and the Mountain",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832195",
+    "imdb": "tt6805354",
+    "tmdb": 453356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-21",
+  "runtime_minutes": 127
+}

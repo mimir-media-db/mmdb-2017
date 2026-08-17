@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_vertical_2017",
+  "title": "Going Vertical",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28435094",
+    "imdb": "tt5987402",
+    "tmdb": 444218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-28",
+  "runtime_minutes": 133
+}

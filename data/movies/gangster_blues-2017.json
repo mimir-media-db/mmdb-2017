@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gangster_blues_2017",
+  "title": "Gangster Blues",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55007767",
+    "imdb": "tt7254868",
+    "tmdb": 493981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-18",
+  "runtime_minutes": 153
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gigantes_descalzos_2017",
+  "title": "Gigantes descalzos",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135689071",
+    "imdb": "tt6197896",
+    "tmdb": 587193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 70
+}

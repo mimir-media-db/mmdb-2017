@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goutham_nanda_2017",
+  "title": "Goutham Nanda",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832047",
+    "imdb": "tt7128254",
+    "tmdb": 465378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-28"
+}

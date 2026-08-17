@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gemini_ganeshanum_suruli_raajanum_2017",
+  "title": "Gemini Ganeshanum Suruli Raajanum",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25231186",
+    "imdb": "tt7088074",
+    "tmdb": 412101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01"
+}

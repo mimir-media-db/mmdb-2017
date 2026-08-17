@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garoojigi_stud_the_beginning_2017",
+  "title": "Garoojigi : Stud the Beginning",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92196451",
+    "tmdb": 482209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-28",
+  "runtime_minutes": 81
+}

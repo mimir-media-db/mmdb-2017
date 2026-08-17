@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glow_2017",
+  "title": "Glow",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98638858",
+    "imdb": "tt8546240",
+    "tmdb": 474652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29",
+  "runtime_minutes": 100
+}

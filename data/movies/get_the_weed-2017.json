@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_the_weed_2017",
+  "title": "Get the Weed",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119686522",
+    "imdb": "tt5069072",
+    "tmdb": 475366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 75
+}

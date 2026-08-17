@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grandpa_more_dangerous_than_computer_2017",
+  "title": "Grandpa More Dangerous Than Computer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43397146",
+    "imdb": "tt7309998",
+    "tmdb": 494839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-17",
+  "runtime_minutes": 94
+}

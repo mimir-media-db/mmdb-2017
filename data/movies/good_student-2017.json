@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_student_2017",
+  "title": "A Good Student",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999995",
+    "imdb": "tt6715492",
+    "tmdb": 515765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-17"
+}

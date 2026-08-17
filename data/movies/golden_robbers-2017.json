@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_robbers_2017",
+  "title": "Golden Robbers",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597871",
+    "imdb": "tt6879250",
+    "tmdb": 942475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-02"
+}

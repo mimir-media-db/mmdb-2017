@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gemelos_sin_cura_2017",
+  "title": "Gemelos sin cura",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115805098",
+    "imdb": "tt8993120",
+    "tmdb": 472405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

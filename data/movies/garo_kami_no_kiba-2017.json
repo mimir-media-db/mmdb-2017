@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garo_kami_no_kiba_2017",
+  "title": "Garo: Kami no Kiba",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38278677",
+    "imdb": "tt7117354",
+    "tmdb": 478149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-31"
+}

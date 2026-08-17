@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_in_the_shell_2017",
+  "title": "Ghost in the Shell",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22575835",
+    "imdb": "tt1219827",
+    "tmdb": 315837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 107
+}

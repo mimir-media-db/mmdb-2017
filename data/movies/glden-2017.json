@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glden_2017",
+  "title": "Gælden",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42309176",
+    "imdb": "tt5473806",
+    "tmdb": 492721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-28",
+  "runtime_minutes": 88
+}

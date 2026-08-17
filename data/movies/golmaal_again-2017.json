@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golmaal_again_2017",
+  "title": "Golmaal Again",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5580865",
+    "imdb": "tt1806913",
+    "tmdb": 472123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20",
+  "runtime_minutes": 140
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaviota_the_end_of_southern_california_2017",
+  "title": "Gaviota: The End of Southern California",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123597364",
+    "imdb": "tt7657738",
+    "tmdb": 1743162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

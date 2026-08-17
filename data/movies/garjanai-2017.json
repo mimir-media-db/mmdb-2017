@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_garjanai_2017",
+  "title": "Garjanai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27962577",
+    "tmdb": 442843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-01"
+}

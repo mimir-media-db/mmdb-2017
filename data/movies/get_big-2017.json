@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_big_2017",
+  "title": "Get Big",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77715558",
+    "imdb": "tt5673432",
+    "tmdb": 467431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

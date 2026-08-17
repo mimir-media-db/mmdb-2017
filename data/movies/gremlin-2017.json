@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gremlin_2017",
+  "title": "Gremlin",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123351258",
+    "imdb": "tt6191390",
+    "tmdb": 436496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08",
+  "runtime_minutes": 90
+}

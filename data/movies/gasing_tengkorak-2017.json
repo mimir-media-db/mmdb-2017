@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gasing_tengkorak_2017",
+  "title": "Gasing Tengkorak",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56391902",
+    "imdb": "tt7485004",
+    "tmdb": 485311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-02",
+  "runtime_minutes": 80
+}

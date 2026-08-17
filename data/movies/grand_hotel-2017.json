@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_hotel_2017",
+  "title": "Grand Hotel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23709842",
+    "imdb": "tt5195390",
+    "tmdb": 388468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23",
+  "runtime_minutes": 95
+}

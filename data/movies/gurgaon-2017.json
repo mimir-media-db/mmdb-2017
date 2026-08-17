@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gurgaon_2017",
+  "title": "Gurgaon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39070547",
+    "imdb": "tt4699202",
+    "tmdb": 432140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_time_2017",
+  "title": "Good Time",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350752",
+    "imdb": "tt4846232",
+    "tmdb": 429200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_in_style_2017",
+  "title": "Going in Style",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20762674",
+    "imdb": "tt2568862",
+    "tmdb": 353070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-06",
+  "runtime_minutes": 96
+}

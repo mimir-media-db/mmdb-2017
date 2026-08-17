@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anniversary_2017",
+  "title": "The Anniversary",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97191191",
+    "imdb": "tt4828492",
+    "tmdb": 480455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-10",
+  "runtime_minutes": 100
+}

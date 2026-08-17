@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aangila_padam_2017",
+  "title": "Aangila Padam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536670",
+    "imdb": "tt6131328",
+    "tmdb": 370849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01"
+}

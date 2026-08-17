@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_folk_2017",
+  "title": "American Folk",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47500787",
+    "imdb": "tt4998222",
+    "tmdb": 450994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-03",
+  "runtime_minutes": 99
+}

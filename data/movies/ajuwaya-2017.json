@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ajuwaya_2017",
+  "title": "Ajuwaya",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113301900",
+    "imdb": "tt9742438",
+    "tmdb": 590178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

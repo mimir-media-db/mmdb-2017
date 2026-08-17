@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_love_2_2017",
+  "title": "About Love 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30890069",
+    "imdb": "tt7273648",
+    "tmdb": 457859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01",
+  "runtime_minutes": 108
+}

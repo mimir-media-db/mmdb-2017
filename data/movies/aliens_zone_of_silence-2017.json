@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aliens_zone_of_silence_2017",
+  "title": "Aliens: Zone of Silence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48314423",
+    "imdb": "tt3604156",
+    "tmdb": 483006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-24",
+  "runtime_minutes": 79
+}

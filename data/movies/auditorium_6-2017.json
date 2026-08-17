@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_auditorium_6_2017",
+  "title": "Auditorium 6",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56435721",
+    "imdb": "tt6945978",
+    "tmdb": 1730871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 35
+}

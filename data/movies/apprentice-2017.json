@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apprentice_2017",
+  "title": "Apprentice",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925044",
+    "imdb": "tt4660736",
+    "tmdb": 391709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-14",
+  "runtime_minutes": 96
+}

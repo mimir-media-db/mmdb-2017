@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angrezi_mein_kehte_hain_2017",
+  "title": "Angrezi Mein Kehte Hain",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55603986",
+    "imdb": "tt6613812",
+    "tmdb": 535372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

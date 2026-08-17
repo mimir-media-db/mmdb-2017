@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afterimage_2017",
+  "title": "Afterimage",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27043749",
+    "imdb": "tt5186236",
+    "tmdb": 411678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-13",
+  "runtime_minutes": 98
+}

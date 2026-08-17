@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_axe_music_of_a_people_2017",
+  "title": "Axe: Music of a People",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56347224",
+    "imdb": "tt6057322",
+    "tmdb": 420276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 114
+}

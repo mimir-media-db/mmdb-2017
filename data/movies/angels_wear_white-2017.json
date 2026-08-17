@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angels_wear_white_2017",
+  "title": "Angels Wear White",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37936557",
+    "imdb": "tt7205208",
+    "tmdb": 468208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 107
+}

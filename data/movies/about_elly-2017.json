@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_elly_2017",
+  "title": "About Elly",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1311890",
+    "imdb": "tt1360860",
+    "tmdb": 37181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_honey_2017",
+  "title": "American Honey",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001112",
+    "imdb": "tt3721936",
+    "tmdb": 340485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-08",
+  "runtime_minutes": 163
+}

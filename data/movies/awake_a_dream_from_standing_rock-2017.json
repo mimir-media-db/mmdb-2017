@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_awake_a_dream_from_standing_rock_2017",
+  "title": "Awake, a Dream from Standing Rock",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843165",
+    "imdb": "tt6691862",
+    "tmdb": 449748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 89
+}

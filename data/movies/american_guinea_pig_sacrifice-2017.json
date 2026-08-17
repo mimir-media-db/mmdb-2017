@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_guinea_pig_sacrifice_2017",
+  "title": "American Guinea Pig: Sacrifice",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72001039",
+    "imdb": "tt6204830",
+    "tmdb": 434280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 63
+}

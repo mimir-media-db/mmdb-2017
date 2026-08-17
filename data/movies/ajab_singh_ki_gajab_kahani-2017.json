@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ajab_singh_ki_gajab_kahani_2017",
+  "title": "Ajab singh ki gajab kahani",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768494",
+    "imdb": "tt6745804",
+    "tmdb": 464123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

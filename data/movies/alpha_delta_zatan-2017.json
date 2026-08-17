@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alpha_delta_zatan_2017",
+  "title": "Alpha Delta Zatan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63498455",
+    "imdb": "tt6640214",
+    "tmdb": 507211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 72
+}

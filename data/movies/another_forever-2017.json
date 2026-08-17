@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_forever_2017",
+  "title": "Another Forever",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33109602",
+    "imdb": "tt5204636",
+    "tmdb": 447887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-27",
+  "runtime_minutes": 72
+}

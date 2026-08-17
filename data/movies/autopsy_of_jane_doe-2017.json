@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autopsy_of_jane_doe_2017",
+  "title": "The Autopsy of Jane Doe",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27458304",
+    "imdb": "tt3289956",
+    "tmdb": 397243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-16",
+  "runtime_minutes": 86
+}

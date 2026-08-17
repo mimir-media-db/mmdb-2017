@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aasaan_2017",
+  "title": "Aasaan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48673972",
+    "imdb": "tt7994626",
+    "tmdb": 489398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-30"
+}

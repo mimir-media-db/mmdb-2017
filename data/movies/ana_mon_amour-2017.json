@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ana_mon_amour_2017",
+  "title": "Ana, mon amour",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28127578",
+    "imdb": "tt6125690",
+    "tmdb": 429732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-17",
+  "runtime_minutes": 127
+}

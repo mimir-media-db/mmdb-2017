@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_invasion_sum1_2017",
+  "title": "Alien Invasion: S.U.M.1",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39478427",
+    "imdb": "tt4279116",
+    "tmdb": 457665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07",
+  "runtime_minutes": 92
+}

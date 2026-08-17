@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avec_thelma_2017",
+  "title": "Avec Thelma",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134294459",
+    "imdb": "tt8430898",
+    "tmdb": 477783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 13
+}

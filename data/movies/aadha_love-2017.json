@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadha_love_2017",
+  "title": "Aadha Love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55315443",
+    "imdb": "tt6897032",
+    "tmdb": 494864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-09"
+}

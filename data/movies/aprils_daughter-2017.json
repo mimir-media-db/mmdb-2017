@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aprils_daughter_2017",
+  "title": "April's Daughter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29391706",
+    "imdb": "tt6397762",
+    "tmdb": 449754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01",
+  "runtime_minutes": 103
+}

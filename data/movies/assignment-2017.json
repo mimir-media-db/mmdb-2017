@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assignment_2017",
+  "title": "The Assignment",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23939762",
+    "imdb": "tt5034474",
+    "tmdb": 399173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-03",
+  "runtime_minutes": 95
+}

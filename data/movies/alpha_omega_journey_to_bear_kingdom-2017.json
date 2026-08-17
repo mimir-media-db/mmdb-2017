@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alpha_omega_journey_to_bear_kingdom_2017",
+  "title": "Alpha & Omega: Journey to Bear Kingdom",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64688737",
+    "imdb": "tt6910772",
+    "tmdb": 459165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-09"
+}

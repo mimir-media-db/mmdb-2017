@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atomic_blonde_2017",
+  "title": "Atomic Blonde",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528112",
+    "imdb": "tt2406566",
+    "tmdb": 341013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-27",
+  "runtime_minutes": 115
+}

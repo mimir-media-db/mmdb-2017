@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_als_paul_uber_das_meer_kam_tagebuch_einer_begegnung_2017",
+  "title": "Als Paul über das Meer kam - Tagebuch einer Begegnung",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36961641",
+    "imdb": "tt6096868",
+    "tmdb": 432796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-31",
+  "runtime_minutes": 93
+}

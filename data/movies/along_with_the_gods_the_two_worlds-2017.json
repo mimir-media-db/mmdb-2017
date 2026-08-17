@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_along_with_the_gods_the_two_worlds_2017",
+  "title": "Along with the Gods: The Two Worlds",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26252639",
+    "imdb": "tt7160070",
+    "tmdb": 397567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-20",
+  "runtime_minutes": 140
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_against_the_night_2017",
+  "title": "Against the Night",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59238944",
+    "imdb": "tt7138894",
+    "tmdb": 512926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-15",
+  "runtime_minutes": 85
+}

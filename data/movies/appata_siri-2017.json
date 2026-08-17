@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_appata_siri_2017",
+  "title": "Appata Siri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42530284",
+    "imdb": "tt7998196"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22"
+}

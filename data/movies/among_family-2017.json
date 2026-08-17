@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_among_family_2017",
+  "title": "Among Family",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38081888",
+    "imdb": "tt7642818",
+    "tmdb": 477313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-01",
+  "runtime_minutes": 126
+}

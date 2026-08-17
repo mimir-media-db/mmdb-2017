@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amityville_evil_never_dies_2017",
+  "title": "Amityville: Evil Never Dies",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77399631",
+    "imdb": "tt6828736",
+    "tmdb": 516833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 74
+}

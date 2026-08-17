@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apocalypse_after_2017",
+  "title": "Apocalypse After",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136125163",
+    "imdb": "tt8306938",
+    "tmdb": 518500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 37
+}

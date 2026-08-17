@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7_naatkal_2017",
+  "title": "7 Naatkal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999838",
+    "imdb": "tt6998562",
+    "tmdb": 460269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

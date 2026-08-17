@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_jours_pas_plus_2017",
+  "title": "7 Jours Pas Plus",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28495384",
+    "imdb": "tt5308364",
+    "tmdb": 459963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

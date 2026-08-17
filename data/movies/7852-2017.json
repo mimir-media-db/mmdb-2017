@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7852_2017",
+  "title": "78/52",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48839262",
+    "imdb": "tt4372240",
+    "tmdb": 359749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

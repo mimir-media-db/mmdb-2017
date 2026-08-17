@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_would_you_look_at_her_2017",
+  "title": "Would You Look at Her",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131291836",
+    "imdb": "tt7130628",
+    "tmdb": 476989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-27"
+}

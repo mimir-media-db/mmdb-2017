@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_of_fame_2017",
+  "title": "Walk of Fame",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48673901",
+    "imdb": "tt2487028",
+    "tmdb": 425124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-24",
+  "runtime_minutes": 93
+}

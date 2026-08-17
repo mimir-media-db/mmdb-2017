@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wwii_the_long_road_home_2017",
+  "title": "WWII: The Long Road Home",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105438460",
+    "imdb": "tt7063474",
+    "tmdb": 757484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

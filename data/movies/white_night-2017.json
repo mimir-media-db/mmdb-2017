@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_night_2017",
+  "title": "White Night",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63927144",
+    "imdb": "tt4054382",
+    "tmdb": 491831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-02"
+}

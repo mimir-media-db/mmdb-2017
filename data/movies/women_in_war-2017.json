@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_women_in_war_2017",
+  "title": "Women in War",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56373301",
+    "imdb": "tt8595890",
+    "tmdb": 784778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

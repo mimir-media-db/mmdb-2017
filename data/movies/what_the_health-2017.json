@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_the_health_2017",
+  "title": "What the Health",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24686978",
+    "imdb": "tt5541848",
+    "tmdb": 415086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-07",
+  "runtime_minutes": 92
+}

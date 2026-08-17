@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_used_to_be_cool_2017",
+  "title": "We used to be cool",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26660266",
+    "imdb": "tt5591540",
+    "tmdb": 403903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-09",
+  "runtime_minutes": 100
+}

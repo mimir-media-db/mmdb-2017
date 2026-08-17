@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_war_2017",
+  "title": "Winter War",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106582585",
+    "imdb": "tt6353716",
+    "tmdb": 452739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

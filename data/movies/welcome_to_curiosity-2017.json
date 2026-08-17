@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_curiosity_2017",
+  "title": "Welcome to Curiosity",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27701438",
+    "imdb": "tt3517306",
+    "tmdb": 521926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-15",
+  "runtime_minutes": 95
+}

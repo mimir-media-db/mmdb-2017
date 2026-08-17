@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonder_woman_2017",
+  "title": "Wonder Woman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20502242",
+    "imdb": "tt0451279",
+    "tmdb": 297762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-01",
+  "runtime_minutes": 141
+}

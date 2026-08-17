@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wake_me_up_2017",
+  "title": "Wake Me Up",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29474033",
+    "imdb": "tt4652380",
+    "tmdb": 437369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-23",
+  "runtime_minutes": 92
+}

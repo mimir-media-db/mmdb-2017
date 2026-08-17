@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woke_up_like_this_2017",
+  "title": "Woke Up Like This",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672839",
+    "imdb": "tt7189780",
+    "tmdb": 472153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-23",
+  "runtime_minutes": 118
+}

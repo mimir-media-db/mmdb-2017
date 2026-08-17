@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wind_in_your_heart_2017",
+  "title": "The Wind In Your Heart",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109456470",
+    "imdb": "tt6640384",
+    "tmdb": 693030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-17"
+}

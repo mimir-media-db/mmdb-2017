@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_left_of_my_life_2017",
+  "title": "What's Left of My Life",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29891580",
+    "imdb": "tt6150202",
+    "tmdb": 420308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-25",
+  "runtime_minutes": 108
+}

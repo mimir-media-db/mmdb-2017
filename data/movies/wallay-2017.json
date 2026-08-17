@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wallay_2017",
+  "title": "Wallay",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854196",
+    "imdb": "tt6584902",
+    "tmdb": 442718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

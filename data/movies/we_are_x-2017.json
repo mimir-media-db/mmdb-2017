@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_x_2017",
+  "title": "We Are X",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674250",
+    "imdb": "tt4835086",
+    "tmdb": 376391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-12",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_game_2017",
+  "title": "The War Game",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76335260",
+    "imdb": "tt6288158",
+    "tmdb": 471779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-27"
+}

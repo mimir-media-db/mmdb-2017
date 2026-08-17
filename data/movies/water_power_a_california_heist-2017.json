@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_water_power_a_california_heist_2017",
+  "title": "Water & Power: A California Heist",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106359186",
+    "imdb": "tt6290202",
+    "tmdb": 430834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-23",
+  "runtime_minutes": 87
+}

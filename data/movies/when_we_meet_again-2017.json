@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_we_meet_again_2017",
+  "title": "When We Meet Again",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73483910",
+    "imdb": "tt6945002",
+    "tmdb": 716231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_boy_2017",
+  "title": "White Boy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85815356",
+    "imdb": "tt5635638",
+    "tmdb": 450648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

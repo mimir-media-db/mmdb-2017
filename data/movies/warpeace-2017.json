@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warpeace_2017",
+  "title": "Warpeace",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113400949",
+    "imdb": "tt6649618",
+    "tmdb": 528321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-12",
+  "runtime_minutes": 59
+}

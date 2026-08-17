@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wolves_beyond_the_timber_2017",
+  "title": "The Wolves Beyond the Timber",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134614105",
+    "imdb": "tt5801568"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

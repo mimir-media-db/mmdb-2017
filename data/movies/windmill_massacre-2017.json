@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_windmill_massacre_2017",
+  "title": "The Windmill Massacre",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28057208",
+    "imdb": "tt2923088",
+    "tmdb": 397514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-30",
+  "runtime_minutes": 85
+}

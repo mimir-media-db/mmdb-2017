@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wood_for_the_trees_2017",
+  "title": "Wood for the trees",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67737622",
+    "imdb": "tt5647240"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

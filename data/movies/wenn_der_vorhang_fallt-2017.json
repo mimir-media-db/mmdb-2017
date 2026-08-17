@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wenn_der_vorhang_fallt_2017",
+  "title": "Wenn der Vorhang fällt",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28946809",
+    "imdb": "tt3851392",
+    "tmdb": 448971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 75
+}

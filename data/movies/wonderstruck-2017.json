@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonderstruck_2017",
+  "title": "Wonderstruck",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136234",
+    "imdb": "tt5208216",
+    "tmdb": 383709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01",
+  "runtime_minutes": 117
+}

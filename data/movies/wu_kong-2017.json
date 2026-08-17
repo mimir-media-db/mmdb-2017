@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wu_kong_2017",
+  "title": "Wu Kong",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30948928",
+    "imdb": "tt6513406",
+    "tmdb": 452910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-13",
+  "runtime_minutes": 130
+}

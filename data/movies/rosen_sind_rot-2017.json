@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rosen_sind_rot_2017",
+  "title": "Rosen sind Rot",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50377718",
+    "imdb": "tt8114882"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

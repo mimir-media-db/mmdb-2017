@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rogers_park_2017",
+  "title": "Rogers Park",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55394170",
+    "imdb": "tt6166196",
+    "tmdb": 477043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

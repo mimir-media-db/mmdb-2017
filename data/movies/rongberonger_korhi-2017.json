@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rongberonger_korhi_2017",
+  "title": "Rongberonger Korhi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55631958",
+    "imdb": "tt7279232",
+    "tmdb": 586122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

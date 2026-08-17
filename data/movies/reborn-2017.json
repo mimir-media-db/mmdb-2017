@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reborn_2017",
+  "title": "re:BORN",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28687330",
+    "imdb": "tt6063024",
+    "tmdb": 429829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

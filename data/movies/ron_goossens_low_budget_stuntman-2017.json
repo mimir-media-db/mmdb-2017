@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ron_goossens_low_budget_stuntman_2017",
+  "title": "Ron Goossens, Low Budget Stuntman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28657118",
+    "imdb": "tt5637542",
+    "tmdb": 430945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rucula_com_tomate_seco_2017",
+  "title": "Rúcula com Tomate Seco",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51882761",
+    "imdb": "tt7638246",
+    "tmdb": 488158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 152
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_remember_the_flavor_2017",
+  "title": "Remember the Flavor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31174239",
+    "imdb": "tt32880494",
+    "tmdb": 442216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

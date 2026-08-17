@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rv_resurrected_victims_2017",
+  "title": "RV: Resurrected Victims",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30637480",
+    "imdb": "tt7243750",
+    "tmdb": 478160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

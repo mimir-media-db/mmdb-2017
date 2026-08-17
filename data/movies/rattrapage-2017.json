@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rattrapage_2017",
+  "title": "Rattrapage",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39074379",
+    "imdb": "tt6286652",
+    "tmdb": 432622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 85
+}

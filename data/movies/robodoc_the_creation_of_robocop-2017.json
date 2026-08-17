@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_robodoc_the_creation_of_robocop_2017",
+  "title": "RoboDoc: The Creation of Robocop",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24577596",
+    "imdb": "tt5759360"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 60
+}

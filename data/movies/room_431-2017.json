@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_431_2017",
+  "title": "Room 431",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55444708",
+    "imdb": "tt6704056",
+    "tmdb": 737153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 55
+}

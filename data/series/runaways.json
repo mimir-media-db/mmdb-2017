@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_runaways",
+  "title": "Runaways",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q28746336",
+    "imdb": "tt1236246",
+    "tmdb": 67466
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

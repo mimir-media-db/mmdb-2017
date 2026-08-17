@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_road_to_calvary",
+  "title": "The Road to Calvary",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28665828",
+    "imdb": "tt7620312",
+    "tmdb": 82195
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

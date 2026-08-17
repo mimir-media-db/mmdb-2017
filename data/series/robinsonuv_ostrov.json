@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_robinsonuv_ostrov",
+  "title": "Robinsonův ostrov",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28581780",
+    "imdb": "tt6402052",
+    "tmdb": 74559
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 66
+}

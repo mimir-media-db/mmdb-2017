@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reka_ljubezni",
+  "title": "Reka ljubezni",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q44178565",
+    "imdb": "tt7269226",
+    "tmdb": 272114
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 300
+}

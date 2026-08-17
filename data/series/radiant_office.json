@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_radiant_office",
+  "title": "Radiant Office",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28419054",
+    "imdb": "tt6464184",
+    "tmdb": 70195
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

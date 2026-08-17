@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reunited_worlds",
+  "title": "Reunited Worlds",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30107089",
+    "imdb": "tt7056766",
+    "tmdb": 72549
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

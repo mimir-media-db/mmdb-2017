@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guardians_2017",
+  "title": "Guardians",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19742713",
+    "imdb": "tt4600952",
+    "tmdb": 354556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 89
+}

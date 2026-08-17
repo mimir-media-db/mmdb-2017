@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_generation_iron_2_2017",
+  "title": "Generation Iron 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30321611",
+    "imdb": "tt6263642",
+    "tmdb": 447818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 106
+}

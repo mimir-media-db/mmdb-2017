@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_years_2017",
+  "title": "Golden Years",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28495726",
+    "imdb": "tt6012792",
+    "tmdb": 428365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 103
+}

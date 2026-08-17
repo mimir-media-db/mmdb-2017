@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_to_brazil_2017",
+  "title": "Going to Brazil",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30738269",
+    "imdb": "tt4467176",
+    "tmdb": 416398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 94
+}

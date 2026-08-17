@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guest_iin_london_2017",
+  "title": "Guest iin London",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590579",
+    "imdb": "tt6173826",
+    "tmdb": 464599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 132
+}

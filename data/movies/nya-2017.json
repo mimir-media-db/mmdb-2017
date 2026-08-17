@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nya_2017",
+  "title": "Nya",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51983572",
+    "imdb": "tt10473028",
+    "tmdb": 563211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nae_pasaran_2017",
+  "title": "Nae Pasaran",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24579372",
+    "imdb": "tt4489624",
+    "tmdb": 506612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 85
+}

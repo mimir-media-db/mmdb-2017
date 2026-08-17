@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_without_armor_2017",
+  "title": "A Night Without Armor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30607361",
+    "imdb": "tt3912442",
+    "tmdb": 453258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 108
+}

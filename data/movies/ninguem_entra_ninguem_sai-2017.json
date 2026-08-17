@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ninguem_entra_ninguem_sai_2017",
+  "title": "Ninguém Entra, Ninguém Sai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48877381",
+    "imdb": "tt6230488",
+    "tmdb": 435803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 83
+}

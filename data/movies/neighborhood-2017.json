@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neighborhood_2017",
+  "title": "The Neighborhood",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31817463",
+    "imdb": "tt6755892",
+    "tmdb": 466912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

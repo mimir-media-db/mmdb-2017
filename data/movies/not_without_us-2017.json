@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_without_us_2017",
+  "title": "Not without us",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26822370",
+    "imdb": "tt5821604",
+    "tmdb": 426765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nouhe_cannot_swim_2017",
+  "title": "Nouhe Cannot Swim",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56250433",
+    "imdb": "tt6679666",
+    "tmdb": 508727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

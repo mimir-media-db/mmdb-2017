@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_newspaperman_2017",
+  "title": "The Newspaperman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51756448",
+    "imdb": "tt7657972",
+    "tmdb": 479119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

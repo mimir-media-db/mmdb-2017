@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nene_raju_nene_mantri_2017",
+  "title": "Nene Raju Nene Mantri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590934",
+    "imdb": "tt7249854",
+    "tmdb": 460699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

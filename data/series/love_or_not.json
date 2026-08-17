@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_love_or_not",
+  "title": "Love or Not",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30929750",
+    "tmdb": 132703
+  },
+  "last_updated": "2026-08-17"
+}

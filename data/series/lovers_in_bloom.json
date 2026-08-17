@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lovers_in_bloom",
+  "title": "Lovers in Bloom",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q29264315",
+    "imdb": "tt7088070",
+    "tmdb": 71897
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 120
+}

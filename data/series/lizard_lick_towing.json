@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lizard_lick_towing",
+  "title": "Lizard Lick Towing",
+  "start_year": 2016,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6660522",
+    "imdb": "tt1841204",
+    "tmdb": 37745
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 91
+}

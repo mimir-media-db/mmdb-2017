@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_it_or_list_it_australia",
+  "title": "Love It or List It Australia",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39059756",
+    "imdb": "tt9296576",
+    "tmdb": 74139
+  },
+  "last_updated": "2026-08-17"
+}

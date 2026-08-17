@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_leif_billy",
+  "title": "Leif & Billy",
+  "start_year": 2016,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q71005812",
+    "imdb": "tt8019354",
+    "tmdb": 76292
+  },
+  "last_updated": "2026-08-17"
+}

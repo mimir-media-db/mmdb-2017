@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_strada_di_casa",
+  "title": "La strada di casa",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q43198049",
+    "imdb": "tt5699258",
+    "tmdb": 94933
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

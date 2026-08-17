@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_chamois",
+  "title": "Les Chamois",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q45284329",
+    "imdb": "tt7738778",
+    "tmdb": 75513
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

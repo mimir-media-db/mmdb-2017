@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_loaded",
+  "title": "Loaded",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30607654",
+    "imdb": "tt6210192",
+    "tmdb": 71492
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

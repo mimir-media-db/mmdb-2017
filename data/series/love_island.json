@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_island",
+  "title": "Love Island",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65043500",
+    "imdb": "tt7304326",
+    "tmdb": 77550
+  },
+  "last_updated": "2026-08-17"
+}

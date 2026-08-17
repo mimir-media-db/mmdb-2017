@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lombard_zycie_pod_zastaw",
+  "title": "Lombard. Życie pod zastaw",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q43303107",
+    "imdb": "tt7917804",
+    "tmdb": 85959
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 419
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_little_big_shots",
+  "title": "Little Big Shots",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30600562",
+    "imdb": "tt6586808",
+    "tmdb": 70743
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

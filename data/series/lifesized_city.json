@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lifesized_city",
+  "title": "The Life-Sized City",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65078596",
+    "imdb": "tt7464102",
+    "tmdb": 232478
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lheure_bleue",
+  "title": "L'heure Bleue",
+  "start_year": 2017,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q28497047",
+    "imdb": "tt5835200",
+    "tmdb": 69220
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 96
+}

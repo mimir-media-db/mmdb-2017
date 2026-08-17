@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_to_last",
+  "title": "A Love to Last",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q25219036",
+    "imdb": "tt6803718",
+    "tmdb": 69520
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 183
+}

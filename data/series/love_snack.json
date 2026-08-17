@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_love_snack",
+  "title": "Love Snack",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48810490"
+  },
+  "last_updated": "2026-08-17"
+}

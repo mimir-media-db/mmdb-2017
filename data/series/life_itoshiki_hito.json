@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_life_itoshiki_hito",
+  "title": "A Life: Itoshiki Hito",
+  "start_year": 2017,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q27975056",
+    "imdb": "tt6235440",
+    "tmdb": 69809
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

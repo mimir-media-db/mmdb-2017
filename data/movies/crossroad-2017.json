@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crossroad_2017",
+  "title": "Crossroad",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39078802",
+    "imdb": "tt7091418",
+    "tmdb": 468223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

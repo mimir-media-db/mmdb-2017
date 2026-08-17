@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saattokeikka_2017",
+  "title": "Saattokeikka",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30763201",
+    "imdb": "tt5822160",
+    "tmdb": 439695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 78
+}

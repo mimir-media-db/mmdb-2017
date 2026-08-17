@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lassemblee_2017",
+  "title": "L'Assemblée",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43381072",
+    "imdb": "tt6885412"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hit_the_top",
+  "title": "Hit the Top",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q29051835",
+    "imdb": "tt6889072",
+    "tmdb": 71871
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

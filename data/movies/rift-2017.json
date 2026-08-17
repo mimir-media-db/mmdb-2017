@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rift_2017",
+  "title": "Rift",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50246013",
+    "imdb": "tt6039372",
+    "tmdb": 439979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 111
+}

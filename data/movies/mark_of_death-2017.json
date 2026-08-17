@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mark_of_death_2017",
+  "title": "Mark of Death",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52152243",
+    "imdb": "tt6170878",
+    "tmdb": 1098898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bag_of_marbles_2017",
+  "title": "A Bag of Marbles",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20723063",
+    "imdb": "tt5091612",
+    "tmdb": 398924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_willkommen_bei_den_honeckers_2017",
+  "title": "Willkommen bei den Honeckers",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46387860",
+    "imdb": "tt6009220",
+    "tmdb": 433258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

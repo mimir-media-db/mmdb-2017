@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_of_afflictions_2017",
+  "title": "The Garden of Afflictions",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26883695",
+    "imdb": "tt6051554",
+    "tmdb": 423303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 81
+}

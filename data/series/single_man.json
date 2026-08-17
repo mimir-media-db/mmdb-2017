@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_single_man",
+  "title": "Single Man",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q102390306",
+    "imdb": "tt7955812",
+    "tmdb": 79015
+  },
+  "last_updated": "2026-08-17"
+}

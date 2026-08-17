@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bast_i_test",
+  "title": "Bäst i Test",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31897226",
+    "imdb": "tt8002676",
+    "tmdb": 71761
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 43
+}

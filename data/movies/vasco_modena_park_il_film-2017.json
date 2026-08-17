@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vasco_modena_park_il_film_2017",
+  "title": "Vasco Modena Park - Il film",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48808652",
+    "imdb": "tt8002146",
+    "tmdb": 490924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 157
+}

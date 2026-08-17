@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_growroom",
+  "title": "Growroom",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29342298",
+    "imdb": "tt6840750",
+    "tmdb": 76395
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

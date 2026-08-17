@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_santa_clarita_diet",
+  "title": "Santa Clarita Diet",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q23680123",
+    "imdb": "tt5580540",
+    "tmdb": 69470
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

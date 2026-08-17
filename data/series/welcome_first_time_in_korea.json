@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_welcome_first_time_in_korea",
+  "title": "Welcome, First Time in Korea?",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47224847",
+    "tmdb": 74035
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_clancys_ghost_recon_wildlands_war_within_the_cartel_2017",
+  "title": "Tom Clancy's Ghost Recon Wildlands: War Within The Cartel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280674",
+    "imdb": "tt6423352",
+    "tmdb": 443670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 32
+}

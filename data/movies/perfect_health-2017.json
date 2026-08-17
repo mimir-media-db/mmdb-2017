@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_health_2017",
+  "title": "Perfect Health",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44871295",
+    "imdb": "tt5120010",
+    "tmdb": 477848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

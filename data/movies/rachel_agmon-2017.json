@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rachel_agmon_2017",
+  "title": "Rachel Agmon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52836977",
+    "imdb": "tt7968916",
+    "tmdb": 580583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 50
+}

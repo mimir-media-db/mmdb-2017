@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_polvo_carnavalero",
+  "title": "Polvo carnavalero",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28231266",
+    "imdb": "tt5965730",
+    "tmdb": 105445
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

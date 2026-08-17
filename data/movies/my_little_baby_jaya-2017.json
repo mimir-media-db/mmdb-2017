@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_baby_jaya_2017",
+  "title": "My Little Baby, Jaya",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29652916",
+    "imdb": "tt6892950",
+    "tmdb": 456413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

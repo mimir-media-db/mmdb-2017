@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_por_tras_do_ceu_2017",
+  "title": "Por Trás do Céu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30935465",
+    "imdb": "tt3912238",
+    "tmdb": 422117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 104
+}

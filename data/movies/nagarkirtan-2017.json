@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nagarkirtan_2017",
+  "title": "Nagarkirtan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55624541",
+    "imdb": "tt7808072",
+    "tmdb": 522986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

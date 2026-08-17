@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bon_cop_bad_cop_2_2017",
+  "title": "Bon Cop, Bad Cop 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24940238",
+    "imdb": "tt4738174",
+    "tmdb": 417489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 126
+}

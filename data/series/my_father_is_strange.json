@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_father_is_strange",
+  "title": "My Father is Strange",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28021293",
+    "imdb": "tt6405196",
+    "tmdb": 70194
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

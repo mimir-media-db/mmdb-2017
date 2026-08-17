@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_topas_the_book_of_the_crystal_children_2017",
+  "title": "Max Topas: The Book of the Crystal Children",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43646696",
+    "imdb": "tt6244826",
+    "tmdb": 527329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

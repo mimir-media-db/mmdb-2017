@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_praxis_mit_meerblick",
+  "title": "Praxis mit Meerblick",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62081310",
+    "imdb": "tt7908528"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

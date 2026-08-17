@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_est_une_fete_un_film_en_18_vagues_2017",
+  "title": "Paris est une fête - Un film en 18 vagues",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30738995",
+    "imdb": "tt6767134",
+    "tmdb": 449918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

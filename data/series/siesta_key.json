@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_siesta_key",
+  "title": "Siesta Key",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39074668",
+    "imdb": "tt7183282",
+    "tmdb": 73012
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 78
+}

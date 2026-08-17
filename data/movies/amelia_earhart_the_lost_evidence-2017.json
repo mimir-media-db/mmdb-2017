@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amelia_earhart_the_lost_evidence_2017",
+  "title": "Amelia Earhart: The Lost Evidence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39087606",
+    "imdb": "tt7177756",
+    "tmdb": 660667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

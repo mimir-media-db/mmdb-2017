@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maddman_the_steve_madden_story_2017",
+  "title": "Maddman: The Steve Madden Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47461870",
+    "imdb": "tt2987718",
+    "tmdb": 495779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_acts_of_vengeance_2017",
+  "title": "Acts of Vengeance",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42289722",
+    "imdb": "tt6288694",
+    "tmdb": 445954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

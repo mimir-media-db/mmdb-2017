@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_fade_2017",
+  "title": "In the Fade",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28999157",
+    "imdb": "tt5723272",
+    "tmdb": 423646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 106
+}

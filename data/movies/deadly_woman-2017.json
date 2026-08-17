@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_woman_2017",
+  "title": "Deadly Woman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26863750"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

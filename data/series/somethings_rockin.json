@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_somethings_rockin",
+  "title": "Something's Rockin'",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q30119409",
+    "imdb": "tt6416550",
+    "tmdb": 70600
+  },
+  "last_updated": "2026-08-17"
+}

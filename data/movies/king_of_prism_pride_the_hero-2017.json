@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_prism_pride_the_hero_2017",
+  "title": "King of Prism: Pride the Hero",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30340417",
+    "imdb": "tt6402046",
+    "tmdb": 432058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_magic_school",
+  "title": "Magic School",
+  "start_year": 2017,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q30942339",
+    "imdb": "tt7160924",
+    "tmdb": 73913
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glass_castle_2017",
+  "title": "The Glass Castle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136225",
+    "imdb": "tt2378507",
+    "tmdb": 336000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 127
+}

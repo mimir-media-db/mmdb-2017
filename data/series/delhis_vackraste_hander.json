@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_delhis_vackraste_hander",
+  "title": "Delhis vackraste händer",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126721951",
+    "imdb": "tt5011024",
+    "tmdb": 76247
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jeff_some_aliens",
+  "title": "Jeff & Some Aliens",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28401582",
+    "imdb": "tt4218824",
+    "tmdb": 69776
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

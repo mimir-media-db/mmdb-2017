@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adaptatsiya",
+  "title": "Adaptatsiya",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28667903",
+    "imdb": "tt6520014",
+    "tmdb": 70122
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 37
+}

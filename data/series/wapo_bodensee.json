@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wapo_bodensee",
+  "title": "WaPo Bodensee",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q50841336",
+    "imdb": "tt5896868",
+    "tmdb": 69751
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 78
+}

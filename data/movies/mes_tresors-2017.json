@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mes_tresors_2017",
+  "title": "Mes trésors",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28214951",
+    "imdb": "tt5286268",
+    "tmdb": 426830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

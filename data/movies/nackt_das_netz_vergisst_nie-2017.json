@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nackt_das_netz_vergisst_nie_2017",
+  "title": "Nackt. Das Netz vergisst nie.",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30564691",
+    "imdb": "tt6258530",
+    "tmdb": 450812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

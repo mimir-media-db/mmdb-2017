@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sporty_girls_2017",
+  "title": "Sporty Girls",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46454177",
+    "imdb": "tt7633104",
+    "tmdb": 552131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

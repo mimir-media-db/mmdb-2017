@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jack_whitehall_travels_with_my_father",
+  "title": "Jack Whitehall: Travels with My Father",
+  "start_year": 2017,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q30593346",
+    "imdb": "tt7453996",
+    "tmdb": 74100
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 11
+}

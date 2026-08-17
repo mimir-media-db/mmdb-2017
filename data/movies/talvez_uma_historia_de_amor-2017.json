@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talvez_uma_historia_de_amor_2017",
+  "title": "Talvez uma História de Amor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30927915",
+    "imdb": "tt5228710",
+    "tmdb": 492826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 105
+}

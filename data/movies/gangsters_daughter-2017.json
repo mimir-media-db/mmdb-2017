@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gangsters_daughter_2017",
+  "title": "The Gangster's Daughter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28418178",
+    "imdb": "tt5713498",
+    "tmdb": 447438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thrissivaperoor_kliptham_2017",
+  "title": "Thrissivaperoor Kliptham",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959596",
+    "imdb": "tt5972292",
+    "tmdb": 428662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

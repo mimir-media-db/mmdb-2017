@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gert_late_night",
+  "title": "Gert Late Night",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q41795429",
+    "imdb": "tt7497900",
+    "tmdb": 85154
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_13_reasons_why",
+  "title": "13 Reasons Why",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q18464203",
+    "imdb": "tt1837492",
+    "tmdb": 66788
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 49
+}

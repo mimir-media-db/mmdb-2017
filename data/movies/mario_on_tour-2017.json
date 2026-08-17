@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mario_on_tour_2017",
+  "title": "Mario on tour",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30031292",
+    "imdb": "tt6941812",
+    "tmdb": 474261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 105
+}

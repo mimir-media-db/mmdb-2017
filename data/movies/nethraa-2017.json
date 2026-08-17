@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nethraa_2017",
+  "title": "Nethraa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959306",
+    "imdb": "tt9319898",
+    "tmdb": 414012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_price_2017",
+  "title": "The Price",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55635473",
+    "imdb": "tt3212026",
+    "tmdb": 426240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amorcom_2017",
+  "title": "Amor.com",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48862028",
+    "imdb": "tt5635808",
+    "tmdb": 448763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

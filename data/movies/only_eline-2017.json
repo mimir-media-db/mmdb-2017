@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_eline_2017",
+  "title": "Only Eline",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41795424",
+    "imdb": "tt7629994",
+    "tmdb": 515339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 99
+}

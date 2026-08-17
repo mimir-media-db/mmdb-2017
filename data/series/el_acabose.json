@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_acabose",
+  "title": "El Acabose",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28942756",
+    "imdb": "tt6671236",
+    "tmdb": 71568
+  },
+  "last_updated": "2026-08-17"
+}

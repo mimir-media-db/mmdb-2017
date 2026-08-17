@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_5_gold_rings",
+  "title": "5 Gold Rings",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q37995887",
+    "imdb": "tt10886618",
+    "tmdb": 93164
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

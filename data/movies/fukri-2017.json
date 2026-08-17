@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fukri_2017",
+  "title": "Fukri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27701439",
+    "imdb": "tt6160504",
+    "tmdb": 430259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

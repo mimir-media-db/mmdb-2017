@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_out_of_water_2017_2017",
+  "title": "A Fish Out Of Water 2017",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30946971",
+    "imdb": "tt7297958",
+    "tmdb": 473316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

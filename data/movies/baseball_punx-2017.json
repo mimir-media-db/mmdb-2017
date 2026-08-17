@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baseball_punx_2017",
+  "title": "Baseball Punx",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50650304",
+    "imdb": "tt7318630",
+    "tmdb": 862957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_awakening_the_zodiac_2017",
+  "title": "Awakening the Zodiac",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303311",
+    "imdb": "tt6294892",
+    "tmdb": 431112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_girl_of_pleasure",
+  "title": "Girl of Pleasure",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q42173499",
+    "imdb": "tt7277876",
+    "tmdb": 73901
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

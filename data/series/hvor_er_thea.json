@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hvor_er_thea",
+  "title": "Hvor er Thea?",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q63344636",
+    "imdb": "tt7573264",
+    "tmdb": 74575
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

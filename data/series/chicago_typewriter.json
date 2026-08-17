@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chicago_typewriter",
+  "title": "Chicago Typewriter",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28416731",
+    "imdb": "tt6516076",
+    "tmdb": 70528
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

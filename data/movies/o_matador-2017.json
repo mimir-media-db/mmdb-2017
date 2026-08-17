@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_matador_2017",
+  "title": "O Matador",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30326695",
+    "imdb": "tt5379294",
+    "tmdb": 466190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

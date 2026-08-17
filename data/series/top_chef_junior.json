@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_chef_junior",
+  "title": "Top Chef Junior",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48739383",
+    "imdb": "tt7497272",
+    "tmdb": 34778
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

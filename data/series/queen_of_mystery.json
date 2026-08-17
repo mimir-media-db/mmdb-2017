@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_of_mystery",
+  "title": "Queen of Mystery",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28700956",
+    "imdb": "tt6530396",
+    "tmdb": 70957
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

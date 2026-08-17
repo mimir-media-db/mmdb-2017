@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_auf_erden_2017",
+  "title": "So auf Erden",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42285239",
+    "imdb": "tt6059648",
+    "tmdb": 433280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 88
+}

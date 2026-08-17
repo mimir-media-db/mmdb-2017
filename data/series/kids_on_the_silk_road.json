@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kids_on_the_silk_road",
+  "title": "Kids on the Silk Road",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q76516003",
+    "imdb": "tt7309790",
+    "tmdb": 291640
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

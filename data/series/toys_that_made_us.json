@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_toys_that_made_us",
+  "title": "The Toys That Made Us",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q46965329",
+    "imdb": "tt7053920",
+    "tmdb": 75871
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

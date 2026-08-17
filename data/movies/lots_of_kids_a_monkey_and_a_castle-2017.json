@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lots_of_kids_a_monkey_and_a_castle_2017",
+  "title": "Lots of Kids, a Monkey and a Castle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51880327",
+    "imdb": "tt7115920",
+    "tmdb": 473176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 88
+}

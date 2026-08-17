@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_im_dying_up_here",
+  "title": "I'm Dying Up Here",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q22022717",
+    "imdb": "tt4938700",
+    "tmdb": 66620
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

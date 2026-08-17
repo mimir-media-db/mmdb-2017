@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_penny_2017",
+  "title": "One Penny",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33129466",
+    "imdb": "tt4461060",
+    "tmdb": 440749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

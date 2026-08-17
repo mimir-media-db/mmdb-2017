@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_geralds_game_2017",
+  "title": "Gerald's Game",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27940451",
+    "imdb": "tt3748172",
+    "tmdb": 343674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 103
+}

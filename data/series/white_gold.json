@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_white_gold",
+  "title": "White Gold",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q30611658",
+    "imdb": "tt6010920",
+    "tmdb": 71683
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vazante_2017",
+  "title": "Vazante",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28771647",
+    "imdb": "tt4673790",
+    "tmdb": 436355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 116
+}

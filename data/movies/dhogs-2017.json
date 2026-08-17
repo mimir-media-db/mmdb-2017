@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dhogs_2017",
+  "title": "Dhogs",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50347073",
+    "imdb": "tt5612554",
+    "tmdb": 458815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 85
+}

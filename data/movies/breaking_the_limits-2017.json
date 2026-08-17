@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_the_limits_2017",
+  "title": "Breaking the Limits",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48854417",
+    "imdb": "tt6737766",
+    "tmdb": 470360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 108
+}

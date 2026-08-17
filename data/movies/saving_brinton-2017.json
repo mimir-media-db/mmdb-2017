@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_brinton_2017",
+  "title": "Saving Brinton",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54020220",
+    "imdb": "tt6195442",
+    "tmdb": 458978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

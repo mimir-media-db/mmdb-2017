@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_post",
+  "title": "The Last Post",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q42301897",
+    "imdb": "tt5133742",
+    "tmdb": 74253
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

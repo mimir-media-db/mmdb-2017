@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_face_to_face",
+  "title": "Face to Face",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q98075934",
+    "imdb": "tt7531930"
+  },
+  "last_updated": "2026-08-17"
+}

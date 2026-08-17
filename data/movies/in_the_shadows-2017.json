@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_shadows_2017",
+  "title": "In the Shadows",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41848268",
+    "imdb": "tt2302416",
+    "tmdb": 479491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_between_two_worlds",
+  "title": "Between Two Worlds",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120837480",
+    "imdb": "tt8267158",
+    "tmdb": 74986
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

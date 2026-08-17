@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_suspicious_partner",
+  "title": "Suspicious Partner",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q29032346",
+    "imdb": "tt6720154",
+    "tmdb": 71349
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

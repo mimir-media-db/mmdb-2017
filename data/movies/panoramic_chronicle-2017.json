@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_panoramic_chronicle_2017",
+  "title": "Panoramic Chronicle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51464351",
+    "imdb": "tt7745026",
+    "tmdb": 511144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 3
+}

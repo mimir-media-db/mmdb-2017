@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_77_heartbreaks_2017",
+  "title": "77 Heartbreaks",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28410977",
+    "imdb": "tt6608132",
+    "tmdb": 449652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 97
+}

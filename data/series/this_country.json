@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_country",
+  "title": "This Country",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28972002",
+    "imdb": "tt6583806",
+    "tmdb": 70596
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 19
+}

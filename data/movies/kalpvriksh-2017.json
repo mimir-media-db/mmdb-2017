@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalpvriksh_2017",
+  "title": "Kalpvriksh",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17062473",
+    "imdb": "tt1233600",
+    "tmdb": 455549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

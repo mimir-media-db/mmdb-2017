@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shona_bondhu_2017",
+  "title": "Shona Bondhu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42530074",
+    "imdb": "tt7326634",
+    "tmdb": 478301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

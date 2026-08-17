@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brigsby_bear_2017",
+  "title": "Brigsby Bear",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28369571",
+    "imdb": "tt5805752",
+    "tmdb": 403431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_bond",
+  "title": "House of Bond",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24189330",
+    "imdb": "tt6231504",
+    "tmdb": 71417
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

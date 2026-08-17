@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_high_low_the_movie_2end_of_sky_2017",
+  "title": "HiGH & LOW the Movie 2/End of SKY",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39072988",
+    "imdb": "tt6721358",
+    "tmdb": 508822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

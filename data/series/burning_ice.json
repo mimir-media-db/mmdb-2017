@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_burning_ice",
+  "title": "Burning Ice",
+  "start_year": 2017,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q55075133",
+    "imdb": "tt7368008",
+    "tmdb": 73386
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jailbreak_2017",
+  "title": "Jailbreak",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30598843",
+    "imdb": "tt5741304",
+    "tmdb": 433623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

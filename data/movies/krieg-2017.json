@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krieg_2017",
+  "title": "Krieg",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38001222",
+    "imdb": "tt7217962",
+    "tmdb": 472647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

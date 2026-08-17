@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amy_schumer_the_leather_special_2017",
+  "title": "Amy Schumer: The Leather Special",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30632756",
+    "imdb": "tt6616074",
+    "tmdb": 444513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

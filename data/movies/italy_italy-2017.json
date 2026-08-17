@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italy_italy_2017",
+  "title": "Italy Italy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28100682",
+    "imdb": "tt6879318",
+    "tmdb": 513335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 102
+}

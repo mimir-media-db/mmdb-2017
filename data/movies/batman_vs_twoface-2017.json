@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_batman_vs_twoface_2017",
+  "title": "Batman vs. Two-Face",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30764967",
+    "imdb": "tt6142314",
+    "tmdb": 464882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 72
+}

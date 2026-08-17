@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_censor_2017",
+  "title": "Censor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48945002",
+    "imdb": "tt4956160",
+    "tmdb": 586172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_kabbadi_2017",
+  "title": "Mr. Kabbadi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590108",
+    "imdb": "tt8084696",
+    "tmdb": 474579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

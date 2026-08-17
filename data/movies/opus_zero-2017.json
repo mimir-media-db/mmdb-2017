@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_opus_zero_2017",
+  "title": "Opus Zero",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031321",
+    "imdb": "tt6195904",
+    "tmdb": 496884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_borg_mcenroe_2017",
+  "title": "Borg McEnroe",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590730",
+    "imdb": "tt5727282",
+    "tmdb": 397538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

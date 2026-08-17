@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_austin_found_2017",
+  "title": "Austin Found",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30000547",
+    "imdb": "tt2658538",
+    "tmdb": 291188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 104
+}

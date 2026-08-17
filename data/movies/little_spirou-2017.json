@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_spirou_2017",
+  "title": "The Little Spirou",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28497242",
+    "imdb": "tt6194538",
+    "tmdb": 398947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

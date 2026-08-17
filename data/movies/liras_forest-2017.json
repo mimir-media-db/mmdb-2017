@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liras_forest_2017",
+  "title": "Lira's Forest",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53478882",
+    "imdb": "tt6078066",
+    "tmdb": 474393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 8
+}

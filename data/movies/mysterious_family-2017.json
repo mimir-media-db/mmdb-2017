@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mysterious_family_2017",
+  "title": "The Mysterious Family",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30125833",
+    "imdb": "tt4845078",
+    "tmdb": 369562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

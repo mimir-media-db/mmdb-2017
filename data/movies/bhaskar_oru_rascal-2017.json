@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhaskar_oru_rascal_2017",
+  "title": "Bhaskar Oru Rascal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29468085",
+    "imdb": "tt7088032",
+    "tmdb": 467117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

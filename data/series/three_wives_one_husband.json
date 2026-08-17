@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_three_wives_one_husband",
+  "title": "Three Wives, One Husband",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58023938",
+    "imdb": "tt6681426",
+    "tmdb": 105577
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

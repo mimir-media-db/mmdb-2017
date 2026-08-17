@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_froid_2017",
+  "title": "Grand froid",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30740932",
+    "imdb": "tt5356292",
+    "tmdb": 438790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

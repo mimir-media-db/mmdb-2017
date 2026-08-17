@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_abnormalities",
+  "title": "Abnormalities",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138337455"
+  },
+  "last_updated": "2026-08-17"
+}

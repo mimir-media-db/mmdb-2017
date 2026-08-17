@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_circus_noel",
+  "title": "Circus Noël",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q63141921",
+    "imdb": "tt7477288",
+    "tmdb": 81057
+  },
+  "last_updated": "2026-08-17"
+}

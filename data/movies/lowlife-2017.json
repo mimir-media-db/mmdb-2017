@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lowlife_2017",
+  "title": "Lowlife",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55621385",
+    "imdb": "tt7012864",
+    "tmdb": 461773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 96
+}

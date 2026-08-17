@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_black_horse",
+  "title": "The Black Horse",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138611373",
+    "imdb": "tt12857284",
+    "tmdb": 76050
+  },
+  "last_updated": "2026-08-17"
+}

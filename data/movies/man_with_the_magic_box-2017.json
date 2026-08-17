@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_with_the_magic_box_2017",
+  "title": "The Man with the Magic Box",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48967276",
+    "imdb": "tt5782146",
+    "tmdb": 484917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 103
+}

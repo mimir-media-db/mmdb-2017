@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_darlings",
+  "title": "Hollywood Darlings",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30642942",
+    "imdb": "tt5591136",
+    "tmdb": 71111
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

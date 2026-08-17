@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_apple_tree_yard",
+  "title": "Apple Tree Yard",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28532737",
+    "imdb": "tt5336698",
+    "tmdb": 69773
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

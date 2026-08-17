@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_art_of_crime",
+  "title": "The Art of Crime",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48753514",
+    "imdb": "tt6190050",
+    "tmdb": 75132
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 16
+}

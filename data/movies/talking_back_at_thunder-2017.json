@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_talking_back_at_thunder_2017",
+  "title": "Talking Back at Thunder",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840395",
+    "imdb": "tt3798520",
+    "tmdb": 437370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

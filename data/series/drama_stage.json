@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_drama_stage",
+  "title": "Drama Stage",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q43305209",
+    "imdb": "tt7825580",
+    "tmdb": 76241
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

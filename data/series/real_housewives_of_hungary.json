@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_hungary",
+  "title": "The Real Housewives of Hungary",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q40344770",
+    "imdb": "tt7241468",
+    "tmdb": 76474
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

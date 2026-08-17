@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pop_game",
+  "title": "The Pop Game",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124427751",
+    "imdb": "tt6432462",
+    "tmdb": 70370
+  },
+  "last_updated": "2026-08-17"
+}

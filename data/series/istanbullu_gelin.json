@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_istanbullu_gelin",
+  "title": "Istanbullu Gelin",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q29169335",
+    "imdb": "tt6462806",
+    "tmdb": 70798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 9898
+}

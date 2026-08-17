@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_power_paandi_2017",
+  "title": "Power Paandi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963230",
+    "imdb": "tt6734886",
+    "tmdb": 414824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

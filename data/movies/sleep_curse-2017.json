@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleep_curse_2017",
+  "title": "The Sleep Curse",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30943092",
+    "imdb": "tt6754750",
+    "tmdb": 447952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

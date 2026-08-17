@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_then_she_arrived_2017",
+  "title": "Then She Arrived",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50004477",
+    "imdb": "tt7196880",
+    "tmdb": 498470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

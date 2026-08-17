@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_en_tierras_salvajes",
+  "title": "En tierras salvajes",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28600122",
+    "imdb": "tt7164010",
+    "tmdb": 74022
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

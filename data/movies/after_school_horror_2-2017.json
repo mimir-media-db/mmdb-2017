@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_school_horror_2_2017",
+  "title": "After School Horror 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31172806",
+    "imdb": "tt7472366",
+    "tmdb": 482631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

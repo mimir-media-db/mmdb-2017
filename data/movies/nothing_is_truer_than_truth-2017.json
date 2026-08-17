@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_is_truer_than_truth_2017",
+  "title": "Nothing Is Truer than Truth",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24577743",
+    "imdb": "tt4459424",
+    "tmdb": 521488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 75
+}

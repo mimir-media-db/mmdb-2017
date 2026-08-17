@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shes_gotta_have_it",
+  "title": "She's Gotta Have It",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q28443699",
+    "imdb": "tt3713588",
+    "tmdb": 72633
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

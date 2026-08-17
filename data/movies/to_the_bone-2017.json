@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_the_bone_2017",
+  "title": "To the Bone",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136469",
+    "imdb": "tt5541240",
+    "tmdb": 401104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 107
+}

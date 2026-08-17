@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_calls_australia",
+  "title": "Murder Calls Australia",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28753404",
+    "imdb": "tt6624166",
+    "tmdb": 217348
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

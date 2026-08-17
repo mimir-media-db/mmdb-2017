@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_soz",
+  "title": "Söz",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q29573154",
+    "imdb": "tt6942048",
+    "tmdb": 71096
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_law_order_true_crime",
+  "title": "Law & Order True Crime",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30644089",
+    "imdb": "tt6110318",
+    "tmdb": 72496
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

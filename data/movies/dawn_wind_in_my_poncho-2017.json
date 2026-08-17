@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dawn_wind_in_my_poncho_2017",
+  "title": "Dawn Wind in My Poncho",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30935996",
+    "imdb": "tt6967666",
+    "tmdb": 499188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

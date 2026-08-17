@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_the_child_be_the_guide_2017",
+  "title": "Let The Child Be The Guide",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56235900",
+    "imdb": "tt7094966",
+    "tmdb": 471987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

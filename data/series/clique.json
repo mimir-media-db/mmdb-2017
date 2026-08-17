@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_clique",
+  "title": "Clique",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30599914",
+    "imdb": "tt6563112",
+    "tmdb": 70566
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

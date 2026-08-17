@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_presque_adultes",
+  "title": "Presque adultes",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39071557",
+    "imdb": "tt7149430",
+    "tmdb": 72756
+  },
+  "last_updated": "2026-08-17"
+}

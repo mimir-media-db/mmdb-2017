@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roodkapje_een_modern_sprookje_2017",
+  "title": "Roodkapje: Een Modern Sprookje",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28123795",
+    "imdb": "tt6955922",
+    "tmdb": 538836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 70
+}

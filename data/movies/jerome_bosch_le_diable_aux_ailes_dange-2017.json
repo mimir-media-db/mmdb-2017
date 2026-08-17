@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerome_bosch_le_diable_aux_ailes_dange_2017",
+  "title": "Jérôme Bosch, le diable aux ailes d'ange",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28544070",
+    "imdb": "tt6506798",
+    "tmdb": 517074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 52
+}

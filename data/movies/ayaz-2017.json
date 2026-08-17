@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ayaz_2017",
+  "title": "Ayaz",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42563687",
+    "imdb": "tt7488602",
+    "tmdb": 528504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

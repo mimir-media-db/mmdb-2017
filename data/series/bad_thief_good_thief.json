@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_thief_good_thief",
+  "title": "Bad Thief, Good Thief",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28932703",
+    "imdb": "tt6672568",
+    "tmdb": 71640
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

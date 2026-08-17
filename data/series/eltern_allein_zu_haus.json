@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_eltern_allein_zu_haus",
+  "title": "Eltern allein zu Haus",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q106452625",
+    "imdb": "tt5170766"
+  },
+  "last_updated": "2026-08-17"
+}

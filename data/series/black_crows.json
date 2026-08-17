@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_black_crows",
+  "title": "Black Crows",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q30314738",
+    "imdb": "tt7356518",
+    "tmdb": 80002
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebel_in_the_rye_2017",
+  "title": "Rebel in the Rye",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999294",
+    "imdb": "tt4986134",
+    "tmdb": 390056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 106
+}

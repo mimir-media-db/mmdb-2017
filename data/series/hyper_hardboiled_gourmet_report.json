@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hyper_hardboiled_gourmet_report",
+  "title": "Hyper HardBoiled Gourmet Report",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64465942",
+    "imdb": "tt14941188",
+    "tmdb": 91711
+  },
+  "last_updated": "2026-08-17"
+}

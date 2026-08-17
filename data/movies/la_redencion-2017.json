@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_redencion_2017",
+  "title": "La Redención",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28518899"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

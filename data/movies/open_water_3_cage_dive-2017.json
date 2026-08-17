@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_open_water_3_cage_dive_2017",
+  "title": "Open Water 3: Cage Dive",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34557505",
+    "imdb": "tt4126568",
+    "tmdb": 420707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

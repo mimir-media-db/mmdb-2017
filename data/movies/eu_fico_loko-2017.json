@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eu_fico_loko_2017",
+  "title": "Eu Fico Loko",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27996398",
+    "imdb": "tt5968964",
+    "tmdb": 428645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

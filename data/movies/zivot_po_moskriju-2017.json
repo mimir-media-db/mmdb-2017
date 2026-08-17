@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zivot_po_moskriju_2017",
+  "title": "Zivot po Moskriju",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31184910",
+    "imdb": "tt6864608",
+    "tmdb": 460141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

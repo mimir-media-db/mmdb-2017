@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funf_sterne_2017",
+  "title": "Fünf Sterne",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29579063",
+    "imdb": "tt7088562",
+    "tmdb": 442714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 79
+}

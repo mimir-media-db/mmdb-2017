@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_terrace_house_opening_new_doors",
+  "title": "Terrace House: Opening New Doors",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48850698",
+    "imdb": "tt7776244",
+    "tmdb": 75814
+  },
+  "last_updated": "2026-08-17"
+}

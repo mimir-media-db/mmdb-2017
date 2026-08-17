@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wine_war_2017",
+  "title": "Wine War",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30944746",
+    "imdb": "tt3699104",
+    "tmdb": 462605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

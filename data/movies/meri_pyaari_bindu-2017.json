@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meri_pyaari_bindu_2017",
+  "title": "Meri Pyaari Bindu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24238537",
+    "imdb": "tt5472374",
+    "tmdb": 455470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

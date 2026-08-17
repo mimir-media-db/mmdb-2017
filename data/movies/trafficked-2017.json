@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trafficked_2017",
+  "title": "Trafficked",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031094",
+    "imdb": "tt1720621",
+    "tmdb": 464733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

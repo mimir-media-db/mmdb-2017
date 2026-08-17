@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emmanuel_macron_les_coulisses_dune_victoire_2017",
+  "title": "Emmanuel Macron, les coulisses d’une victoire",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29889275",
+    "imdb": "tt6866918",
+    "tmdb": 456789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

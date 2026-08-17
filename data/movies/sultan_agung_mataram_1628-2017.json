@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sultan_agung_mataram_1628_2017",
+  "title": "Sultan Agung Mataram 1628",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27979527",
+    "imdb": "tt8836476",
+    "tmdb": 542709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

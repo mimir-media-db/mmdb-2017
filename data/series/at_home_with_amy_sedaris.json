@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_at_home_with_amy_sedaris",
+  "title": "At Home with Amy Sedaris",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q39056945",
+    "imdb": "tt7552590",
+    "tmdb": 74666
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tshiong_2017",
+  "title": "Tshiong",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48911216",
+    "imdb": "tt7832486",
+    "tmdb": 495188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 97
+}

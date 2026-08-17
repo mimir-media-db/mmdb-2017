@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_days_by_the_river_2017",
+  "title": "Green Days by the River",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36492839",
+    "imdb": "tt6314906",
+    "tmdb": 480742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 102
+}

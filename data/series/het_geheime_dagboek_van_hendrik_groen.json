@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_het_geheime_dagboek_van_hendrik_groen",
+  "title": "Het geheime dagboek van Hendrik Groen",
+  "start_year": 2016,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q43468565",
+    "imdb": "tt7458752",
+    "tmdb": 75071
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

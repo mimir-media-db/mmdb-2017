@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_os_saltimbancos_trapalhoes_rumo_a_hollywood_2017",
+  "title": "Os Saltimbancos Trapalhões: Rumo a Hollywood",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28444920",
+    "imdb": "tt5709620",
+    "tmdb": 430840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 99
+}

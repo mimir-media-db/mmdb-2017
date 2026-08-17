@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_under_cover",
+  "title": "Under Cover",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30945671",
+    "imdb": "tt9619936",
+    "tmdb": 78089
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 43
+}

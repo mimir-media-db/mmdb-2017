@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_peso_de_la_ley_2017",
+  "title": "El peso de la ley",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28954838",
+    "imdb": "tt6749072",
+    "tmdb": 451973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 101
+}

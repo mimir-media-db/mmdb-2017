@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_specialists",
+  "title": "Specialists",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28090457",
+    "imdb": "tt7067008",
+    "tmdb": 70503
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 135
+}

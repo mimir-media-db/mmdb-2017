@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_kids_of_crestview_academy_2017",
+  "title": "Bad Kids of Crestview Academy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27981627",
+    "imdb": "tt3349578",
+    "tmdb": 426580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

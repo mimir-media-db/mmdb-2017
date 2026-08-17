@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disneys_newsies_the_broadway_musical_2017",
+  "title": "Disney's Newsies the Broadway Musical",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28790328",
+    "imdb": "tt6346162",
+    "tmdb": 462477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

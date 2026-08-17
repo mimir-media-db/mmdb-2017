@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cutie_cubies",
+  "title": "CUTIE CUBIES",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48954676",
+    "imdb": "tt7520728",
+    "tmdb": 82703
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 36
+}

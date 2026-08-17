@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_2017",
+  "title": "The Shadow",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30611889",
+    "imdb": "tt5485420",
+    "tmdb": 468938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 107
+}

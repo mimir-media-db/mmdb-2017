@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_massage_detective_joe",
+  "title": "Massage Detective Joe",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30922936",
+    "imdb": "tt6503434",
+    "tmdb": 84933
+  },
+  "last_updated": "2026-08-17"
+}

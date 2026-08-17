@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_chemin_2017",
+  "title": "Le chemin",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39074485",
+    "imdb": "tt5821400",
+    "tmdb": 461151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

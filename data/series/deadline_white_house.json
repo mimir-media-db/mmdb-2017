@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_deadline_white_house",
+  "title": "Deadline: White House",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30638704",
+    "imdb": "tt6992876",
+    "tmdb": 86091
+  },
+  "last_updated": "2026-08-17"
+}

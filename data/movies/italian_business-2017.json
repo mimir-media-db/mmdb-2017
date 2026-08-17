@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italian_business_2017",
+  "title": "Italian Business",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29034256",
+    "imdb": "tt6050008",
+    "tmdb": 1219015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alifu_the_princess_2017",
+  "title": "Alifu, the Prince/ss",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42294763",
+    "imdb": "tt7491398",
+    "tmdb": 483733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eradane_sala_2017",
+  "title": "Eradane Sala",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28841945",
+    "imdb": "tt7600718",
+    "tmdb": 495360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

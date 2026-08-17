@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_scum_wish",
+  "title": "Scum Wish",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q104835444",
+    "imdb": "tt6577448",
+    "tmdb": 69812
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

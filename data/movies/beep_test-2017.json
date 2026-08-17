@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beep_test_2017",
+  "title": "The Beep Test",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55635058",
+    "imdb": "tt6709052",
+    "tmdb": 499467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

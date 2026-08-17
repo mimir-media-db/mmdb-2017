@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_crime_da_gavea_2017",
+  "title": "O Crime da Gávea",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28920512",
+    "imdb": "tt6566878",
+    "tmdb": 445604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 78
+}

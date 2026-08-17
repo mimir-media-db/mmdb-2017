@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_damascus_cover_2017",
+  "title": "Damascus Cover",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55393365",
+    "imdb": "tt3457508",
+    "tmdb": 324538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

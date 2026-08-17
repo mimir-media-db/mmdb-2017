@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_royal_house_of_windsor",
+  "title": "The Royal House of Windsor",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47470667",
+    "imdb": "tt6596634",
+    "tmdb": 74308
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

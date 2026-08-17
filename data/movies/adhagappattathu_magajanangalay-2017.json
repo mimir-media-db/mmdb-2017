@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adhagappattathu_magajanangalay_2017",
+  "title": "Adhagappattathu Magajanangalay",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998176",
+    "imdb": "tt7019938",
+    "tmdb": 412657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_legion",
+  "title": "Legion",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q24279305",
+    "imdb": "tt5114356",
+    "tmdb": 67195
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 27
+}

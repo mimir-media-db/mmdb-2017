@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_noise_2017",
+  "title": "Ill Noise",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031366",
+    "imdb": "tt6478046"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

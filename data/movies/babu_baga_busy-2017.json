@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babu_baga_busy_2017",
+  "title": "Babu Baga Busy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832417",
+    "imdb": "tt6704014",
+    "tmdb": 459803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

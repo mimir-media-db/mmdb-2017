@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_end_2017",
+  "title": "Happy End",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000321",
+    "imdb": "tt5304464",
+    "tmdb": 399031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 107
+}

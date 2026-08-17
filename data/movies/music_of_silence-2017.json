@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_music_of_silence_2017",
+  "title": "The Music of Silence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303229",
+    "imdb": "tt3244786",
+    "tmdb": 475242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 114
+}

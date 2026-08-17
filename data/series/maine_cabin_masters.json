@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_maine_cabin_masters",
+  "title": "Maine Cabin Masters",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97178457",
+    "imdb": "tt6906110",
+    "tmdb": 69898
+  },
+  "last_updated": "2026-08-17"
+}

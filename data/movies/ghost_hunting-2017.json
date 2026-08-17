@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_hunting_2017",
+  "title": "Ghost Hunting",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28946759",
+    "imdb": "tt6568868",
+    "tmdb": 441492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 94
+}

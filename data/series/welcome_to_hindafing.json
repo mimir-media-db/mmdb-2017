@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_welcome_to_hindafing",
+  "title": "Welcome to Hindafing",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29912916",
+    "imdb": "tt5546156",
+    "tmdb": 71681
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maidenin_altn_gunu_2017",
+  "title": "Maide'nin Altın Günü",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43160927",
+    "imdb": "tt7642878",
+    "tmdb": 477314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_you_are_wanted",
+  "title": "You Are Wanted",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28966823",
+    "imdb": "tt5462886",
+    "tmdb": 70048
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

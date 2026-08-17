@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_invitation_au_voyage",
+  "title": "Invitation au voyage",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30742698",
+    "imdb": "tt7371654",
+    "tmdb": 98329
+  },
+  "last_updated": "2026-08-17"
+}

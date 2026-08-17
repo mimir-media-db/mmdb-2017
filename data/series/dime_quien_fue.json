@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dime_quien_fue",
+  "title": "Dime Quién Fue",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q43191892",
+    "imdb": "tt7689038",
+    "tmdb": 95832
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fire_island",
+  "title": "Fire Island",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30602486",
+    "imdb": "tt6810930",
+    "tmdb": 71385
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

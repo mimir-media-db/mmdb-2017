@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthur_miller_writer_2017",
+  "title": "Arthur Miller: Writer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55393200",
+    "imdb": "tt7302488",
+    "tmdb": 473399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 98
+}

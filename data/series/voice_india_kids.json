@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_india_kids",
+  "title": "The Voice India Kids",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25068221",
+    "imdb": "tt8227660",
+    "tmdb": 75315
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

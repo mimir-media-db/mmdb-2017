@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zaakham",
+  "title": "Zaakham",
+  "start_year": 2017,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q30646369",
+    "imdb": "tt9156216",
+    "tmdb": 104592
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_happened_to_monday_2017",
+  "title": "What Happened to Monday",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814900",
+    "imdb": "tt1536537",
+    "tmdb": 406990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stories_of_love_that_cannot_belong_to_this_world_2017",
+  "title": "Stories of Love That Cannot Belong to This World",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48075865",
+    "imdb": "tt7133340",
+    "tmdb": 467412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

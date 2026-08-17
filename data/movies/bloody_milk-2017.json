@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_milk_2017",
+  "title": "Bloody Milk",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30739657",
+    "imdb": "tt6805302",
+    "tmdb": 453350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

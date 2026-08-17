@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krystal_2017",
+  "title": "Krystal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6458426",
+    "imdb": "tt0835802",
+    "tmdb": 10148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

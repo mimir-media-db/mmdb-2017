@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_freibadclique_2017",
+  "title": "Die Freibadclique",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33093122",
+    "imdb": "tt6006234",
+    "tmdb": 514780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 108
+}

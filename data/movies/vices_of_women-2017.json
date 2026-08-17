@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vices_of_women_2017",
+  "title": "The Vices Of Women",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51630817"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 108
+}

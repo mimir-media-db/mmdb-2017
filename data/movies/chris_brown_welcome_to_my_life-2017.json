@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chris_brown_welcome_to_my_life_2017",
+  "title": "Chris Brown: Welcome to My Life",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45371869",
+    "imdb": "tt5588850",
+    "tmdb": 456508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

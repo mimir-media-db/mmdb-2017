@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_guys_city_of_evil",
+  "title": "Bad Guys: City of Evil",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q41982789",
+    "imdb": "tt12404980",
+    "tmdb": 75765
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

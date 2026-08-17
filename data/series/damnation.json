@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_damnation",
+  "title": "Damnation",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30608049",
+    "imdb": "tt6106704",
+    "tmdb": 71979
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

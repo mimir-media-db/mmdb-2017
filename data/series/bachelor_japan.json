@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bachelor_japan",
+  "title": "The Bachelor Japan",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55531739",
+    "imdb": "tt7309716",
+    "tmdb": 229333
+  },
+  "last_updated": "2026-08-17"
+}

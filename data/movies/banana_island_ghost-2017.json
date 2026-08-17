@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_banana_island_ghost_2017",
+  "title": "Banana Island Ghost",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30051035",
+    "imdb": "tt8149090",
+    "tmdb": 523807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_lucy_2017",
+  "title": "Oh Lucy!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28453091",
+    "imdb": "tt6343058",
+    "tmdb": 430644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

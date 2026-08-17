@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shimmer_lake_2017",
+  "title": "Shimmer Lake",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30080480",
+    "imdb": "tt1386691",
+    "tmdb": 457962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 83
+}

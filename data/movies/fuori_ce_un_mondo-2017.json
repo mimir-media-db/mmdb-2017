@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuori_ce_un_mondo_2017",
+  "title": "Fuori c'è un mondo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50896128",
+    "imdb": "tt6347524",
+    "tmdb": 517797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_provenance_2017",
+  "title": "Provenance",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28173517",
+    "imdb": "tt5579976",
+    "tmdb": 463616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

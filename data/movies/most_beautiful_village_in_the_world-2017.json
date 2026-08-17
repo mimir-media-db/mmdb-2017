@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_most_beautiful_village_in_the_world_2017",
+  "title": "The Most Beautiful Village in the World",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48760388",
+    "imdb": "tt6728402",
+    "tmdb": 1206341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

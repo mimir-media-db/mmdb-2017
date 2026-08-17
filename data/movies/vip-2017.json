@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vip_2017",
+  "title": "VIP",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964479",
+    "imdb": "tt6413410",
+    "tmdb": 435601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 128
+}

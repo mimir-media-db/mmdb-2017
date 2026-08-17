@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_back_to_field",
+  "title": "Back to Field",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30945908",
+    "imdb": "tt10525584",
+    "tmdb": 88939
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 95
+}

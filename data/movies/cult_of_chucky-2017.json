@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cult_of_chucky_2017",
+  "title": "Cult of Chucky",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28130946",
+    "imdb": "tt3280262",
+    "tmdb": 393345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

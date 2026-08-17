@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whisper_of_the_jaguar_2017",
+  "title": "The Whisper of the Jaguar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52922102",
+    "imdb": "tt8167820",
+    "tmdb": 509636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 79
+}

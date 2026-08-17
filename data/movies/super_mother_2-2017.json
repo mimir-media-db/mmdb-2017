@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_mother_2_2017",
+  "title": "Super Mother 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671193",
+    "imdb": "tt7643334",
+    "tmdb": 726218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

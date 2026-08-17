@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_mannentester",
+  "title": "De mannentester",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30184591",
+    "imdb": "tt6685994",
+    "tmdb": 76293
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

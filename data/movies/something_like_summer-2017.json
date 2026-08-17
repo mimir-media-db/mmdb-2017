@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_something_like_summer_2017",
+  "title": "Something Like Summer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29542297",
+    "imdb": "tt2196053",
+    "tmdb": 460437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 115
+}

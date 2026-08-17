@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_en_viaje",
+  "title": "En viaje",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q107365798",
+    "imdb": "tt6142870",
+    "tmdb": 116152
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

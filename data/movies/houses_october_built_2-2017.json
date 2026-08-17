@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_houses_october_built_2_2017",
+  "title": "The Houses October Built 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048939",
+    "imdb": "tt7068818",
+    "tmdb": 466344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

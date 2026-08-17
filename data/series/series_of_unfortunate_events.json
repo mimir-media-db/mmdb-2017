@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_series_of_unfortunate_events",
+  "title": "A Series of Unfortunate Events",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q25340369",
+    "imdb": "tt4834206",
+    "tmdb": 65294
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

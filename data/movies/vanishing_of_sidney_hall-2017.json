@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vanishing_of_sidney_hall_2017",
+  "title": "The Vanishing of Sidney Hall",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24958752",
+    "imdb": "tt1291566",
+    "tmdb": 353066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 117
+}

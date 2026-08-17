@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_face_off_game_face",
+  "title": "Face Off: Game Face",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q48742920",
+    "imdb": "tt7345356",
+    "tmdb": 73381
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

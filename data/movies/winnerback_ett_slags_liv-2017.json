@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_winnerback_ett_slags_liv_2017",
+  "title": "Winnerbäck - Ett slags liv",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48970755",
+    "imdb": "tt7271808",
+    "tmdb": 480338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_documenting_the_witch_path_2017",
+  "title": "Documenting the Witch Path",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30927960",
+    "imdb": "tt6097280",
+    "tmdb": 652981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

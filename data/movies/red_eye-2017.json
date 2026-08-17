@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_eye_2017",
+  "title": "Red Eye",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958294",
+    "imdb": "tt4828330",
+    "tmdb": 423415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

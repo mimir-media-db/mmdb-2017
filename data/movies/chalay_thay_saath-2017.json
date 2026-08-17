@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chalay_thay_saath_2017",
+  "title": "Chalay Thay Saath",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24238540",
+    "imdb": "tt5615406",
+    "tmdb": 421479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hyde_park_2017",
+  "title": "Hyde Park",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39078737",
+    "imdb": "tt5604902",
+    "tmdb": 547116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

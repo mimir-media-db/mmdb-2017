@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_zona",
+  "title": "La zona",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q42330728",
+    "imdb": "tt6693154",
+    "tmdb": 74685
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

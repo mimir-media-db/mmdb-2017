@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rules_for_everything_2017",
+  "title": "The Rules for Everything",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34826212",
+    "imdb": "tt6275296",
+    "tmdb": 428956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

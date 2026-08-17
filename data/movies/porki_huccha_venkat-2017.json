@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_porki_huccha_venkat_2017",
+  "title": "Porki Huccha Venkat",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646868",
+    "imdb": "tt5224894"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

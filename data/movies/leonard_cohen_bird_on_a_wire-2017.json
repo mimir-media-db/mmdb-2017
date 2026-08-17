@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leonard_cohen_bird_on_a_wire_2017",
+  "title": "Leonard Cohen: Bird on a Wire",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28485805",
+    "imdb": "tt3314154",
+    "tmdb": 384108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

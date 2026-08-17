@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jeitosinha_2017",
+  "title": "Jeitosinha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048266",
+    "imdb": "tt6021856",
+    "tmdb": 472545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

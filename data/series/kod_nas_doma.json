@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kod_nas_doma",
+  "title": "Kod nas doma",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134291067",
+    "imdb": "tt31844083"
+  },
+  "last_updated": "2026-08-17"
+}

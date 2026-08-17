@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunshine_ukulele_2017",
+  "title": "Sunshine Ukulele",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30694347",
+    "imdb": "tt7205484",
+    "tmdb": 1438869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

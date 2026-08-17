@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_that_never_dies_2017",
+  "title": "The House That Never Dies Ⅱ",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28411063",
+    "imdb": "tt7627782",
+    "tmdb": 474420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

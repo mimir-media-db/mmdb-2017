@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_bones_2017",
+  "title": "Valley of Bones",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36491784",
+    "imdb": "tt4180286",
+    "tmdb": 432641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

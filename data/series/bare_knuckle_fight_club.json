@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bare_knuckle_fight_club",
+  "title": "Bare Knuckle Fight Club",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60859628",
+    "imdb": "tt6684226",
+    "tmdb": 78691
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lego_masters",
+  "title": "Lego Masters",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60776130",
+    "imdb": "tt7332868",
+    "tmdb": 84379
+  },
+  "last_updated": "2026-08-17"
+}

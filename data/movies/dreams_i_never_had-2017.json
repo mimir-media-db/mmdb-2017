@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreams_i_never_had_2017",
+  "title": "Dreams I Never Had",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54863905",
+    "imdb": "tt5478918",
+    "tmdb": 471288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 81
+}

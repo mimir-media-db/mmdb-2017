@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghouls_2017",
+  "title": "Ghouls",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28179506",
+    "imdb": "tt6569546",
+    "tmdb": 430988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

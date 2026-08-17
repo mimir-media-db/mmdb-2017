@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_makala_2017",
+  "title": "Makala",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30061494",
+    "imdb": "tt6805366",
+    "tmdb": 453358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

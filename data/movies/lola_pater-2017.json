@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lola_pater_2017",
+  "title": "Lola Pater",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34823412",
+    "imdb": "tt5517708",
+    "tmdb": 446037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

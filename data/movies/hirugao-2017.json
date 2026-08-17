@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hirugao_2017",
+  "title": "Hirugao",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45322544",
+    "imdb": "tt6106802",
+    "tmdb": 459592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

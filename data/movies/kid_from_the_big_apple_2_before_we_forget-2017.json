@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kid_from_the_big_apple_2_before_we_forget_2017",
+  "title": "The Kid from the Big Apple 2: Before We Forget",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55698351",
+    "imdb": "tt7551252",
+    "tmdb": 526598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

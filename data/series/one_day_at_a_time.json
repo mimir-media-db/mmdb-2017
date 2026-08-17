@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_one_day_at_a_time",
+  "title": "One Day at a Time",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q28059498",
+    "imdb": "tt5339440",
+    "tmdb": 69017
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 46
+}

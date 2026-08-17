@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dorien",
+  "title": "Dorien",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q106612170",
+    "imdb": "tt7582782",
+    "tmdb": 76981
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_fiscal_de_hierro",
+  "title": "La fiscal de hierro",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28325012",
+    "imdb": "tt6516524",
+    "tmdb": 102934
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 80
+}

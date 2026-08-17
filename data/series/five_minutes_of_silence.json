@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_five_minutes_of_silence",
+  "title": "Five Minutes of Silence",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q52567112",
+    "imdb": "tt9397010",
+    "tmdb": 79714
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}

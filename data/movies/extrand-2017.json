@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_extrand_2017",
+  "title": "Extrand",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28687911",
+    "tmdb": 1052746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

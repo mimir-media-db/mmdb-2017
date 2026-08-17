@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_whisper",
+  "title": "Whisper",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28952018",
+    "imdb": "tt6467330",
+    "tmdb": 69974
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

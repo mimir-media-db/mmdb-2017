@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raktokorobi_2017",
+  "title": "Raktokorobi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48732749",
+    "imdb": "tt7792194",
+    "tmdb": 507860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

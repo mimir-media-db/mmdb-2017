@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fazilet_hanm_ve_kzlar",
+  "title": "Fazilet Hanım ve Kızları",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29582631",
+    "imdb": "tt6756704",
+    "tmdb": 76560
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 50
+}

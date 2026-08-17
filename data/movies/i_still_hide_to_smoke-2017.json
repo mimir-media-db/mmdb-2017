@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_still_hide_to_smoke_2017",
+  "title": "I Still Hide To Smoke",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30739026",
+    "imdb": "tt6210808",
+    "tmdb": 422566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

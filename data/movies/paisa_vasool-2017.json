@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paisa_vasool_2017",
+  "title": "Paisa Vasool",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30611853",
+    "imdb": "tt7188742",
+    "tmdb": 471331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 142
+}

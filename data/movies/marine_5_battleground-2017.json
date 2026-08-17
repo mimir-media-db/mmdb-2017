@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marine_5_battleground_2017",
+  "title": "The Marine 5: Battleground",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806912",
+    "imdb": "tt5781798",
+    "tmdb": 445993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bounty_hunters",
+  "title": "Bounty Hunters",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48798234",
+    "imdb": "tt7350790",
+    "tmdb": 74673
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

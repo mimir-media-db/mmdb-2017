@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alain_danielou_into_the_labyrinth_2017",
+  "title": "Alain Danielou - Into the Labyrinth",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51846943",
+    "imdb": "tt7758028"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 78
+}

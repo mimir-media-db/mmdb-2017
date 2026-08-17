@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_riddle_of_steel_the_definitive_history_of_conan_the_barbarian_2017",
+  "title": "A Riddle of Steel: The Definitive History of Conan the Barbarian",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26822560",
+    "imdb": "tt5909216",
+    "tmdb": 620492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 134
+}

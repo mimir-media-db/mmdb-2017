@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_locodol_dorama_documentary_2017",
+  "title": "Locodol Dorama Documentary",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36768722",
+    "imdb": "tt8289104",
+    "tmdb": 812959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

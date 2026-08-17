@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_korean_odyssey",
+  "title": "A Korean Odyssey",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q41948223",
+    "imdb": "tt7099334",
+    "tmdb": 75123
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

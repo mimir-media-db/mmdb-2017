@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_souls_at_night_2017",
+  "title": "Our Souls at Night",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959487",
+    "imdb": "tt5034266",
+    "tmdb": 433252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 101
+}

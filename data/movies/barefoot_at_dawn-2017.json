@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barefoot_at_dawn_2017",
+  "title": "Barefoot at Dawn",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48752059",
+    "imdb": "tt6079186",
+    "tmdb": 465242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

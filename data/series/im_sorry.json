@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_im_sorry",
+  "title": "I'm Sorry",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q33132180",
+    "imdb": "tt5987254",
+    "tmdb": 72820
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

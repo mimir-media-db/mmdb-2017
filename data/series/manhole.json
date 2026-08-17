@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_manhole",
+  "title": "Manhole",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q31180570",
+    "imdb": "tt7094904",
+    "tmdb": 72547
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_old_beast_2017",
+  "title": "Old Beast",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43186106",
+    "imdb": "tt7481246",
+    "tmdb": 484715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_of_ink_2017",
+  "title": "A Taste of Ink",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28495622",
+    "imdb": "tt5196472",
+    "tmdb": 416786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

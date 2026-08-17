@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_modry_kod",
+  "title": "Modrý Kód",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28758131",
+    "imdb": "tt7058158",
+    "tmdb": 74402
+  },
+  "last_updated": "2026-08-17"
+}

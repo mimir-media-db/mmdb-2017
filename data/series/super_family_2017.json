@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_super_family_2017",
+  "title": "Super Family 2017",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q27954041",
+    "imdb": "tt6496280",
+    "tmdb": 70117
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

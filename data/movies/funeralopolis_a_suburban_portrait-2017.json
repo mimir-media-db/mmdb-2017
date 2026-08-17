@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funeralopolis_a_suburban_portrait_2017",
+  "title": "Funeralopolis - A Suburban Portrait",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30889284",
+    "imdb": "tt6085922",
+    "tmdb": 540878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 94
+}

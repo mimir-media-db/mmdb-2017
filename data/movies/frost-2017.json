@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frost_2017",
+  "title": "Frost",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29549882",
+    "imdb": "tt6464290",
+    "tmdb": 453273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

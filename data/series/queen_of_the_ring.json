@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_of_the_ring",
+  "title": "Queen of the Ring",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28823673",
+    "imdb": "tt6212842",
+    "tmdb": 70669
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

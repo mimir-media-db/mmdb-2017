@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_more_alive_than_dead_2017",
+  "title": "More Alive than Dead",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49996469",
+    "imdb": "tt5594410",
+    "tmdb": 532518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

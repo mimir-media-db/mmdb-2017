@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_survie",
+  "title": "Sur-vie",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q60965544",
+    "imdb": "tt6797648",
+    "tmdb": 69221
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

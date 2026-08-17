@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_work_2017",
+  "title": "The Work",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55635643",
+    "imdb": "tt5836866",
+    "tmdb": 438449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

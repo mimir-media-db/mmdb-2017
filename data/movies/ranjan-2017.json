@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ranjan_2017",
+  "title": "Ranjan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30602625",
+    "imdb": "tt7853228"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

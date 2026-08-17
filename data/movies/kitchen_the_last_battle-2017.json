@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kitchen_the_last_battle_2017",
+  "title": "Kitchen. The last Battle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28179978",
+    "imdb": "tt6841500",
+    "tmdb": 432091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 110
+}

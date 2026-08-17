@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dancing_with_the_stars",
+  "title": "Dancing with the Stars",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26217873"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eagles_of_death_metal_nos_amis_our_friends_2017",
+  "title": "Eagles of Death Metal: Nos Amis (Our Friends)",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494655",
+    "imdb": "tt6212934",
+    "tmdb": 426243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 84
+}

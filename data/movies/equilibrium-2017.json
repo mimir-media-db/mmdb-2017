@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_equilibrium_2017",
+  "title": "Equilibrium",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48808859",
+    "imdb": "tt7263736",
+    "tmdb": 473330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

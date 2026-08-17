@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_american",
+  "title": "All American",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q54202857",
+    "imdb": "tt7414406",
+    "tmdb": 82428
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 121
+}

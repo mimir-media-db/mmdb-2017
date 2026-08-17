@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heartbeats_2017",
+  "title": "Heartbeats",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50325066",
+    "imdb": "tt5281700",
+    "tmdb": 457308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

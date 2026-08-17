@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whispers_from_the_grave_2017",
+  "title": "Whispers From The Grave",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27891717",
+    "imdb": "tt4767428",
+    "tmdb": 370594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

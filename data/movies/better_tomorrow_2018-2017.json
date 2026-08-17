@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_better_tomorrow_2018_2017",
+  "title": "A Better Tomorrow 2018",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30645976",
+    "imdb": "tt5846644",
+    "tmdb": 497768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 114
+}

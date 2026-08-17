@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_film_de_bazin_2017",
+  "title": "Le Film de Bazin",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49710358",
+    "imdb": "tt9728354"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

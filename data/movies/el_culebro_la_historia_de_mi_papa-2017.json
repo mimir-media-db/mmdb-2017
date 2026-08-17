@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_culebro_la_historia_de_mi_papa_2017",
+  "title": "El Culebro: La historia de mi papá",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23803163",
+    "imdb": "tt4715666",
+    "tmdb": 1021927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

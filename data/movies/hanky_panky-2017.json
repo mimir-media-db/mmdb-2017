@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanky_panky_2017",
+  "title": "Hanky Panky",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28416910",
+    "imdb": "tt6984834",
+    "tmdb": 440809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 110
+}

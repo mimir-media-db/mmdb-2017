@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_socialmente_pericolosi_2017",
+  "title": "Socialmente pericolosi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29034236",
+    "imdb": "tt6580666",
+    "tmdb": 1409032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

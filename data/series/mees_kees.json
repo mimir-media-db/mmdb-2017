@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mees_kees",
+  "title": "Mees Kees",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29046964",
+    "imdb": "tt6323830",
+    "tmdb": 114352
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 48
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_royale_wei_is_pillo_2017",
+  "title": "City Royale: Wei is Pillo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52157620",
+    "imdb": "tt7750632",
+    "tmdb": 472151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

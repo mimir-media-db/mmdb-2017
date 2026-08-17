@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ravens_home",
+  "title": "Raven's Home",
+  "start_year": 2017,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q29189276",
+    "imdb": "tt6311972",
+    "tmdb": 72027
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 123
+}

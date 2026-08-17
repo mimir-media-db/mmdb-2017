@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_losing_sight_of_shore_2017",
+  "title": "Losing Sight of Shore",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48042510",
+    "imdb": "tt6004848",
+    "tmdb": 452235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

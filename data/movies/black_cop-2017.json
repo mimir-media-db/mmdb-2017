@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_cop_2017",
+  "title": "Black Cop",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39049828",
+    "imdb": "tt5843716",
+    "tmdb": 471613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_china_salesman_2017",
+  "title": "China Salesman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50650067",
+    "imdb": "tt6015706",
+    "tmdb": 461714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 110
+}

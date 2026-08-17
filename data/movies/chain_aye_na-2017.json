@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chain_aye_na_2017",
+  "title": "Chain Aye Na",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30646915",
+    "imdb": "tt7055812",
+    "tmdb": 524867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

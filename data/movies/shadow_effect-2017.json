@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_effect_2017",
+  "title": "The Shadow Effect",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30051034",
+    "imdb": "tt5044656",
+    "tmdb": 383538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_harlots",
+  "title": "Harlots",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q28949539",
+    "imdb": "tt5761478",
+    "tmdb": 69541
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

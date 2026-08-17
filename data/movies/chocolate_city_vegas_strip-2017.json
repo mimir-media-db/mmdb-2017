@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chocolate_city_vegas_strip_2017",
+  "title": "Chocolate City: Vegas Strip",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27888455",
+    "imdb": "tt5485482",
+    "tmdb": 471981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

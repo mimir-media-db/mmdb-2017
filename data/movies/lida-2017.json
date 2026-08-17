@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lida_2017",
+  "title": "Lida",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33547113",
+    "imdb": "tt5093994",
+    "tmdb": 448436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 88
+}

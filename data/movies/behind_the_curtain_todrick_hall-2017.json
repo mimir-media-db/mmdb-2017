@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_curtain_todrick_hall_2017",
+  "title": "Behind the Curtain: Todrick Hall",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51879724",
+    "imdb": "tt6171960",
+    "tmdb": 457372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

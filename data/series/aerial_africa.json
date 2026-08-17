@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aerial_africa",
+  "title": "Aerial Africa",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q97332499",
+    "imdb": "tt6918744",
+    "tmdb": 99984
+  },
+  "last_updated": "2026-08-17"
+}

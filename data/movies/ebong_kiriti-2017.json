@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ebong_kiriti_2017",
+  "title": "Ebong Kiriti",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55393422",
+    "imdb": "tt6736692",
+    "tmdb": 1615728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

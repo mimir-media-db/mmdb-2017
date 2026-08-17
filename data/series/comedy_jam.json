@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_jam",
+  "title": "The Comedy Jam",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30633694",
+    "imdb": "tt6682226",
+    "tmdb": 70631
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

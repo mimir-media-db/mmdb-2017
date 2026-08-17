@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bancroft",
+  "title": "Bancroft",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48699859",
+    "imdb": "tt6712476",
+    "tmdb": 75456
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 7
+}

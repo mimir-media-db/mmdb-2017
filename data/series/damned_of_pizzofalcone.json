@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_damned_of_pizzofalcone",
+  "title": "The Damned of Pizzofalcone",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28671612",
+    "imdb": "tt6438886",
+    "tmdb": 69142
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 22
+}

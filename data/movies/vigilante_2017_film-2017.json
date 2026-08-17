@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vigilante_2017_film_2017",
+  "title": "Vigilante (2017 film)",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48756718",
+    "imdb": "tt6609412",
+    "tmdb": 574076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

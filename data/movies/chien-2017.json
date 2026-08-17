@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chien_2017",
+  "title": "Chien",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48751477",
+    "imdb": "tt6147954",
+    "tmdb": 467414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

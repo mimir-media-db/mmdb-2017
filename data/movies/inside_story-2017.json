@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_story_2017",
+  "title": "The Inside Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31177774",
+    "imdb": "tt22299040",
+    "tmdb": 481172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

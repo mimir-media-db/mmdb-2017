@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marikas_missio_2017",
+  "title": "Marikas Missio",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47733552",
+    "imdb": "tt6638846",
+    "tmdb": 511847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 73
+}

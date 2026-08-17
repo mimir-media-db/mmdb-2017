@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bonne_pomme_2017",
+  "title": "Bonne Pomme",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28496935",
+    "imdb": "tt5972780",
+    "tmdb": 428558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_live_pd_rewind",
+  "title": "Live PD: Rewind",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135521711"
+  },
+  "last_updated": "2026-08-17"
+}

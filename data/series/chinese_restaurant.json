@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chinese_restaurant",
+  "title": "Chinese Restaurant",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31836879",
+    "imdb": "tt7143342",
+    "tmdb": 91914
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 120
+}

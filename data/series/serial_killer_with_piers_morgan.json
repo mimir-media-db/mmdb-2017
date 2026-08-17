@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_serial_killer_with_piers_morgan",
+  "title": "Serial Killer with Piers Morgan",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q59628444",
+    "imdb": "tt7667038",
+    "tmdb": 85471
+  },
+  "last_updated": "2026-08-17"
+}

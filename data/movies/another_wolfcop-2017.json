@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_wolfcop_2017",
+  "title": "Another WolfCop",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30000539",
+    "imdb": "tt4515762",
+    "tmdb": 346652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 82
+}

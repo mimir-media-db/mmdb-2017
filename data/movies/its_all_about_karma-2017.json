@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_all_about_karma_2017",
+  "title": "It's All About Karma",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28843172",
+    "imdb": "tt6409994",
+    "tmdb": 445583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

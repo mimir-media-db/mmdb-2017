@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cargo_2017",
+  "title": "Cargo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39074257",
+    "imdb": "tt3860916",
+    "tmdb": 425972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afterparty_2017",
+  "title": "Afterparty",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31182728",
+    "imdb": "tt5004420",
+    "tmdb": 450963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

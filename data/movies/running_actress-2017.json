@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_running_actress_2017",
+  "title": "The Running Actress",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42778614",
+    "imdb": "tt7341842",
+    "tmdb": 471492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

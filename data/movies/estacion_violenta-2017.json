@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_estacion_violenta_2017",
+  "title": "A estación violenta",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51532282",
+    "imdb": "tt7576814",
+    "tmdb": 486769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 68
+}

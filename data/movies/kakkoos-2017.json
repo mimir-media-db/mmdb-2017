@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kakkoos_2017",
+  "title": "Kakkoos",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073470",
+    "imdb": "tt7186362",
+    "tmdb": 450736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

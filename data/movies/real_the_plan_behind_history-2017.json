@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_the_plan_behind_history_2017",
+  "title": "Real: The Plan Behind History",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30935760",
+    "imdb": "tt5797820",
+    "tmdb": 450600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 105
+}

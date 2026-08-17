@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_late_blossom_blues_2017",
+  "title": "Late Blossom Blues",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47450545",
+    "imdb": "tt5992750",
+    "tmdb": 523741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

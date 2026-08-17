@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_deed_chicago",
+  "title": "The Deed: Chicago",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126390838",
+    "imdb": "tt6961936",
+    "tmdb": 100616
+  },
+  "last_updated": "2026-08-17"
+}

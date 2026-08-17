@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sort_of_family_2017",
+  "title": "A Sort of Family",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39049144",
+    "imdb": "tt6386168",
+    "tmdb": 444404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

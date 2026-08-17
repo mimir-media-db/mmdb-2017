@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_her_sketchbook_2017",
+  "title": "Her Sketchbook",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48762591",
+    "imdb": "tt6323858",
+    "tmdb": 460559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

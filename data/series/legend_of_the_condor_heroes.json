@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_the_condor_heroes",
+  "title": "The Legend of the Condor Heroes",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28417339",
+    "imdb": "tt6774544",
+    "tmdb": 69530
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

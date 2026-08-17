@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_theres_a_buzz_theres_a_mosquito_theres_two_2017",
+  "title": "There's a Buzz There's a Mosquito There's Two",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52392892"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 8
+}

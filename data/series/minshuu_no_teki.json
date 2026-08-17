@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_minshuu_no_teki",
+  "title": "Minshuu no Teki",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q38278637",
+    "imdb": "tt7168770",
+    "tmdb": 74947
+  },
+  "last_updated": "2026-08-17"
+}

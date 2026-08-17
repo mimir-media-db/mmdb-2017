@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evviva_giuseppe_2017",
+  "title": "Evviva Giuseppe",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47165708",
+    "imdb": "tt7318294",
+    "tmdb": 518919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_memories_of_nanette",
+  "title": "Memories of Nanette",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q47471006",
+    "imdb": "tt6612542",
+    "tmdb": 82074
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

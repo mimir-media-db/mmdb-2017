@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_marido_tiene_familia",
+  "title": "Mi marido tiene familia",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q29017257",
+    "imdb": "tt6938094",
+    "tmdb": 77567
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 269
+}

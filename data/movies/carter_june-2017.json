@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carter_june_2017",
+  "title": "Carter & June",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55259014",
+    "imdb": "tt4729790",
+    "tmdb": 505003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

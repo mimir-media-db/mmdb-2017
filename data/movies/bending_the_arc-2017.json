@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bending_the_arc_2017",
+  "title": "Bending the Arc",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29915537",
+    "imdb": "tt6370266",
+    "tmdb": 433049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 102
+}

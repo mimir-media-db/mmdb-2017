@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_famous_in_love",
+  "title": "Famous in Love",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q25894824",
+    "imdb": "tt4578474",
+    "tmdb": 67725
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

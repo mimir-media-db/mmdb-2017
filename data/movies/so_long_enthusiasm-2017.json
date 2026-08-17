@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_long_enthusiasm_2017",
+  "title": "So Long Enthusiasm",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29022393",
+    "imdb": "tt6613932",
+    "tmdb": 439512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 79
+}

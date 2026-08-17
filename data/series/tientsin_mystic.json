@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tientsin_mystic",
+  "title": "Tientsin Mystic",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48901319",
+    "imdb": "tt7431768",
+    "tmdb": 73031
+  },
+  "last_updated": "2026-08-17"
+}

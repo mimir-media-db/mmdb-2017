@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_keishicho_ikimono_gakari",
+  "title": "Keishicho Ikimono Gakari",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30935155",
+    "imdb": "tt6983732",
+    "tmdb": 73727
+  },
+  "last_updated": "2026-08-17"
+}

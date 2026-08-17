@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stip_pensil_2017",
+  "title": "Stip & Pensil",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31174321",
+    "imdb": "tt7094790",
+    "tmdb": 453064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

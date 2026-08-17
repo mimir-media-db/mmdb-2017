@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_nights_2017",
+  "title": "Silent Nights",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28599803",
+    "imdb": "tt6460636",
+    "tmdb": 433583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 15
+}

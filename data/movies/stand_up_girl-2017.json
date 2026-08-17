@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stand_up_girl_2017",
+  "title": "Stand Up Girl",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44484831",
+    "imdb": "tt5600326",
+    "tmdb": 398939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 99
+}

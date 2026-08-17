@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_signature_move_2017",
+  "title": "Signature Move",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27701611",
+    "imdb": "tt5328952",
+    "tmdb": 433414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sinking_city_capsule_odyssey_2017",
+  "title": "The Sinking City - Capsule Odyssey",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48911145",
+    "imdb": "tt7375556",
+    "tmdb": 474442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

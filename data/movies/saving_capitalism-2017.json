@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_capitalism_2017",
+  "title": "Saving Capitalism",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47353472",
+    "imdb": "tt6185286",
+    "tmdb": 483010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skins_2017",
+  "title": "Skins",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28773369",
+    "imdb": "tt5808778",
+    "tmdb": 435707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 77
+}

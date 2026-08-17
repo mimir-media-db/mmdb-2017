@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saravanan_irukka_bayamaen_2017",
+  "title": "Saravanan Irukka Bayamaen",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590345",
+    "imdb": "tt6876356",
+    "tmdb": 455923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

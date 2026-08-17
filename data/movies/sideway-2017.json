@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sideway_2017",
+  "title": "Sideway",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52241996",
+    "imdb": "tt7466370",
+    "tmdb": 518439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

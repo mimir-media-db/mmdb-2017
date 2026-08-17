@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sarkar_raj_2017",
+  "title": "Sarkar Raj",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073895",
+    "imdb": "tt6272540"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

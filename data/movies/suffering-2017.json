@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suffering_2017",
+  "title": "The Suffering",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29177470",
+    "imdb": "tt5996682",
+    "tmdb": 457314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

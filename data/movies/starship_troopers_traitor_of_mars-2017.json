@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starship_troopers_traitor_of_mars_2017",
+  "title": "Starship Troopers: Traitor of Mars",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30203541",
+    "imdb": "tt6977240",
+    "tmdb": 460790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 88
+}

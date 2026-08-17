@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_season_in_france_2017",
+  "title": "A Season in France",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30728084",
+    "imdb": "tt7177156",
+    "tmdb": 470643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

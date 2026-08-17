@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_granite_2017",
+  "title": "Song of Granite",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30337268",
+    "imdb": "tt5765144",
+    "tmdb": 419914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 104
+}

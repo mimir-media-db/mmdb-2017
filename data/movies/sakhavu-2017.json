@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sakhavu_2017",
+  "title": "Sakhavu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27962603",
+    "imdb": "tt6168002",
+    "tmdb": 450045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 164
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_2017",
+  "title": "Snow",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51311769",
+    "imdb": "tt6396050",
+    "tmdb": 504318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

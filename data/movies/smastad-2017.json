@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smastad_2017",
+  "title": "Småstad",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28525531",
+    "imdb": "tt6317072",
+    "tmdb": 434143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

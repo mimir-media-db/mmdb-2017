@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_songs_for_madagascar_2017",
+  "title": "Songs for Madagascar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48747969",
+    "imdb": "tt5950850",
+    "tmdb": 484963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

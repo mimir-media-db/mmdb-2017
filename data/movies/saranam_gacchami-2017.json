@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_saranam_gacchami_2017",
+  "title": "Saranam Gacchami",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30642368",
+    "imdb": "tt12331016"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spark_2017",
+  "title": "Spark",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19757544",
+    "imdb": "tt3228088",
+    "tmdb": 322487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

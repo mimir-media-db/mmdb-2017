@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_see_you_up_there_2017",
+  "title": "See You Up There",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23685899",
+    "imdb": "tt5258850",
+    "tmdb": 430424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 117
+}

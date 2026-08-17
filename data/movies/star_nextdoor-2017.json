@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_star_nextdoor_2017",
+  "title": "Star Nextdoor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105636",
+    "imdb": "tt8661098",
+    "tmdb": 478226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

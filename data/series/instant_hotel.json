@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_instant_hotel",
+  "title": "Instant Hotel",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q29325540",
+    "imdb": "tt9316032",
+    "tmdb": 85674
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

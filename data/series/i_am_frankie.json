@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_frankie",
+  "title": "I Am Frankie",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q30056582",
+    "imdb": "tt5620962",
+    "tmdb": 73698
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

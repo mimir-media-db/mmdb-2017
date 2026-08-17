@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_i_colori_del_crimine",
+  "title": "I colori del crimine",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q56322189"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

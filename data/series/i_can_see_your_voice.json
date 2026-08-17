@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_can_see_your_voice",
+  "title": "I Can See Your Voice",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q41497963",
+    "imdb": "tt7411876",
+    "tmdb": 194498
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 59
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ivanovivanov",
+  "title": "Ivanov-Ivanov",
+  "start_year": 2017,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q47495200",
+    "imdb": "tt9057066",
+    "tmdb": 75186
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 144
+}

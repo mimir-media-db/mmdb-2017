@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaattu_2017",
+  "title": "Kaattu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39056162",
+    "imdb": "tt6747192",
+    "tmdb": 469544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-13"
+}

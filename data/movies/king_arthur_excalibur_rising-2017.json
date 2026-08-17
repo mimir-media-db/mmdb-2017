@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_arthur_excalibur_rising_2017",
+  "title": "King Arthur: Excalibur Rising",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64748923",
+    "imdb": "tt5988966",
+    "tmdb": 447427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-04",
+  "runtime_minutes": 99
+}

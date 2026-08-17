@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kayseri_aslan_cin_isi_2017",
+  "title": "Kayseri Aslanı: Çin İşi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34646282",
+    "imdb": "tt9323034",
+    "tmdb": 477077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-13"
+}

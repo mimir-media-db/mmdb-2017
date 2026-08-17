@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadhal_kasakuthaiya_2017",
+  "title": "Kadhal Kasakuthaiya",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39050911",
+    "imdb": "tt7425474",
+    "tmdb": 475934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08"
+}

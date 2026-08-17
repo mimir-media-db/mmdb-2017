@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kabocha_to_mayoezu_2017",
+  "title": "Kabocha to mayoêzu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61096658",
+    "imdb": "tt6964896",
+    "tmdb": 460118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

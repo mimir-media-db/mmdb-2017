@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kaadhali_2017",
+  "title": "Kaadhali",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85773250",
+    "imdb": "tt7034712"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

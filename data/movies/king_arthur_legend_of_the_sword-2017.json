@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_arthur_legend_of_the_sword_2017",
+  "title": "King Arthur: Legend of the Sword",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19569225",
+    "imdb": "tt1972591",
+    "tmdb": 274857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-11",
+  "runtime_minutes": 127
+}

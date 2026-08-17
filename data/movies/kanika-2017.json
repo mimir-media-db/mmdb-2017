@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kanika_2017",
+  "title": "Kanika",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30599774",
+    "imdb": "tt6555628",
+    "tmdb": 518148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-31"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krotoa_2017",
+  "title": "Krotoa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117467792",
+    "imdb": "tt6758144",
+    "tmdb": 455586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-25",
+  "runtime_minutes": 122
+}

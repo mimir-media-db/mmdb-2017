@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knights_of_the_damned_2017",
+  "title": "Knights of the Damned",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65247196",
+    "imdb": "tt5931670",
+    "tmdb": 464876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-25"
+}

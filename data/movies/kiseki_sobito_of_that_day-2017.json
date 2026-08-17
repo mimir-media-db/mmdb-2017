@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiseki_sobito_of_that_day_2017",
+  "title": "Kiseki: Sobito of That Day",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28691487",
+    "imdb": "tt5778092",
+    "tmdb": 410225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-28"
+}

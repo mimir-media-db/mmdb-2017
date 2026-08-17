@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadvi_hawa_2017",
+  "title": "Kadvi Hawa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39057935",
+    "imdb": "tt6143422",
+    "tmdb": 488445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-24"
+}

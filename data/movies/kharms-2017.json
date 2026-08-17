@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kharms_2017",
+  "title": "Kharms",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41651887",
+    "imdb": "tt5485466",
+    "tmdb": 434625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-23",
+  "runtime_minutes": 95
+}

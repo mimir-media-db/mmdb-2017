@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_konigin_der_nacht_2017",
+  "title": "Königin der Nacht",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86021672",
+    "imdb": "tt5994792",
+    "tmdb": 402637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-02",
+  "runtime_minutes": 88
+}

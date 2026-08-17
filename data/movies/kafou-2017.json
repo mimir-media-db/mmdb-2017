@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kafou_2017",
+  "title": "Kafou",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65322974",
+    "imdb": "tt6857214",
+    "tmdb": 499341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 50
+}

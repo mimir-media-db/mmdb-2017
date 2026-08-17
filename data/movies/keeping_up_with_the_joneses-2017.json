@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keeping_up_with_the_joneses_2017",
+  "title": "Keeping Up with the Joneses",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19880691",
+    "imdb": "tt2387499",
+    "tmdb": 331313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23",
+  "runtime_minutes": 105
+}

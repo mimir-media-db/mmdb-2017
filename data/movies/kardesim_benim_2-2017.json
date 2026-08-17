@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kardesim_benim_2_2017",
+  "title": "Kardesim Benim 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42612085",
+    "imdb": "tt6973670",
+    "tmdb": 477300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-23",
+  "runtime_minutes": 115
+}

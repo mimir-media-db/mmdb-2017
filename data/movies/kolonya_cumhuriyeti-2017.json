@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kolonya_cumhuriyeti_2017",
+  "title": "Kolonya Cumhuriyeti",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29475008",
+    "imdb": "tt6721848",
+    "tmdb": 453596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 110
+}

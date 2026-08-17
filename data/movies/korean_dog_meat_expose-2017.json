@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_korean_dog_meat_expose_2017",
+  "title": "Korean Dog Meat Exposé",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59569483",
+    "imdb": "tt6878632"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 25
+}

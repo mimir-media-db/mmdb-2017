@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kabula_barabula_2017",
+  "title": "Kabula Barabula",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40543638",
+    "imdb": "tt26922623"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-27"
+}

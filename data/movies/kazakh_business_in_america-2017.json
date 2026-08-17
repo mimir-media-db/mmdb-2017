@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kazakh_business_in_america_2017",
+  "title": "Kazakh Business in America",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97214610",
+    "imdb": "tt6851214",
+    "tmdb": 488384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

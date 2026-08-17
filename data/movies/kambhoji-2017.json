@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kambhoji_2017",
+  "title": "Kambhoji",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959334",
+    "imdb": "tt6405308",
+    "tmdb": 452694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-31",
+  "runtime_minutes": 138
+}

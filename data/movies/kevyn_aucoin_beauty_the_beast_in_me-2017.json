@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kevyn_aucoin_beauty_the_beast_in_me_2017",
+  "title": "Kevyn Aucoin: Beauty & the Beast in Me",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116758735",
+    "imdb": "tt6972670",
+    "tmdb": 476378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

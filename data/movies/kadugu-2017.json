@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadugu_2017",
+  "title": "Kadugu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807297",
+    "imdb": "tt6642814",
+    "tmdb": 409159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-24"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karsandas_pay_and_use_2017",
+  "title": "Karsandas Pay and Use",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832139",
+    "imdb": "tt6771678",
+    "tmdb": 458926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19"
+}

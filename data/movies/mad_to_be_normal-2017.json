@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_to_be_normal_2017",
+  "title": "Mad to Be Normal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832568",
+    "imdb": "tt4687410",
+    "tmdb": 369090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-26"
+}

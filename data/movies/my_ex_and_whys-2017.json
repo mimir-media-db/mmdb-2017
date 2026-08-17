@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_ex_and_whys_2017",
+  "title": "My Ex and Whys",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703242",
+    "imdb": "tt6544850",
+    "tmdb": 441834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-14"
+}

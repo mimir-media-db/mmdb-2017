@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marguerite_and_julien_2017",
+  "title": "Marguerite and Julien",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19810823",
+    "imdb": "tt4428800",
+    "tmdb": 330294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-13",
+  "runtime_minutes": 110
+}

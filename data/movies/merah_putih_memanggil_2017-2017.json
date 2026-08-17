@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_merah_putih_memanggil_2017_2017",
+  "title": "Merah Putih Memanggil 2017",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63614980",
+    "imdb": "tt8070332",
+    "tmdb": 478774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

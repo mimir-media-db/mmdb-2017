@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_most_hated_woman_in_america_2017",
+  "title": "The Most Hated Woman in America",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24884039",
+    "imdb": "tt4842646",
+    "tmdb": 401743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-14",
+  "runtime_minutes": 91
+}

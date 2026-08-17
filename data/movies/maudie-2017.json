@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maudie_2017",
+  "title": "Maudie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959296",
+    "imdb": "tt3721954",
+    "tmdb": 359784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-15",
+  "runtime_minutes": 116
+}

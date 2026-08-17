@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_with_the_iron_heart_2017",
+  "title": "The Man with the Iron Heart",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23003015",
+    "imdb": "tt3296908",
+    "tmdb": 339259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08",
+  "runtime_minutes": 119
+}

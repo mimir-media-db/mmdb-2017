@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_momoiro_ehon_itte_miyou_yatte_miyou_2017",
+  "title": "Momoiro e-hon: Itte miyou, yatte miyou!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85874063",
+    "imdb": "tt7837274",
+    "tmdb": 1139227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19"
+}

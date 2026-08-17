@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_man_2017",
+  "title": "The Midnight Man",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43383107",
+    "imdb": "tt5629964",
+    "tmdb": 492621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-14",
+  "runtime_minutes": 95
+}

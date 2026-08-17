@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muramba_2017",
+  "title": "Muramba",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672453",
+    "imdb": "tt7155460",
+    "tmdb": 497027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-02"
+}

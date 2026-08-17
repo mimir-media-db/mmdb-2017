@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mann_im_spagat_pace_cowboy_pace_2017",
+  "title": "Mann im Spagat: Pace, Cowboy, Pace",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62566132",
+    "imdb": "tt3577684",
+    "tmdb": 392781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08",
+  "runtime_minutes": 89
+}

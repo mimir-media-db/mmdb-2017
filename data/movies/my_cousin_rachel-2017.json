@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_cousin_rachel_2017",
+  "title": "My Cousin Rachel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958095",
+    "imdb": "tt4411596",
+    "tmdb": 413998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_messalina_vs_the_son_of_hercules_2017",
+  "title": "Messalina vs. the Son of Hercules",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819880",
+    "imdb": "tt0058345",
+    "tmdb": 134998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-19",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mankiller_2017",
+  "title": "Mankiller",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39071183",
+    "imdb": "tt6977446",
+    "tmdb": 461829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-19"
+}

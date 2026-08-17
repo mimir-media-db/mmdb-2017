@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friends_husband_2017",
+  "title": "My Friend's Husband",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840757",
+    "imdb": "tt7370656",
+    "tmdb": 465606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-11"
+}

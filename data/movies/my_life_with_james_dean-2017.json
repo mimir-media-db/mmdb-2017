@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_with_james_dean_2017",
+  "title": "My Life with James Dean",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52790614",
+    "imdb": "tt5356260",
+    "tmdb": 511793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-15",
+  "runtime_minutes": 108
+}

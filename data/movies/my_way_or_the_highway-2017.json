@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_way_or_the_highway_2017",
+  "title": "My Way or the Highway",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64559078",
+    "imdb": "tt7956084",
+    "tmdb": 586411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 70
+}

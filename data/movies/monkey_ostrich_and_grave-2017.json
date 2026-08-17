@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monkey_ostrich_and_grave_2017",
+  "title": "Monkey Ostrich and Grave",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85863855",
+    "imdb": "tt6768872",
+    "tmdb": 471180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mannar_vagaiyara_2017",
+  "title": "Mannar Vagaiyara",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22905720",
+    "imdb": "tt7943580",
+    "tmdb": 408634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-01"
+}

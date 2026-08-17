@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_morg_2017",
+  "title": "Morg",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42612728",
+    "imdb": "tt10392644",
+    "tmdb": 477299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-24"
+}

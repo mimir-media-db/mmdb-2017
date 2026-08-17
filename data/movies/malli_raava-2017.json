@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malli_raava_2017",
+  "title": "Malli Raava",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671323",
+    "imdb": "tt7684228",
+    "tmdb": 492261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-08"
+}

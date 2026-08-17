@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_matthews_2017",
+  "title": "Matthews",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97355321",
+    "imdb": "tt5791622",
+    "tmdb": 482301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

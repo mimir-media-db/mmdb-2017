@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monkey_talks_2017",
+  "title": "Monkey Talks",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28222892",
+    "imdb": "tt6445394",
+    "tmdb": 437877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-25"
+}

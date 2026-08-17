@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mantostaan_2017",
+  "title": "Mantostaan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30641555",
+    "imdb": "tt5569160",
+    "tmdb": 488353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05"
+}

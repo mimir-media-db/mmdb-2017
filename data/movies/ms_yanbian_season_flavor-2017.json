@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ms_yanbian_season_flavor_2017",
+  "title": "Ms Yanbian Season Flavor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840666",
+    "tmdb": 575724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-22"
+}

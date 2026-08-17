@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_marianne_margaritha_2017",
+  "title": "Marianne & Margaritha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739154",
+    "tmdb": 456752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

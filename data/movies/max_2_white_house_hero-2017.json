@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_2_white_house_hero_2017",
+  "title": "Max 2: White House Hero",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29011378",
+    "imdb": "tt5843838",
+    "tmdb": 446829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-09",
+  "runtime_minutes": 85
+}

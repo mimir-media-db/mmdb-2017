@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_wife_i_2017",
+  "title": "My Wife & I",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108808081",
+    "imdb": "tt10505048",
+    "tmdb": 474191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

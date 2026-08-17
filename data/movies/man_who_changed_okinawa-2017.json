@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_changed_okinawa_2017",
+  "title": "The Man Who Changed Okinawa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140966724",
+    "imdb": "tt5889270"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-05",
+  "runtime_minutes": 120
+}

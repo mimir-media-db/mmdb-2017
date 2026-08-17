@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mojo_2017",
+  "title": "Mojo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672797",
+    "imdb": "tt6879946"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-27"
+}

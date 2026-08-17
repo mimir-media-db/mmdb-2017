@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mary_jane_2017",
+  "title": "Mary Jane",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117304477",
+    "imdb": "tt22864674"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

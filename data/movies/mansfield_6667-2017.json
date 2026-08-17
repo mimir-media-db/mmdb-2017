@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mansfield_6667_2017",
+  "title": "Mansfield 66/67",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30113839",
+    "imdb": "tt6027344",
+    "tmdb": 433014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-29",
+  "runtime_minutes": 95
+}

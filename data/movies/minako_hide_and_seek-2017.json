@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minako_hide_and_seek_2017",
+  "title": "Minako Hide and Seek",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56391305",
+    "imdb": "tt7161990",
+    "tmdb": 441136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 90
+}

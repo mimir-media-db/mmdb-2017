@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mars_met_venus_part_cewe_2017",
+  "title": "Mars Met Venus (Part Cewe)",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56390279",
+    "imdb": "tt6570798",
+    "tmdb": 693405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-20",
+  "runtime_minutes": 98
+}

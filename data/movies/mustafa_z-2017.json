@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mustafa_z_2017",
+  "title": "Mustafa Z",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66709103",
+    "imdb": "tt10348500",
+    "tmdb": 520841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_suburban_stories_2017",
+  "title": "My Suburban Stories",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35709653",
+    "imdb": "tt6006666",
+    "tmdb": 474824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22"
+}

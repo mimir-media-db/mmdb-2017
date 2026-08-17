@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muzzikanti_2017",
+  "title": "Muzzikanti",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46078964",
+    "imdb": "tt5995448",
+    "tmdb": 480703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-02",
+  "runtime_minutes": 109
+}

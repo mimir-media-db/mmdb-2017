@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_very_ghanaian_wedding_2017",
+  "title": "My Very Ghanaian Wedding",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118669513",
+    "imdb": "tt18072530",
+    "tmdb": 613176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

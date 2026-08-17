@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moonlight_over_baler_2017",
+  "title": "Moonlight Over Baler",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28450294",
+    "imdb": "tt6521086",
+    "tmdb": 440430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-08"
+}

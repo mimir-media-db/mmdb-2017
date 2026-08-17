@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_murder_on_the_orient_express_2017",
+  "title": "Murder on the Orient Express",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27689100",
+    "imdb": "tt3402236",
+    "tmdb": 392044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-09",
+  "runtime_minutes": 114
+}

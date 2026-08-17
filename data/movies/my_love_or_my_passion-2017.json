@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_love_or_my_passion_2017",
+  "title": "My Love or My Passion",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29959973",
+    "imdb": "tt4726988",
+    "tmdb": 467634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-10"
+}

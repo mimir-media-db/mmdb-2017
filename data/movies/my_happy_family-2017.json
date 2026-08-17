@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_happy_family_2017",
+  "title": "My Happy Family",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28532723",
+    "imdb": "tt5791536",
+    "tmdb": 432226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-22",
+  "runtime_minutes": 120
+}

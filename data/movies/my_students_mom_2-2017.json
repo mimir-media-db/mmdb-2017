@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_students_mom_2_2017",
+  "title": "My Student's Mom 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840680",
+    "tmdb": 508764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-09"
+}

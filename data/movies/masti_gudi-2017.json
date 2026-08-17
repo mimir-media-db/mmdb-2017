@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_masti_gudi_2017",
+  "title": "Masti Gudi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27963040",
+    "imdb": "tt13155624",
+    "tmdb": 546856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-12"
+}

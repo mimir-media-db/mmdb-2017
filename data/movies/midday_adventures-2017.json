@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midday_adventures_2017",
+  "title": "The Midday Adventures",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28714128",
+    "imdb": "tt6229252",
+    "tmdb": 440266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-05"
+}

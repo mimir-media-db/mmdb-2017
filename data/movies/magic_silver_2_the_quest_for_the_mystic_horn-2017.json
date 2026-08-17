@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_silver_2_the_quest_for_the_mystic_horn_2017",
+  "title": "Magic silver 2 : the quest for the mystic horn",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16176965",
+    "imdb": "tt1920861",
+    "tmdb": 142622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-13",
+  "runtime_minutes": 85
+}

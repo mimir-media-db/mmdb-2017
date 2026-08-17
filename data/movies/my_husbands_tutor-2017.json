@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_husbands_tutor_2017",
+  "title": "My Husband's Tutor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840786",
+    "imdb": "tt7331464",
+    "tmdb": 437027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-03"
+}

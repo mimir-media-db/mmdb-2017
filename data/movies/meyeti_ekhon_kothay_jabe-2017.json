@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_meyeti_ekhon_kothay_jabe_2017",
+  "title": "Meyeti Ekhon Kothay Jabe",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51452735",
+    "imdb": "tt6545298"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-10"
+}

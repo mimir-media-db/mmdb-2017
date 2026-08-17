@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mayabini_2017",
+  "title": "Mayabini",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118114964",
+    "imdb": "tt35222310",
+    "tmdb": 724359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-03"
+}

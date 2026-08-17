@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mindgamers_2017",
+  "title": "MindGamers",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28920079",
+    "imdb": "tt3625516",
+    "tmdb": 362583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-28",
+  "runtime_minutes": 97
+}

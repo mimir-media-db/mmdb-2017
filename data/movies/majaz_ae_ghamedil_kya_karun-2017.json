@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_majaz_ae_ghamedil_kya_karun_2017",
+  "title": "Majaz- Ae Gham-e-Dil Kya Karun",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39059624",
+    "imdb": "tt10312914",
+    "tmdb": 502524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friends_nice_mother_2017",
+  "title": "My Friend's Nice Mother",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840728",
+    "tmdb": 465597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-20"
+}

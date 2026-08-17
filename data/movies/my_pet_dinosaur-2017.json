@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_pet_dinosaur_2017",
+  "title": "My Pet Dinosaur",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27701622",
+    "imdb": "tt6055082",
+    "tmdb": 449700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-22",
+  "runtime_minutes": 98
+}

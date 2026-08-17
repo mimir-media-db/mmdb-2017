@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miami_2017",
+  "title": "Miami",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37115508",
+    "imdb": "tt5822148",
+    "tmdb": 469756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desire_2017",
+  "title": "Desire",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30911341",
+    "imdb": "tt7308086",
+    "tmdb": 479957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doob_no_bed_of_roses_2017",
+  "title": "Doob: No Bed Of Roses",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23709795",
+    "imdb": "tt5513920",
+    "tmdb": 460034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

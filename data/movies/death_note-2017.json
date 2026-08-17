@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_note_2017",
+  "title": "Death Note",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22077183",
+    "imdb": "tt1241317",
+    "tmdb": 351460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 101
+}

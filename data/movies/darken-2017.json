@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darken_2017",
+  "title": "Darken",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28457464",
+    "imdb": "tt6472742",
+    "tmdb": 460952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

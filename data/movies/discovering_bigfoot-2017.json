@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_discovering_bigfoot_2017",
+  "title": "Discovering Bigfoot",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47036522",
+    "imdb": "tt7058016",
+    "tmdb": 483755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divine_comedy_2017",
+  "title": "The Divine Comedy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048289",
+    "imdb": "tt5207840",
+    "tmdb": 411764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

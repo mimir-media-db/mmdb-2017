@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dam_the_story_of_kit_the_beaver_2017",
+  "title": "Dam! The Story of Kit the Beaver",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671681",
+    "imdb": "tt5957650",
+    "tmdb": 499492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

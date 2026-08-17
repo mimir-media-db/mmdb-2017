@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_konfirmation_2017",
+  "title": "Die Konfirmation",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30250125",
+    "imdb": "tt4241264",
+    "tmdb": 357422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

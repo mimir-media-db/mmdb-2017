@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_and_life_of_marsha_p_johnson_2017",
+  "title": "The Death and Life of Marsha P. Johnson",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47458793",
+    "imdb": "tt5233558",
+    "tmdb": 448444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_division_19_2017",
+  "title": "Division 19",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249931",
+    "imdb": "tt2492344",
+    "tmdb": 493838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

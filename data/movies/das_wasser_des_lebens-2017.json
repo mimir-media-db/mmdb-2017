@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_das_wasser_des_lebens_2017",
+  "title": "Das Wasser des Lebens",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33109877",
+    "imdb": "tt7012646",
+    "tmdb": 1067182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

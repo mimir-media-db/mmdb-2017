@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dementia_13_2017",
+  "title": "Dementia 13",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39078845",
+    "imdb": "tt5806506",
+    "tmdb": 472686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 83
+}

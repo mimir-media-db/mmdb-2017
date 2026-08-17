@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daybreak_2017",
+  "title": "Daybreak",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40803411",
+    "imdb": "tt7060750",
+    "tmdb": 471764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 85
+}

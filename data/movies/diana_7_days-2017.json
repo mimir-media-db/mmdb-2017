@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diana_7_days_2017",
+  "title": "Diana, 7 Days",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39059531",
+    "imdb": "tt7294116",
+    "tmdb": 472822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

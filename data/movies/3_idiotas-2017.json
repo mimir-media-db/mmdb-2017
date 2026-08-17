@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_idiotas_2017",
+  "title": "3 Idiotas",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29022267",
+    "imdb": "tt3685624",
+    "tmdb": 346034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-31"
+}

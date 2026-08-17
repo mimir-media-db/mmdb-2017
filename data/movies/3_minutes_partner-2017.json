@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_minutes_partner_2017",
+  "title": "3 minutes Partner",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840719",
+    "imdb": "tt12937550",
+    "tmdb": 471819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-17"
+}

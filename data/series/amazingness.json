@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amazingness",
+  "title": "Amazingness",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85741150",
+    "imdb": "tt7645846",
+    "tmdb": 75596
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_avengers_social_club",
+  "title": "Avengers Social Club",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q41151755",
+    "imdb": "tt7375028",
+    "tmdb": 74473
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

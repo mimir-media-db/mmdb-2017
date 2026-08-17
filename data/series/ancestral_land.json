@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ancestral_land",
+  "title": "Ancestral Land",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q111467783",
+    "imdb": "tt9196684",
+    "tmdb": 116221
+  },
+  "last_updated": "2026-08-17"
+}

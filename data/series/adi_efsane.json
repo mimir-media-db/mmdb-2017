@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_adi_efsane",
+  "title": "Adi Efsane",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q29513909",
+    "imdb": "tt6550350",
+    "tmdb": 72066
+  },
+  "last_updated": "2026-08-17"
+}

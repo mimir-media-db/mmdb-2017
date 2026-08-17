@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anatomia_do_crime",
+  "title": "Anatomia do Crime",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q59486773",
+    "imdb": "tt5754620",
+    "tmdb": 82156
+  },
+  "last_updated": "2026-08-17"
+}

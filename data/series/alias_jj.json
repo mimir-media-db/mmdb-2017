@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alias_jj",
+  "title": "Alias J.J",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28660730",
+    "imdb": "tt6809396",
+    "tmdb": 70828
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 69
+}

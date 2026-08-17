@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anssi_kela_ja_isot_biisit",
+  "title": "Anssi Kela ja isot biisit",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28970986",
+    "imdb": "tt6579596"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

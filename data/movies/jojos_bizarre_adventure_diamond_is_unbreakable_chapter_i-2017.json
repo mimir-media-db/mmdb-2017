@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jojos_bizarre_adventure_diamond_is_unbreakable_chapter_i_2017",
+  "title": "JoJo's Bizarre Adventure: Diamond Is Unbreakable Chapter I",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29601593",
+    "imdb": "tt6105880",
+    "tmdb": 431572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 119
+}

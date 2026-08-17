@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jia_aur_jia_2017",
+  "title": "Jia Aur Jia",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39058606",
+    "imdb": "tt3338188",
+    "tmdb": 467911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-01"
+}

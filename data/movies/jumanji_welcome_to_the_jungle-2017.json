@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jumanji_welcome_to_the_jungle_2017",
+  "title": "Jumanji: Welcome to the Jungle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20762680",
+    "imdb": "tt2283362",
+    "tmdb": 353486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-20",
+  "runtime_minutes": 119
+}

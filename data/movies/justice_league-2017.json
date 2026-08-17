@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_justice_league_2017",
+  "title": "Justice League",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20501835",
+    "imdb": "tt0974015",
+    "tmdb": 141052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-15",
+  "runtime_minutes": 120
+}

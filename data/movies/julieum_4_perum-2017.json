@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_julieum_4_perum_2017",
+  "title": "Julieum 4 Perum",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29467938",
+    "imdb": "tt6639058",
+    "tmdb": 456228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-07"
+}

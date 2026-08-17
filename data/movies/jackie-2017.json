@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jackie_2017",
+  "title": "Jackie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350767",
+    "imdb": "tt1619029",
+    "tmdb": 376866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joe_mandes_awardwinning_comedy_special_2017",
+  "title": "Joe Mande’s Award-Winning Comedy Special",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100415",
+    "imdb": "tt7183876",
+    "tmdb": 466987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-25",
+  "runtime_minutes": 66
+}

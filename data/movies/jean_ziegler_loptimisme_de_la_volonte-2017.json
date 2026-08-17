@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jean_ziegler_loptimisme_de_la_volonte_2017",
+  "title": "Jean Ziegler, l'optimisme de la volonté",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26899514",
+    "imdb": "tt5984026",
+    "tmdb": 429039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23",
+  "runtime_minutes": 93
+}

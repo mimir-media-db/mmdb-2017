@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_of_bhangover_2017",
+  "title": "Journey of Bhangover",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671221",
+    "imdb": "tt7598180",
+    "tmdb": 548080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_vuelo_de_la_victoria",
+  "title": "El vuelo de la Victoria",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30111392",
+    "imdb": "tt7102832",
+    "tmdb": 82772
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 89
+}

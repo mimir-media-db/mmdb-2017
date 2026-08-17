@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ella_es_tu_padre",
+  "title": "Ella es tu padre",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q38366891",
+    "imdb": "tt6625452",
+    "tmdb": 73720
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

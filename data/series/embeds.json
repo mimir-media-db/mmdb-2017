@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_embeds",
+  "title": "Embeds",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131995019",
+    "imdb": "tt6233054",
+    "tmdb": 69755
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

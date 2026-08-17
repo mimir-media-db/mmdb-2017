@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ernest_and_celestine_the_collection",
+  "title": "Ernest and Célestine, The Collection",
+  "start_year": 2017,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q48753522",
+    "imdb": "tt6213220",
+    "tmdb": 74623
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_speak_trials_of_the_free_press_2017",
+  "title": "Nobody Speak: Trials of the Free Press",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38805022",
+    "imdb": "tt6333064",
+    "tmdb": 430830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-23",
+  "runtime_minutes": 95
+}

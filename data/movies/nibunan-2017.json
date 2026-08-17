@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nibunan_2017",
+  "title": "Nibunan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806751",
+    "imdb": "tt5159408",
+    "tmdb": 411612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-28"
+}

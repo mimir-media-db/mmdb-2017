@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_such_thing_as_housewives_2017",
+  "title": "No Such Thing as Housewives",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70319465",
+    "imdb": "tt5912150",
+    "tmdb": 489842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-21",
+  "runtime_minutes": 103
+}

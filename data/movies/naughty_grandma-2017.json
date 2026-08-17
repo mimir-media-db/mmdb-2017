@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naughty_grandma_2017",
+  "title": "Naughty Grandma",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33665391",
+    "imdb": "tt6823698",
+    "tmdb": 468987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-17",
+  "runtime_minutes": 86
+}

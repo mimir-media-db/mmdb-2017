@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_say_die_2017",
+  "title": "Never Say Die",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42370860",
+    "imdb": "tt7431894",
+    "tmdb": 479306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-30",
+  "runtime_minutes": 100
+}

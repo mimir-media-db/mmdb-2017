@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nerd_club_the_movie_2017",
+  "title": "Nerd Club: The Movie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39165840",
+    "imdb": "tt7234936",
+    "tmdb": 508634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-03",
+  "runtime_minutes": 117
+}

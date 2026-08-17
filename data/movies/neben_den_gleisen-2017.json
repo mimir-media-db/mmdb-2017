@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neben_den_gleisen_2017",
+  "title": "Neben den Gleisen",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29039043",
+    "imdb": "tt6556588",
+    "tmdb": 445438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-06",
+  "runtime_minutes": 89
+}

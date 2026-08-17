@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobili_bugie_2017",
+  "title": "Nobili bugie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60497831",
+    "imdb": "tt6975762",
+    "tmdb": 475673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

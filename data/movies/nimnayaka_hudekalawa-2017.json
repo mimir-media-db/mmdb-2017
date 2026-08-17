@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nimnayaka_hudekalawa_2017",
+  "title": "Nimnayaka Hudekalawa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30640357",
+    "imdb": "tt2275702",
+    "tmdb": 459882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19"
+}

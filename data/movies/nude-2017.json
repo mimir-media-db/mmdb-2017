@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nude_2017",
+  "title": "Nude",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672540",
+    "imdb": "tt7679884",
+    "tmdb": 521315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27"
+}

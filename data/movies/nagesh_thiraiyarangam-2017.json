@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nagesh_thiraiyarangam_2017",
+  "title": "Nagesh Thiraiyarangam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959311",
+    "imdb": "tt6007628",
+    "tmdb": 496903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-15"
+}

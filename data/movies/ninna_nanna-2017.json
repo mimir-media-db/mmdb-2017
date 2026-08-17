@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ninna_nanna_2017",
+  "title": "Ninna Nanna",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63498390",
+    "imdb": "tt7078574",
+    "tmdb": 463862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 112
+}

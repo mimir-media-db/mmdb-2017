@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_accident_2017",
+  "title": "Night Accident",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411286",
+    "imdb": "tt7678486",
+    "tmdb": 486465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

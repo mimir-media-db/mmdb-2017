@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_next_door_woman_2017",
+  "title": "Next Door Woman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840741",
+    "tmdb": 481990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_my_feet_touch_the_ground_2017",
+  "title": "Before My Feet Touch The Ground",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46844202",
+    "imdb": "tt7746658",
+    "tmdb": 597771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 78
+}

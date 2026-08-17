@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boyka_undisputed_2017",
+  "title": "Boyka: Undisputed",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20898640",
+    "imdb": "tt3344680",
+    "tmdb": 348893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

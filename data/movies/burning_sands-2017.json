@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_sands_2017",
+  "title": "Burning Sands",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28059087",
+    "imdb": "tt5826432",
+    "tmdb": 426265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 96
+}

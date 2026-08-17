@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bitter_harvest_2017",
+  "title": "Bitter Harvest",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17004445",
+    "imdb": "tt3182620",
+    "tmdb": 403390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 103
+}

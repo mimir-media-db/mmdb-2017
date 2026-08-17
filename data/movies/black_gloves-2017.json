@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_gloves_2017",
+  "title": "The Black Gloves",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29639390",
+    "imdb": "tt6819948",
+    "tmdb": 483952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

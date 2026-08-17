@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babs_2017",
+  "title": "Babs",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25184293",
+    "imdb": "tt6217830",
+    "tmdb": 455592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

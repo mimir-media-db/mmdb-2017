@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_basheerinte_premalekhanam_2017",
+  "title": "Basheerinte Premalekhanam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890321",
+    "imdb": "tt6568896",
+    "tmdb": 459721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_best_friends_2017",
+  "title": "Best F(r)iends",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28132671",
+    "imdb": "tt6155194",
+    "tmdb": 421044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

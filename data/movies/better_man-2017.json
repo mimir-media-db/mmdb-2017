@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_better_man_2017",
+  "title": "A Better Man",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30023730",
+    "imdb": "tt4323556",
+    "tmdb": 453117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 85
+}

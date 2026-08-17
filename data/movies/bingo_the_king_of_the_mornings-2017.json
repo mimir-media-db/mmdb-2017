@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bingo_the_king_of_the_mornings_2017",
+  "title": "Bingo: The King of the Mornings",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28678299",
+    "imdb": "tt6293516",
+    "tmdb": 429210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 113
+}

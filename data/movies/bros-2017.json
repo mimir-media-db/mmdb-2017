@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bros_2017",
+  "title": "The Bros",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39047086",
+    "imdb": "tt7967580",
+    "tmdb": 485442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

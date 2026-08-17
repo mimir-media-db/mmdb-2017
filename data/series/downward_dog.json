@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_downward_dog",
+  "title": "Downward Dog",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q25212189",
+    "imdb": "tt3879306",
+    "tmdb": 70968
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

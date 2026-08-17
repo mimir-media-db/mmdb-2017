@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_do_you_want_to_see_a_dead_body",
+  "title": "Do You Want To See a Dead Body?",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48806055",
+    "imdb": "tt5771150",
+    "tmdb": 75143
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

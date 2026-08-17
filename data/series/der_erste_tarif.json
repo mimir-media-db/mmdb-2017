@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_der_erste_tarif",
+  "title": "Der erste Tarif",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110047953",
+    "imdb": "tt7267382"
+  },
+  "last_updated": "2026-08-17"
+}

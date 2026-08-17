@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dinotrux_supercharged",
+  "title": "Dinotrux Supercharged",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64142820",
+    "imdb": "tt7620702",
+    "tmdb": 77962
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dama_a_kral",
+  "title": "Dáma a Král",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q42307740",
+    "imdb": "tt7001132",
+    "tmdb": 75001
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_dein_groer_tag",
+  "title": "Dein großer Tag",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61355869"
+  },
+  "last_updated": "2026-08-17"
+}

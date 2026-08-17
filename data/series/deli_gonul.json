@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_deli_gonul",
+  "title": "Deli gönül",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q61072351",
+    "imdb": "tt7107142",
+    "tmdb": 73545
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

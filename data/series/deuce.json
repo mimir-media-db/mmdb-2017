@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_deuce",
+  "title": "The Deuce",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q21152164",
+    "imdb": "tt4998350",
+    "tmdb": 65817
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

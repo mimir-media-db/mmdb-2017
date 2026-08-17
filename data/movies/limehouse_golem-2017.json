@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_limehouse_golem_2017",
+  "title": "The Limehouse Golem",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527812",
+    "imdb": "tt4733640",
+    "tmdb": 369300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-31",
+  "runtime_minutes": 109
+}

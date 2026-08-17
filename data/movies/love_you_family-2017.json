@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_you_family_2017",
+  "title": "Love You Family",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30638567",
+    "imdb": "tt8076962",
+    "tmdb": 718945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-09"
+}

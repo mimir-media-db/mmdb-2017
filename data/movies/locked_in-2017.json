@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_locked_in_2017",
+  "title": "Locked In",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64495725",
+    "imdb": "tt6645896",
+    "tmdb": 498728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-19"
+}

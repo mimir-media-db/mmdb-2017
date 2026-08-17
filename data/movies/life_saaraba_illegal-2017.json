@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_saaraba_illegal_2017",
+  "title": "Life Saaraba Illegal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28824022",
+    "imdb": "tt7264060",
+    "tmdb": 444791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-09"
+}

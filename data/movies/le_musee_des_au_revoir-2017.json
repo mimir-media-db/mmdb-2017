@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_musee_des_au_revoir_2017",
+  "title": "Le Musée des au revoir",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60852922",
+    "imdb": "tt7554326",
+    "tmdb": 568395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 54
+}

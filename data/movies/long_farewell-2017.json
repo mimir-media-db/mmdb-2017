@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_farewell_2017",
+  "title": "A Long Farewell",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65294571",
+    "imdb": "tt7094576",
+    "tmdb": 553447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lepopee_des_gueules_noires_2017",
+  "title": "L'épopée des gueules noires",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109042049",
+    "imdb": "tt12109392",
+    "tmdb": 854327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

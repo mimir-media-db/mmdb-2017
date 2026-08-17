@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lesodo_2017",
+  "title": "L'Esodo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42765876",
+    "imdb": "tt5160962",
+    "tmdb": 512970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-09",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ciociara_1_fuga_da_roma_2017",
+  "title": "La ciociara 1 - Fuga da Roma",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85864762",
+    "imdb": "tt10054574",
+    "tmdb": 943229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

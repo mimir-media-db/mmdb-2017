@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_means_zero_2017",
+  "title": "Love Means Zero",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42947787",
+    "imdb": "tt7206654",
+    "tmdb": 469071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-09",
+  "runtime_minutes": 89
+}

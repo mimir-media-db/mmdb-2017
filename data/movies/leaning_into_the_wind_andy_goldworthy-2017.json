@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leaning_into_the_wind_andy_goldworthy_2017",
+  "title": "Leaning Into the Wind: Andy Goldworthy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44151014",
+    "imdb": "tt6263828",
+    "tmdb": 447691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-14",
+  "runtime_minutes": 97
+}

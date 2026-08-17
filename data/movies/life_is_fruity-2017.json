@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_is_fruity_2017",
+  "title": "Life is Fruity",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61098975",
+    "imdb": "tt6161512",
+    "tmdb": 512350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

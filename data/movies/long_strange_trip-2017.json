@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_strange_trip_2017",
+  "title": "Long Strange Trip",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28753449",
+    "imdb": "tt4143508",
+    "tmdb": 431714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-23",
+  "runtime_minutes": 238
+}

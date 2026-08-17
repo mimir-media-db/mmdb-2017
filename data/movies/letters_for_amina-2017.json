@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letters_for_amina_2017",
+  "title": "Letters for Amina",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27908361",
+    "imdb": "tt5197092",
+    "tmdb": 446029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-23",
+  "runtime_minutes": 88
+}

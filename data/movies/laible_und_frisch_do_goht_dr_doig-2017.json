@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laible_und_frisch_do_goht_dr_doig_2017",
+  "title": "Laible und Frisch: Do goht dr Doig",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46342085",
+    "imdb": "tt6928714",
+    "tmdb": 518959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-29",
+  "runtime_minutes": 92
+}

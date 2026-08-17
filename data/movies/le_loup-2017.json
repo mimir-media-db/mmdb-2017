@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_loup_2017",
+  "title": "Le Loup",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130343639",
+    "imdb": "tt8059168",
+    "tmdb": 892628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

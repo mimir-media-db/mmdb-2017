@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lord_give_me_patience_2017",
+  "title": "Lord, Give Me Patience",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28503418",
+    "imdb": "tt5991410",
+    "tmdb": 437297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-16",
+  "runtime_minutes": 90
+}

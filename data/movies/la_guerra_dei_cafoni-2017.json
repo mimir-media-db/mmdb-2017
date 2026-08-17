@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_guerra_dei_cafoni_2017",
+  "title": "La guerra dei cafoni",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99690126",
+    "imdb": "tt6899238",
+    "tmdb": 434864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 94
+}

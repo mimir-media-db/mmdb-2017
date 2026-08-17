@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lomo_the_language_of_many_others_2017",
+  "title": "LOMO – The Language of Many Others",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56642287",
+    "imdb": "tt5048814",
+    "tmdb": 379280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-27"
+}

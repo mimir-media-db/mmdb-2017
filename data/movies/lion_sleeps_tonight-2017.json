@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lion_sleeps_tonight_2017",
+  "title": "The Lion Sleeps Tonight",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47009929",
+    "imdb": "tt6034966",
+    "tmdb": 475954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-28",
+  "runtime_minutes": 103
+}

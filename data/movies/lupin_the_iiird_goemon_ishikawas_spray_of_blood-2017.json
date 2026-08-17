@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lupin_the_iiird_goemon_ishikawas_spray_of_blood_2017",
+  "title": "Lupin the IIIrd: Goemon Ishikawa's Spray of Blood",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27997192",
+    "imdb": "tt6047974",
+    "tmdb": 456611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-04",
+  "runtime_minutes": 50
+}

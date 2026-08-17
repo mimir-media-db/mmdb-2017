@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_las_cinephilas_2017",
+  "title": "Las cinéphilas",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73716982",
+    "imdb": "tt6840538",
+    "tmdb": 453661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 71
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_folle_histoire_de_max_et_leon_2017",
+  "title": "La folle histoire de Max et Léon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27755053",
+    "imdb": "tt5091538",
+    "tmdb": 392142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 98
+}

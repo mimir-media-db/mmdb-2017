@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_him_be_a_basketball_player_2017",
+  "title": "Let Him Be a Basketball Player",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61358929",
+    "imdb": "tt7172502",
+    "tmdb": 472774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 82
+}

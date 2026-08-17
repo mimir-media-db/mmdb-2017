@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_louise_lecavalier_in_motion_2017",
+  "title": "Louise Lecavalier: In Motion",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055343",
+    "imdb": "tt7100894",
+    "tmdb": 511790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 102
+}

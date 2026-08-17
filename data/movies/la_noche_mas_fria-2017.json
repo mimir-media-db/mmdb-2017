@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_noche_mas_fria_2017",
+  "title": "La noche más fría",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59785414",
+    "imdb": "tt7491980",
+    "tmdb": 618095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 84
+}

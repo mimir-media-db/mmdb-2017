@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lappan_chhappan_2017",
+  "title": "Lappan Chhappan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344668",
+    "imdb": "tt6676330",
+    "tmdb": 494692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-24"
+}

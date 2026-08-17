@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_chana_2017",
+  "title": "La Chana",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39487004",
+    "imdb": "tt5975242",
+    "tmdb": 445544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-28"
+}

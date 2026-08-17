@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loi_bao_2017",
+  "title": "Lôi Báo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65242390",
+    "imdb": "tt6952230",
+    "tmdb": 494053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_maison_des_syriens_2017",
+  "title": "La maison des Syriens",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055398",
+    "imdb": "tt7720722",
+    "tmdb": 524394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 75
+}

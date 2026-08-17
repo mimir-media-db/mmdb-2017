@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_bloodfight_2017",
+  "title": "Lady Bloodfight",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46129855",
+    "imdb": "tt4327752",
+    "tmdb": 289269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_late_afternoon_2017",
+  "title": "Late Afternoon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61022260",
+    "imdb": "tt7077824",
+    "tmdb": 500688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

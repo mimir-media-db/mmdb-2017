@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_limit_of_sleeping_beauty_2017",
+  "title": "The Limit of Sleeping Beauty",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48746625",
+    "imdb": "tt7112158",
+    "tmdb": 479016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-21"
+}

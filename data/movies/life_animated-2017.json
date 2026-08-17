@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_animated_2017",
+  "title": "Life, Animated",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24600834",
+    "imdb": "tt3917210",
+    "tmdb": 376233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-22",
+  "runtime_minutes": 89
+}

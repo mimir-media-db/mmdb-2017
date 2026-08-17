@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_call_for_nowhere_2017",
+  "title": "Last Call for Nowhere",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24939614",
+    "imdb": "tt5597946",
+    "tmdb": 382518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 90
+}

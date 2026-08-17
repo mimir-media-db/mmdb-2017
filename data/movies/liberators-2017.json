@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liberators_2017",
+  "title": "The Liberators",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28827971",
+    "imdb": "tt5310412",
+    "tmdb": 477866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-10",
+  "runtime_minutes": 142
+}

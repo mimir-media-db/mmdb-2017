@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_time_running_2017",
+  "title": "Long Time Running",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33520321",
+    "imdb": "tt7043176",
+    "tmdb": 470640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-13",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_of_the_moon_2017",
+  "title": "The Light of the Moon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30638256",
+    "imdb": "tt5047336",
+    "tmdb": 426247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-01"
+}

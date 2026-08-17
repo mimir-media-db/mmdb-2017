@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_wisdom_2017",
+  "title": "A Little Wisdom",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120718108",
+    "imdb": "tt7365296",
+    "tmdb": 502191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-14",
+  "runtime_minutes": 92
+}

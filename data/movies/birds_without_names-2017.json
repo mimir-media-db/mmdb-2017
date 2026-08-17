@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birds_without_names_2017",
+  "title": "Birds Without Names",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48747707",
+    "imdb": "tt6493644",
+    "tmdb": 456261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07"
+}

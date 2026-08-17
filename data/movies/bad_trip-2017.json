@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_trip_2017",
+  "title": "Bad Trip",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87378971",
+    "imdb": "tt7050082",
+    "tmdb": 492192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

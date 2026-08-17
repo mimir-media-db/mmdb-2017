@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhoomi_2017",
+  "title": "Bhoomi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28529484",
+    "imdb": "tt6265988",
+    "tmdb": 456567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 136
+}

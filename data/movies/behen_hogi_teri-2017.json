@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behen_hogi_teri_2017",
+  "title": "Behen Hogi Teri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28753308",
+    "imdb": "tt6537508",
+    "tmdb": 454769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-26",
+  "runtime_minutes": 128
+}

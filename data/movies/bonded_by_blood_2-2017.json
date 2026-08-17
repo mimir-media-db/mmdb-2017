@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bonded_by_blood_2_2017",
+  "title": "Bonded By Blood 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124499785",
+    "imdb": "tt4334642",
+    "tmdb": 336049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

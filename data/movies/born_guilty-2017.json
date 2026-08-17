@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_born_guilty_2017",
+  "title": "Born Guilty",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131201912",
+    "imdb": "tt4567320",
+    "tmdb": 520134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

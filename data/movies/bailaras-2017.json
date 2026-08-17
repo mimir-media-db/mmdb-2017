@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bailaras_2017",
+  "title": "Bailaras",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56063689",
+    "imdb": "tt7567288",
+    "tmdb": 491836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-06"
+}

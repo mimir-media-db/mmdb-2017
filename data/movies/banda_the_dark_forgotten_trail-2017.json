@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_banda_the_dark_forgotten_trail_2017",
+  "title": "Banda: The Dark Forgotten Trail",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56390119",
+    "imdb": "tt7131752",
+    "tmdb": 466484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-03",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brad_paisleys_comedy_rodeo_2017",
+  "title": "Brad Paisley's Comedy Rodeo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100357",
+    "imdb": "tt6794448",
+    "tmdb": 470906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-15",
+  "runtime_minutes": 63
+}

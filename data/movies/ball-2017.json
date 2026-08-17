@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ball_2017",
+  "title": "The Ball",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65126260",
+    "imdb": "tt7679474",
+    "tmdb": 485338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

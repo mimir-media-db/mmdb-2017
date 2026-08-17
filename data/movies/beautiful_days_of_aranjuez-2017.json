@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_days_of_aranjuez_2017",
+  "title": "The Beautiful Days of Aranjuez",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26158142",
+    "imdb": "tt4715652",
+    "tmdb": 351414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26",
+  "runtime_minutes": 97
+}

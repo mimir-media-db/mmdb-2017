@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breakable_you_2017",
+  "title": "Breakable You",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674120",
+    "imdb": "tt5101878",
+    "tmdb": 365372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-07",
+  "runtime_minutes": 120
+}

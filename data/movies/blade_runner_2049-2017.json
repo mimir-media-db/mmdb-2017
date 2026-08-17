@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blade_runner_2049_2017",
+  "title": "Blade Runner 2049",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21500755",
+    "imdb": "tt1856101",
+    "tmdb": 335984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-04",
+  "runtime_minutes": 164
+}

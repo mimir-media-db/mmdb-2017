@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bangalore_underworld_2017",
+  "title": "Bangalore Underworld",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33101591",
+    "imdb": "tt8016198",
+    "tmdb": 1646857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-10"
+}

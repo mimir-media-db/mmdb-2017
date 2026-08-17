@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boris_becker_der_spieler_2017",
+  "title": "Boris Becker: Der Spieler",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45367615",
+    "imdb": "tt8225174",
+    "tmdb": 493664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-20",
+  "runtime_minutes": 90
+}

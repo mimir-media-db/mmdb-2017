@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_love_2017",
+  "title": "The Book of Love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881278",
+    "imdb": "tt1330018",
+    "tmdb": 352885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-13",
+  "runtime_minutes": 102
+}

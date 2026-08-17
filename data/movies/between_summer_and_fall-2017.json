@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_summer_and_fall_2017",
+  "title": "Between Summer and Fall",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66474054",
+    "imdb": "tt8414124",
+    "tmdb": 528776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-25",
+  "runtime_minutes": 102
+}

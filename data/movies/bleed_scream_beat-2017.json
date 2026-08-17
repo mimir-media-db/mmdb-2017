@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bleed_scream_beat_2017",
+  "title": "Bleed. Scream. Beat!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804693",
+    "imdb": "tt22477844",
+    "tmdb": 543459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

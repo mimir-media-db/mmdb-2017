@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_we_vanish_2017",
+  "title": "Before We Vanish",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29385180",
+    "imdb": "tt5999530",
+    "tmdb": 446164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01",
+  "runtime_minutes": 129
+}

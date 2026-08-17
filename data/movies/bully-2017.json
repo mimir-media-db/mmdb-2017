@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bully_2017",
+  "title": "Bully",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55606134",
+    "imdb": "tt6949172",
+    "tmdb": 554029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

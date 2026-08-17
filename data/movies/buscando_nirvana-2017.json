@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buscando_nirvana_2017",
+  "title": "Buscando Nirvana",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123502257",
+    "imdb": "tt5109382",
+    "tmdb": 939664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

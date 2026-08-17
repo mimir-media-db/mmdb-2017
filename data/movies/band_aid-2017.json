@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_band_aid_2017",
+  "title": "Band Aid",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28173417",
+    "imdb": "tt5816374",
+    "tmdb": 426230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-24",
+  "runtime_minutes": 91
+}

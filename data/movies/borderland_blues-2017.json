@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_borderland_blues_2017",
+  "title": "Borderland Blues",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29681079",
+    "imdb": "tt5607934",
+    "tmdb": 417951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-18"
+}

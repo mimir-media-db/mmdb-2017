@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bahtiyar_bahtkara_2017",
+  "title": "Bahtiyar Bahtıkara",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29577753",
+    "imdb": "tt9555530",
+    "tmdb": 491530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19"
+}

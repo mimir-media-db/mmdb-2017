@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_prince_2017",
+  "title": "The Black Prince",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39070195",
+    "imdb": "tt3962984",
+    "tmdb": 313755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-21"
+}

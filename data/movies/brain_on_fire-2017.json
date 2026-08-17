@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brain_on_fire_2017",
+  "title": "Brain on Fire",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20708474",
+    "imdb": "tt3704700",
+    "tmdb": 340027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-25",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbs_wastelands_2017",
+  "title": "Barbs Wastelands",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131214088",
+    "imdb": "tt6805022",
+    "tmdb": 460646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 25
+}

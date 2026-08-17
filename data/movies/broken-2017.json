@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_2017",
+  "title": "Broken",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599952",
+    "imdb": "tt4909364",
+    "tmdb": 636825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

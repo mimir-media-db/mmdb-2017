@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bedbugs_2017",
+  "title": "Bedbugs",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41527984",
+    "imdb": "tt5275476",
+    "tmdb": 464287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-16",
+  "runtime_minutes": 101
+}

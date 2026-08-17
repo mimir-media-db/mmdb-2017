@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bodied_2017",
+  "title": "Bodied",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048434",
+    "imdb": "tt5883570",
+    "tmdb": 431491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 121
+}

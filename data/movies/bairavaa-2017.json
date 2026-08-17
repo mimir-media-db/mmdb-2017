@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bairavaa_2017",
+  "title": "Bairavaa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647283",
+    "imdb": "tt6201292",
+    "tmdb": 411717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 169
+}

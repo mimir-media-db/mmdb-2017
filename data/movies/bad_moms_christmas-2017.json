@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_moms_christmas_2017",
+  "title": "A Bad Moms Christmas",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832507",
+    "imdb": "tt6359956",
+    "tmdb": 431530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-09",
+  "runtime_minutes": 104
+}

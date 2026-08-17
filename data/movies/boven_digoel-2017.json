@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_boven_digoel_2017",
+  "title": "Boven Digoel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31174993",
+    "tmdb": 441072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-09"
+}

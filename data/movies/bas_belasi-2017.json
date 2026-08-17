@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bas_belasi_2017",
+  "title": "Bas Belasi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29572879",
+    "imdb": "tt7037156",
+    "tmdb": 482022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05",
+  "runtime_minutes": 85
+}

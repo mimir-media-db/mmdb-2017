@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fateko_jutta_2017",
+  "title": "Fateko Jutta",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38805080",
+    "imdb": "tt7860150",
+    "tmdb": 493123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_exit_2017",
+  "title": "The Final Exit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39075967",
+    "imdb": "tt7340684",
+    "tmdb": 477045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22"
+}

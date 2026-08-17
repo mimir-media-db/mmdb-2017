@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frat_star_2017",
+  "title": "Frat Star",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28406576",
+    "imdb": "tt5117484",
+    "tmdb": 433018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-03",
+  "runtime_minutes": 84
+}

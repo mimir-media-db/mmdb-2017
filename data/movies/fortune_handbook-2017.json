@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fortune_handbook_2017",
+  "title": "The Fortune Handbook",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27668203",
+    "imdb": "tt6441304",
+    "tmdb": 496958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_the_last_2017",
+  "title": "The First, the Last",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18684590",
+    "imdb": "tt5072542",
+    "tmdb": 377853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-09"
+}

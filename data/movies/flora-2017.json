@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flora_2017",
+  "title": "Flora",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105986658",
+    "imdb": "tt4453756",
+    "tmdb": 454439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

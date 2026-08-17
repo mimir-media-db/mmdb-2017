@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filmen_om_badrock_2017",
+  "title": "Filmen om Badrock",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76008823",
+    "imdb": "tt6620308",
+    "tmdb": 502192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-07",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_all_the_world_to_see_2017",
+  "title": "For all the World to see",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28824070",
+    "imdb": "tt6537072",
+    "tmdb": 444795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-09"
+}

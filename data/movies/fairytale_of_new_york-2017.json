@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fairytale_of_new_york_2017",
+  "title": "Fairytale of New York",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29577942",
+    "imdb": "tt5300754",
+    "tmdb": 608439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19"
+}

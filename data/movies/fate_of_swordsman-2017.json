@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fate_of_swordsman_2017",
+  "title": "The Fate of Swordsman",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61099422",
+    "imdb": "tt9387518",
+    "tmdb": 542245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

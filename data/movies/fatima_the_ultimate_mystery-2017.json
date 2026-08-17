@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fatima_the_ultimate_mystery_2017",
+  "title": "Fatima the Ultimate Mystery",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66475425",
+    "imdb": "tt7177432",
+    "tmdb": 534281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

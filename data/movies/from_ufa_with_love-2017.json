@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_ufa_with_love_2017",
+  "title": "From Ufa with Love!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111531314",
+    "imdb": "tt6918070",
+    "tmdb": 452109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

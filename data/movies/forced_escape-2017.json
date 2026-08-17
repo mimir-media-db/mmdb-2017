@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forced_escape_2017",
+  "title": "Forced Escape",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29416796",
+    "imdb": "tt6793470",
+    "tmdb": 462003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-25"
+}

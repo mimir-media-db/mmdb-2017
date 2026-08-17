@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_kiss_2017",
+  "title": "First Kiss",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39681720",
+    "imdb": "tt7309654",
+    "tmdb": 477272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-19",
+  "runtime_minutes": 114
+}

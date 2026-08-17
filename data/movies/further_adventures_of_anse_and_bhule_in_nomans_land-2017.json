@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_further_adventures_of_anse_and_bhule_in_nomans_land_2017",
+  "title": "The Further Adventures of Anse and Bhule in No-man's Land",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62559419",
+    "imdb": "tt2596158",
+    "tmdb": 815093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 105
+}

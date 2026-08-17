@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_facebook_cracking_the_code_2017",
+  "title": "Facebook: Cracking the Code",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130349241",
+    "imdb": "tt6949472",
+    "tmdb": 465669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-10",
+  "runtime_minutes": 42
+}

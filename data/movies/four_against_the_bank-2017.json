@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_against_the_bank_2017",
+  "title": "Four Against the Bank",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22046636",
+    "imdb": "tt5173166",
+    "tmdb": 366568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11",
+  "runtime_minutes": 96
+}

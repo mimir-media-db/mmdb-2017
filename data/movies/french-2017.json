@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_french_2017",
+  "title": "French",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90417977",
+    "imdb": "tt5715420",
+    "tmdb": 483843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 21
+}

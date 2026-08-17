@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finland_from_east_to_west_2017",
+  "title": "Finland from East to West",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124171136",
+    "imdb": "tt7716000",
+    "tmdb": 491657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-05"
+}

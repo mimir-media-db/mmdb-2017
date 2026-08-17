@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_from_london_to_bali_2017",
+  "title": "From London to Bali",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28725810",
+    "tmdb": 441140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-02"
+}

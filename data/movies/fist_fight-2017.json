@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fist_fight_2017",
+  "title": "Fist Fight",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527653",
+    "imdb": "tt3401882",
+    "tmdb": 345922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-16",
+  "runtime_minutes": 91
+}

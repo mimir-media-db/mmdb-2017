@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_firildak_family_2017",
+  "title": "Firildak Family",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19473371",
+    "imdb": "tt6409666",
+    "tmdb": 439034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-02",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ouro_verde",
+  "title": "Ouro Verde",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28546187",
+    "imdb": "tt6183736",
+    "tmdb": 69692
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 297
+}

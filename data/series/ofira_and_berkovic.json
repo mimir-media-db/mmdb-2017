@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ofira_and_berkovic",
+  "title": "Ofira and Berkovic",
+  "start_year": 2017,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q45895746",
+    "imdb": "tt7617770",
+    "tmdb": 128773
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

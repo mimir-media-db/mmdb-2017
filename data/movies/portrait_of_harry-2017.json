@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_portrait_of_harry_2017",
+  "title": "Portrait of Harry",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643473",
+    "imdb": "tt4185742"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

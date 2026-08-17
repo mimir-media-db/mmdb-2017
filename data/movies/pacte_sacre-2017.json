@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pacte_sacre_2017",
+  "title": "Pacte Sacré",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30737556",
+    "imdb": "tt5245064",
+    "tmdb": 437736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-24",
+  "runtime_minutes": 93
+}

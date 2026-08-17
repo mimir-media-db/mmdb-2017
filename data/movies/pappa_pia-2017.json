@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pappa_pia_2017",
+  "title": "Pappa pia",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37140610",
+    "imdb": "tt6609088",
+    "tmdb": 471528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-15",
+  "runtime_minutes": 105
+}

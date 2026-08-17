@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_killer_2017",
+  "title": "The Perfect Killer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55786535",
+    "imdb": "tt6614914",
+    "tmdb": 455520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_professor_marston_the_wonder_women_2017",
+  "title": "Professor Marston & The Wonder Women",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27204179",
+    "imdb": "tt6133130",
+    "tmdb": 420622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-09",
+  "runtime_minutes": 108
+}

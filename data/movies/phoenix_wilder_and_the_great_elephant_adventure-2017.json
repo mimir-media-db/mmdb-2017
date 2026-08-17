@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phoenix_wilder_and_the_great_elephant_adventure_2017",
+  "title": "Phoenix Wilder and the Great Elephant Adventure",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96399252",
+    "imdb": "tt6849128",
+    "tmdb": 518514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

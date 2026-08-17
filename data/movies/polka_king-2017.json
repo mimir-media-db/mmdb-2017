@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polka_king_2017",
+  "title": "The Polka King",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703194",
+    "imdb": "tt5539052",
+    "tmdb": 419472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-22",
+  "runtime_minutes": 95
+}

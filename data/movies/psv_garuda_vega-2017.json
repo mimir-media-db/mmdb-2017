@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_psv_garuda_vega_2017",
+  "title": "PSV Garuda Vega",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38805251",
+    "imdb": "tt6613470",
+    "tmdb": 484423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-03"
+}

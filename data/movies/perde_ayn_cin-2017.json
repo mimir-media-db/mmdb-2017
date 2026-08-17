@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perde_ayn_cin_2017",
+  "title": "Perde Ayn-ı Cin",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28923972",
+    "imdb": "tt10292338",
+    "tmdb": 1741001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-10"
+}

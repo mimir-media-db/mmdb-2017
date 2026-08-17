@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paella_today_2017",
+  "title": "Paella Today!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111915342",
+    "imdb": "tt6214294",
+    "tmdb": 513501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-27",
+  "runtime_minutes": 84
+}

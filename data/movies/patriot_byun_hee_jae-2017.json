@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_patriot_byun_hee_jae_2017",
+  "title": "Patriot Byun Hee Jae",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739131",
+    "tmdb": 510019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

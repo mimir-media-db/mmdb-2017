@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_psychopaths_2017",
+  "title": "Psychopaths",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964387",
+    "imdb": "tt5472896",
+    "tmdb": 429734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 85
+}

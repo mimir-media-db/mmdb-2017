@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_psycho_brother_inlaw_2017",
+  "title": "Psycho Brother In-Law",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116721216",
+    "imdb": "tt7812828",
+    "tmdb": 514991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

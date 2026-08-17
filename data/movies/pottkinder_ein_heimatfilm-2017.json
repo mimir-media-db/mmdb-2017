@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_pottkinder_ein_heimatfilm_2017",
+  "title": "Pottkinder – ein Heimatfilm",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42801032"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-10"
+}

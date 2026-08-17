@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pataki_2017",
+  "title": "Pataki",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30600618",
+    "imdb": "tt6672238",
+    "tmdb": 480639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-26"
+}

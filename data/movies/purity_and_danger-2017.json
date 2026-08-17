@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_purity_and_danger_2017",
+  "title": "Purity and Danger",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111802916",
+    "imdb": "tt4614918"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-24",
+  "runtime_minutes": 49
+}

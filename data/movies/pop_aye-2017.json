@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pop_aye_2017",
+  "title": "Pop Aye",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28532725",
+    "imdb": "tt3740066",
+    "tmdb": 428497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-19",
+  "runtime_minutes": 104
+}

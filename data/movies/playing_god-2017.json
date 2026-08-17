@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_god_2017",
+  "title": "Playing God",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47492584",
+    "imdb": "tt6816210",
+    "tmdb": 455561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-30",
+  "runtime_minutes": 101
+}

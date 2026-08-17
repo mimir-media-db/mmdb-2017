@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poveri_ma_ricchissimi_2017",
+  "title": "Poveri ma ricchissimi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44107699",
+    "imdb": "tt7014318",
+    "tmdb": 464595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-14",
+  "runtime_minutes": 94
+}

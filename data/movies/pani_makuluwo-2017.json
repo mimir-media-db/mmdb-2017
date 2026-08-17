@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pani_makuluwo_2017",
+  "title": "Pani Makuluwo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30595985",
+    "imdb": "tt7683990",
+    "tmdb": 522491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-04"
+}

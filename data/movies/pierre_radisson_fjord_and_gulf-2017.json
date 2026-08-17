@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pierre_radisson_fjord_and_gulf_2017",
+  "title": "Pierre Radisson: Fjord and Gulf",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56490266",
+    "imdb": "tt6707040",
+    "tmdb": 453987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

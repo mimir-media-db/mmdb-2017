@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_palookaville_2017",
+  "title": "Palookaville",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59683070",
+    "imdb": "tt7663156",
+    "tmdb": 1145820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-04",
+  "runtime_minutes": 19
+}

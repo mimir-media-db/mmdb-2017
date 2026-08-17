@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pitch_perfect_3_2017",
+  "title": "Pitch Perfect 3",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100117",
+    "imdb": "tt4765284",
+    "tmdb": 353616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-21",
+  "runtime_minutes": 93
+}

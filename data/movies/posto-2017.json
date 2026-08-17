@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_posto_2017",
+  "title": "Posto",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29573203",
+    "imdb": "tt6789386",
+    "tmdb": 490229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-12"
+}

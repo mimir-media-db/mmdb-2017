@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_primas_2017",
+  "title": "Primas",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43746207",
+    "imdb": "tt5842696",
+    "tmdb": 492424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-17",
+  "runtime_minutes": 95
+}

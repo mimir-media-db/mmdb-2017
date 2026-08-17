@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_patton_oswalt_annihilation_2017",
+  "title": "Patton Oswalt: Annihilation",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100439",
+    "imdb": "tt7026230",
+    "tmdb": 479263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-17",
+  "runtime_minutes": 66
+}

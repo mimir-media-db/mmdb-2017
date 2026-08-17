@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prychynna_the_story_of_love_2017",
+  "title": "Prychynna: The Story of Love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56368344",
+    "imdb": "tt7140046",
+    "tmdb": 466134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_preachers_son_2017",
+  "title": "The Preacher's Son",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118307526",
+    "imdb": "tt3729914",
+    "tmdb": 444835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-09",
+  "runtime_minutes": 99
+}

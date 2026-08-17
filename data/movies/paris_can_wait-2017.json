@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_can_wait_2017",
+  "title": "Paris Can Wait",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720647",
+    "imdb": "tt4429194",
+    "tmdb": 375867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-12",
+  "runtime_minutes": 92
+}

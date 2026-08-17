@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamandag_ng_droga_2017",
+  "title": "Kamandag ng Droga",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55393558",
+    "imdb": "tt7718286",
+    "tmdb": 492054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

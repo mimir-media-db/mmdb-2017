@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khyanikaa_2017",
+  "title": "Khyanikaa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48734586",
+    "imdb": "tt5926914",
+    "tmdb": 713354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

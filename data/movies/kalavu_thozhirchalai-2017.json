@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalavu_thozhirchalai_2017",
+  "title": "Kalavu Thozhirchalai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42529992",
+    "imdb": "tt7419382",
+    "tmdb": 477425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

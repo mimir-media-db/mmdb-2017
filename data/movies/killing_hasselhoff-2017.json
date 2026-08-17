@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_hasselhoff_2017",
+  "title": "Killing Hasselhoff",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807138",
+    "imdb": "tt2967226",
+    "tmdb": 353440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

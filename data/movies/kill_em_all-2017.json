@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_em_all_2017",
+  "title": "Kill 'Em All",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29454717",
+    "imdb": "tt5767628",
+    "tmdb": 449503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 96
+}

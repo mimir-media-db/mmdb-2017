@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuppathu_raja_2017",
+  "title": "Kuppathu Raja",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30602502",
+    "imdb": "tt7569386",
+    "tmdb": 460539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

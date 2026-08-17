@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_18_days_2017",
+  "title": "18 Days",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q339907",
+    "imdb": "tt1982848",
+    "tmdb": 224486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_101year_old_man_who_skipped_out_on_the_bill_and_disappeared_2017",
+  "title": "The 101-Year Old Man Who Skipped Out on the Bill and Disappeared",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28059207",
+    "imdb": "tt4940370",
+    "tmdb": 404791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-16",
+  "runtime_minutes": 108
+}

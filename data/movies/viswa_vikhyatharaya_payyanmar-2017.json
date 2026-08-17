@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viswa_vikhyatharaya_payyanmar_2017",
+  "title": "Viswa vikhyatharaya payyanmar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671182",
+    "imdb": "tt7548520",
+    "tmdb": 469148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

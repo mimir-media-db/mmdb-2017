@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fantasmes_et_fantomes_2017",
+  "title": "Fantasmes et fantômes",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43380922",
+    "imdb": "tt7454078",
+    "tmdb": 578679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

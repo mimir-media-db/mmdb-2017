@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fittest_on_earth_a_decade_of_fitness_2017",
+  "title": "Fittest on Earth: A Decade of Fitness",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47539784",
+    "imdb": "tt6491170",
+    "tmdb": 438665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filth_city_2017",
+  "title": "Filth City",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344695",
+    "imdb": "tt5155486",
+    "tmdb": 445786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 99
+}

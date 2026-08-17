@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fausto_furio_2017",
+  "title": "Fausto & Furio",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47077355",
+    "imdb": "tt5749662",
+    "tmdb": 483517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foam_at_the_mouth_2017",
+  "title": "Foam at the Mouth",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48807269",
+    "imdb": "tt5647102",
+    "tmdb": 486526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 79
+}

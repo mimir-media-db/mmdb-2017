@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finche_ce_prosecco_ce_speranza_2017",
+  "title": "Finché c'è prosecco c'è speranza",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55421686",
+    "imdb": "tt6873546",
+    "tmdb": 480483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 101
+}

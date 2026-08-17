@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fireworks_should_we_see_it_from_the_side_or_the_bottom_2017",
+  "title": "Fireworks, Should We See It from the Side or the Bottom?",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30601864",
+    "imdb": "tt6317962",
+    "tmdb": 431819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

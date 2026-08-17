@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_find_your_voice_2017",
+  "title": "Find Your Voice",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30524059",
+    "imdb": "tt13322146",
+    "tmdb": 589456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cop_and_a_half_new_recruit_2017",
+  "title": "Cop and a Half: New Recruit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303238",
+    "imdb": "tt6212210",
+    "tmdb": 461297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 97
+}

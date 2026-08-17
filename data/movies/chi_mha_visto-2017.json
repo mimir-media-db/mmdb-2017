@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chi_mha_visto_2017",
+  "title": "Chi m'ha visto",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280874",
+    "imdb": "tt7382668",
+    "tmdb": 478434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 105
+}

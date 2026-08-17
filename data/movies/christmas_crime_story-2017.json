@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_crime_story_2017",
+  "title": "Christmas Crime Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28419628",
+    "imdb": "tt5813808",
+    "tmdb": 476919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

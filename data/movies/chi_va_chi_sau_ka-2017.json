@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chi_va_chi_sau_ka_2017",
+  "title": "Chi Va Chi Sau Ka",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30641136",
+    "imdb": "tt6912552",
+    "tmdb": 462682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 134
+}

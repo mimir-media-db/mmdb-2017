@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cest_beau_la_vie_quand_on_y_pense_2017",
+  "title": "C'est beau la vie quand on y pense",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28495527",
+    "imdb": "tt6063866",
+    "tmdb": 439155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

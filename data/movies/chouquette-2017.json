@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chouquette_2017",
+  "title": "Chouquette",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35113291",
+    "imdb": "tt5799362",
+    "tmdb": 459960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 83
+}

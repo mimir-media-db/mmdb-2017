@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chakravarthy_2017",
+  "title": "Chakravarthy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964401",
+    "imdb": "tt6387472",
+    "tmdb": 440028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

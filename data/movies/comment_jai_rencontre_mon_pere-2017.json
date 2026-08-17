@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comment_jai_rencontre_mon_pere_2017",
+  "title": "Comment j'ai rencontré mon père",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30740090",
+    "imdb": "tt5096486",
+    "tmdb": 427890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 82
+}

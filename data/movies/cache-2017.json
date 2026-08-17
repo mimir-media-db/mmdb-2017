@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cache_2017",
+  "title": "The Cache",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30011741",
+    "imdb": "tt6488738",
+    "tmdb": 440857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 84
+}

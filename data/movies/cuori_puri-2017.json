@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cuori_puri_2017",
+  "title": "Cuori Puri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29517772",
+    "imdb": "tt5929226",
+    "tmdb": 453272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_the_sun_2017",
+  "title": "City of the Sun",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53467695",
+    "imdb": "tt6479614",
+    "tmdb": 440099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 104
+}

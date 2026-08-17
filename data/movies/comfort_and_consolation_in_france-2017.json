@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comfort_and_consolation_in_france_2017",
+  "title": "Comfort and Consolation in France",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30059535",
+    "imdb": "tt6227190",
+    "tmdb": 455200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

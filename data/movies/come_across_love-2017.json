@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_come_across_love_2017",
+  "title": "Come Across Love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30943856",
+    "imdb": "tt7074258",
+    "tmdb": 467101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chinese_widow_2017",
+  "title": "The Chinese Widow",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30336064",
+    "imdb": "tt5759434",
+    "tmdb": 528210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_free_rein",
+  "title": "Free Rein",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q30504092",
+    "imdb": "tt6928052",
+    "tmdb": 72462
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}

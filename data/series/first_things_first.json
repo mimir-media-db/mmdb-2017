@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_first_things_first",
+  "title": "First Things First",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113659654"
+  },
+  "last_updated": "2026-08-17"
+}

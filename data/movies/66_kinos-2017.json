@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_66_kinos_2017",
+  "title": "66 Kinos",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30524117",
+    "imdb": "tt6150324",
+    "tmdb": 436161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-19",
+  "runtime_minutes": 98
+}

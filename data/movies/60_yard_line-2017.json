@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_60_yard_line_2017",
+  "title": "The 60 Yard Line",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63864143",
+    "imdb": "tt5028598",
+    "tmdb": 449751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

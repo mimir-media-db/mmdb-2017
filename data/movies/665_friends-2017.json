@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_665_friends_2017",
+  "title": "665 Friends",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42434208",
+    "imdb": "tt8377366",
+    "tmdb": 483749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-11"
+}

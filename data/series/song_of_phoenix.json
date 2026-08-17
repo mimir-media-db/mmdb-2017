@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_song_of_phoenix",
+  "title": "Song of Phoenix",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24836239",
+    "imdb": "tt7171894",
+    "tmdb": 71569
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 72
+}

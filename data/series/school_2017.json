@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_school_2017",
+  "title": "School 2017",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30132794",
+    "imdb": "tt7020608",
+    "tmdb": 72374
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

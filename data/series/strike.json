@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strike",
+  "title": "Strike",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28443753",
+    "imdb": "tt4276618",
+    "tmdb": 72748
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 19
+}

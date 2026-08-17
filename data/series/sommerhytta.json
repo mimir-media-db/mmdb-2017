@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sommerhytta",
+  "title": "Sommerhytta",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115057083",
+    "imdb": "tt8484374",
+    "tmdb": 78732
+  },
+  "last_updated": "2026-08-17"
+}

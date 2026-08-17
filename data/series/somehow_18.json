@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_somehow_18",
+  "title": "Somehow 18",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30942341",
+    "imdb": "tt7278424",
+    "tmdb": 73780
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

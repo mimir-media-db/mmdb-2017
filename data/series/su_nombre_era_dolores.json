@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_su_nombre_era_dolores",
+  "title": "Su Nombre Era Dolores",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28324974",
+    "imdb": "tt6431852",
+    "tmdb": 70522
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_superhigh",
+  "title": "SuperHigh",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39072993",
+    "imdb": "tt7142738",
+    "tmdb": 74127
+  },
+  "last_updated": "2026-08-17"
+}

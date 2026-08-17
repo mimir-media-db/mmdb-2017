@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_snowfall",
+  "title": "Snowfall",
+  "start_year": 2017,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q28429799",
+    "imdb": "tt6439752",
+    "tmdb": 71694
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 60
+}

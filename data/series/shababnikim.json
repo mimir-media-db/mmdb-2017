@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shababnikim",
+  "title": "Shababnikim",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31197547",
+    "imdb": "tt7865452",
+    "tmdb": 76882
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_se_quien_eres",
+  "title": "Sé quién eres",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q9081051",
+    "imdb": "tt4888908",
+    "tmdb": 65549
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

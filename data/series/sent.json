@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sent",
+  "title": "Sent",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48903456",
+    "imdb": "tt6738438",
+    "tmdb": 79223
+  },
+  "last_updated": "2026-08-17"
+}

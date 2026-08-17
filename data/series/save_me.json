@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_save_me",
+  "title": "Save Me",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30147768",
+    "imdb": "tt7020532",
+    "tmdb": 72690
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

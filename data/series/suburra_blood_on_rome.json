@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_suburra_blood_on_rome",
+  "title": "Suburra: Blood on Rome",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q40119377",
+    "imdb": "tt7197684",
+    "tmdb": 73671
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

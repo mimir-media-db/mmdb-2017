@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_story_of_us_with_morgan_freeman",
+  "title": "The Story of Us with Morgan Freeman",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q42954786",
+    "imdb": "tt7492116",
+    "tmdb": 74236
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

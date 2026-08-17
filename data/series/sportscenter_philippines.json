@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_sportscenter_philippines",
+  "title": "SportsCenter Philippines",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q46996836"
+  },
+  "last_updated": "2026-08-17"
+}

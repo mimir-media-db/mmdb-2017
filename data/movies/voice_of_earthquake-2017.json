@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_of_earthquake_2017",
+  "title": "The Voice of Earthquake",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65129216",
+    "imdb": "tt7223754"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 55
+}

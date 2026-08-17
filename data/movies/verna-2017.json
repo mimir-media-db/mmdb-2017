@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_verna_2017",
+  "title": "Verna",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964335",
+    "imdb": "tt6800942",
+    "tmdb": 480014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vir_das_abroad_understanding_2017",
+  "title": "Vir Das: Abroad Understanding",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100467",
+    "imdb": "tt6822400",
+    "tmdb": 454361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-25",
+  "runtime_minutes": 65
+}

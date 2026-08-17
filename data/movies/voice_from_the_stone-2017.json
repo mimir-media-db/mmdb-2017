@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_from_the_stone_2017",
+  "title": "Voice from the Stone",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20735767",
+    "imdb": "tt1544608",
+    "tmdb": 301372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-28",
+  "runtime_minutes": 94
+}

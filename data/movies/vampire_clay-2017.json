@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_clay_2017",
+  "title": "VAMPIRE CLAY",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86732126",
+    "imdb": "tt7026370",
+    "tmdb": 470821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-19"
+}

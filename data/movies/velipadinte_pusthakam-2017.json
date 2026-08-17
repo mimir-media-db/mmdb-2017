@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_velipadinte_pusthakam_2017",
+  "title": "Velipadinte Pusthakam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30640854",
+    "imdb": "tt6789174",
+    "tmdb": 459725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-31"
+}

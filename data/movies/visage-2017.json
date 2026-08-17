@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_visage_2017",
+  "title": "Visage",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66818336",
+    "imdb": "tt6133700",
+    "tmdb": 550717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-14"
+}

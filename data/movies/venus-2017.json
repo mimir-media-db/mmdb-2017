@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venus_2017",
+  "title": "Venus",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63871518",
+    "imdb": "tt6852284",
+    "tmdb": 485724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-09",
+  "runtime_minutes": 95
+}

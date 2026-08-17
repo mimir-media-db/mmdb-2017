@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vienna_before_the_night_2017",
+  "title": "Vienna Before the Night",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28824002",
+    "imdb": "tt7385370",
+    "tmdb": 444793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-09"
+}

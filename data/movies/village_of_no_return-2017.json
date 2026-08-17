@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_village_of_no_return_2017",
+  "title": "The Village of No Return",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28417174",
+    "imdb": "tt6461526",
+    "tmdb": 434942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26",
+  "runtime_minutes": 116
+}

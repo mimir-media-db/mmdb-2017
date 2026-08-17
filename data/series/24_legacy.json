@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_24_legacy",
+  "title": "24: Legacy",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q22946170",
+    "imdb": "tt5345490",
+    "tmdb": 66789
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

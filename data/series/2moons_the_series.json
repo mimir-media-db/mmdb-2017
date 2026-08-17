@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_2moons_the_series",
+  "title": "2Moons: The Series",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31352837",
+    "imdb": "tt8283046",
+    "tmdb": 71702
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

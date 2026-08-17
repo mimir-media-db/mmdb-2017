@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_20th_century_boy_and_girl",
+  "title": "20th Century Boy and Girl",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q32859659",
+    "imdb": "tt7208216",
+    "tmdb": 74000
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

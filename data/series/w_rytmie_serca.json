@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_w_rytmie_serca",
+  "title": "W rytmie serca",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47388111",
+    "imdb": "tt7401516",
+    "tmdb": 85085
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 75
+}

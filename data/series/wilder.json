@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wilder",
+  "title": "Wilder",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q43253316",
+    "imdb": "tt6276768",
+    "tmdb": 75816
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

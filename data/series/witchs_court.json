@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_witchs_court",
+  "title": "Witch's Court",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q40012480",
+    "imdb": "tt7428488",
+    "tmdb": 74114
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

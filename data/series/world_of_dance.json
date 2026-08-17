@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_world_of_dance",
+  "title": "World of Dance",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30608536",
+    "imdb": "tt5895884",
+    "tmdb": 71957
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 5
+}

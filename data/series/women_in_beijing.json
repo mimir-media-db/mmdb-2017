@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_women_in_beijing",
+  "title": "Women in Beijing",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48926443",
+    "imdb": "tt10380358",
+    "tmdb": 80608
+  },
+  "last_updated": "2026-08-17"
+}

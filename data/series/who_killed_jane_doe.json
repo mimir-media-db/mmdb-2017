@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_who_killed_jane_doe",
+  "title": "Who Killed Jane Doe?",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q60742895",
+    "imdb": "tt5934392",
+    "tmdb": 76810
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_world_war_weird",
+  "title": "World War Weird",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q136099332",
+    "imdb": "tt11281214",
+    "tmdb": 136946
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_what_would_sal_do",
+  "title": "What Would Sal Do?",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28127042",
+    "imdb": "tt4647734",
+    "tmdb": 90058
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

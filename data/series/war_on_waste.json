@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_war_on_waste",
+  "title": "War on Waste",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q48805473",
+    "imdb": "tt7450130",
+    "tmdb": 71601
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

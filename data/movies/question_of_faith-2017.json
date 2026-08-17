@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_question_of_faith_2017",
+  "title": "A Question of Faith",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703213",
+    "imdb": "tt6054650",
+    "tmdb": 467433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29",
+  "runtime_minutes": 104
+}

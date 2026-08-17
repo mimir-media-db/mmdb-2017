@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_40_years_in_the_making_the_magic_music_movie_2017",
+  "title": "40 Years in the Making: The Magic Music Movie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55983733",
+    "imdb": "tt7457716",
+    "tmdb": 503242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 99
+}

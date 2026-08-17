@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_president_alphonse",
+  "title": "President Alphonse",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110289862",
+    "imdb": "tt6386696",
+    "tmdb": 75343
+  },
+  "last_updated": "2026-08-17"
+}

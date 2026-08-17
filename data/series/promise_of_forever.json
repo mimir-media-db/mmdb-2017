@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_promise_of_forever",
+  "title": "The Promise of Forever",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24514638",
+    "tmdb": 103375
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

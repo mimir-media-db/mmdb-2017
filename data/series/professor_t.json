@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_professor_t",
+  "title": "Professor T.",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q41904338",
+    "imdb": "tt6127960",
+    "tmdb": 69511
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 16
+}

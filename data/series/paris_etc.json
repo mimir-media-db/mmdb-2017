@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_paris_etc",
+  "title": "Paris etc",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30738083",
+    "imdb": "tt6632308",
+    "tmdb": 75389
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

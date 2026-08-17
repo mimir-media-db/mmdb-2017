@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_match",
+  "title": "The Perfect Match",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28418413",
+    "imdb": "tt9882870",
+    "tmdb": 70580
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

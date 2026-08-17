@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_prazdniny",
+  "title": "Prázdniny",
+  "start_year": 2016,
+  "end_year": 2030,
+  "external_ids": {
+    "wikidata": "Q28481829",
+    "imdb": "tt6826674",
+    "tmdb": 80812
+  },
+  "last_updated": "2026-08-17"
+}

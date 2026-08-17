@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mars_generation_2017",
+  "title": "The Mars Generation",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44855622",
+    "imdb": "tt6333096",
+    "tmdb": 433878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_hotel_kabul_2017",
+  "title": "Moon Hotel Kabul",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44869082",
+    "imdb": "tt6785134",
+    "tmdb": 581989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

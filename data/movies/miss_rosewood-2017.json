@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_rosewood_2017",
+  "title": "Miss Rosewood",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33551188",
+    "imdb": "tt6672152",
+    "tmdb": 511849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 67
+}

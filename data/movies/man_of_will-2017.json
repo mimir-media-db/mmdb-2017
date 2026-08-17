@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_of_will_2017",
+  "title": "Man of Will",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28699638",
+    "imdb": "tt6406458",
+    "tmdb": 477877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

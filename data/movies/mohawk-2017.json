@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mohawk_2017",
+  "title": "Mohawk",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30608382",
+    "imdb": "tt5189828",
+    "tmdb": 366964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

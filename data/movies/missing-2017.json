@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_missing_2017",
+  "title": "The Missing..",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30949149",
+    "imdb": "tt4823122",
+    "tmdb": 457320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

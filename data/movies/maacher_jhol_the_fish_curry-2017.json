@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maacher_jhol_the_fish_curry_2017",
+  "title": "Maacher Jhol - The fish curry",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55393510",
+    "imdb": "tt7058048",
+    "tmdb": 517652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

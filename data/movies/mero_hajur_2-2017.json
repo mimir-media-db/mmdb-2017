@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mero_hajur_2_2017",
+  "title": "A Mero Hajur 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24892724",
+    "imdb": "tt6944688",
+    "tmdb": 486507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

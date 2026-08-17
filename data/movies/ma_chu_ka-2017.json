@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_chu_ka_2017",
+  "title": "Ma Chu Ka",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806747",
+    "imdb": "tt5349672",
+    "tmdb": 411935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

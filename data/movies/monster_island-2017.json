@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_island_2017",
+  "title": "Monster Island",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43746239",
+    "imdb": "tt6269658",
+    "tmdb": 420279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

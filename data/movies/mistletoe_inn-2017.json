@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mistletoe_inn_2017",
+  "title": "The Mistletoe Inn",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48799323",
+    "imdb": "tt7647010",
+    "tmdb": 475829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mogadishu_soldier_2017",
+  "title": "Mogadishu Soldier",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33551429",
+    "imdb": "tt6273226",
+    "tmdb": 428569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 84
+}

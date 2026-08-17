@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maria_sharapova_the_point_2017",
+  "title": "Maria Sharapova: The Point",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51325345",
+    "imdb": "tt7065674",
+    "tmdb": 470726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 55
+}

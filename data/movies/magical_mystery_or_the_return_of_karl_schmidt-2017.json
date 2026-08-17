@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magical_mystery_or_the_return_of_karl_schmidt_2017",
+  "title": "Magical Mystery or: The Return of Karl Schmidt",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33451765",
+    "imdb": "tt5645006",
+    "tmdb": 426562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mubarakan_2017",
+  "title": "Mubarakan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959206",
+    "imdb": "tt6272828",
+    "tmdb": 463063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

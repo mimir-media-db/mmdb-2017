@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manolo_the_boy_who_made_shoes_for_lizards_2017",
+  "title": "Manolo: The Boy Who Made Shoes for Lizards",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47445237",
+    "imdb": "tt5821256",
+    "tmdb": 467237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 89
+}

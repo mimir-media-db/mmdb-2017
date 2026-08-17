@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_control_the_unsung_heroes_of_apollo_2017",
+  "title": "Mission Control: The Unsung Heroes of Apollo",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47525249",
+    "imdb": "tt5959952",
+    "tmdb": 440319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 101
+}

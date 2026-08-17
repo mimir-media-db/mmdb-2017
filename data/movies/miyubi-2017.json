@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miyubi_2017",
+  "title": "Miyubi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50819368",
+    "imdb": "tt7896046",
+    "tmdb": 981074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_king_of_taipei_town_2017",
+  "title": "The Mad King of Taipei Town",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22099958",
+    "imdb": "tt6557116",
+    "tmdb": 427938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

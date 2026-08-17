@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maragadha_naanayam_2017",
+  "title": "Maragadha Naanayam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958229",
+    "imdb": "tt7010156",
+    "tmdb": 412197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

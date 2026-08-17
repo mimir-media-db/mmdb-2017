@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maze_2017",
+  "title": "Maze",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30004939",
+    "imdb": "tt5752606",
+    "tmdb": 464566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manjha_2017",
+  "title": "Manjha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28841946",
+    "imdb": "tt6963912",
+    "tmdb": 1217705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

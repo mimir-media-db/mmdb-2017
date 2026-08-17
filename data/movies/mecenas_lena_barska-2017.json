@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mecenas_lena_barska_2017",
+  "title": "Mecenas Lena Barska",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48851868",
+    "imdb": "tt8117222"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 45
+}

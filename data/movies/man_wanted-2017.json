@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_wanted_2017",
+  "title": "A Man Wanted",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28923535",
+    "imdb": "tt6539420",
+    "tmdb": 445254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

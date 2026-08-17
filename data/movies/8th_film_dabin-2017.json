@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_8th_film_dabin_2017",
+  "title": "8th FILM DABIN 프로젝트 : 이채은 배우전",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85970905"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-30",
+  "runtime_minutes": 76
+}

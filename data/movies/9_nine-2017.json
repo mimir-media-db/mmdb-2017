@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_9_nine_2017",
+  "title": "9 -Nine-",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109361191",
+    "tmdb": 1103645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-01"
+}

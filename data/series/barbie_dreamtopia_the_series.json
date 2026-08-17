@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barbie_dreamtopia_the_series",
+  "title": "Barbie Dreamtopia: The Series",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q89432412",
+    "imdb": "tt7533146",
+    "tmdb": 78839
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

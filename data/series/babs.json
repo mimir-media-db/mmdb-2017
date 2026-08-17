@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_babs",
+  "title": "B.A.B.S.",
+  "start_year": 2016,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28659095",
+    "imdb": "tt6078850",
+    "tmdb": 69534
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

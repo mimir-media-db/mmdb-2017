@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brockmire",
+  "title": "Brockmire",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q29098246",
+    "imdb": "tt5722190",
+    "tmdb": 70964
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

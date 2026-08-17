@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_beerland",
+  "title": "Beerland",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q104842815",
+    "imdb": "tt6997450",
+    "tmdb": 71442
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bed_biscuit",
+  "title": "Bed & Biscuit",
+  "start_year": 2016,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q31197780",
+    "imdb": "tt10254202",
+    "tmdb": 72956
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 12
+}

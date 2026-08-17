@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_buzaglos",
+  "title": "The Buzaglos",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56418977",
+    "imdb": "tt38075075"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 120
+}

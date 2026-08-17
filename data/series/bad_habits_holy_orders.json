@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_habits_holy_orders",
+  "title": "Bad Habits, Holy Orders",
+  "start_year": 2017,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q115539227",
+    "imdb": "tt7494116",
+    "tmdb": 119067
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

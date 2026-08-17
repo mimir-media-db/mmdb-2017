@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_blood",
+  "title": "Bad Blood",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q39079040",
+    "imdb": "tt6423364",
+    "tmdb": 72742
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

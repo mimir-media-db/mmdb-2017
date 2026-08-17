@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_because_this_is_my_first_life",
+  "title": "Because This is My First Life",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q39058720",
+    "imdb": "tt7278588",
+    "tmdb": 74074
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

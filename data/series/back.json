@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_back",
+  "title": "Back",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28443716",
+    "imdb": "tt5676590",
+    "tmdb": 73781
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

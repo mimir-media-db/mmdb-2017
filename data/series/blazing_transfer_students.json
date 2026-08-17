@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_blazing_transfer_students",
+  "title": "Blazing Transfer Students",
+  "start_year": 2016,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q47356885",
+    "imdb": "tt7931520",
+    "tmdb": 75009
+  },
+  "last_updated": "2026-08-17"
+}

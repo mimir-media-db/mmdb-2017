@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_borderland",
+  "title": "Borderland",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q80697905",
+    "imdb": "tt6280900",
+    "tmdb": 75602
+  },
+  "last_updated": "2026-08-17"
+}

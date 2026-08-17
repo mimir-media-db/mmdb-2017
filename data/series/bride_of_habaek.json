@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bride_of_habaek",
+  "title": "The Bride of Habaek",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28950236",
+    "imdb": "tt6385752",
+    "tmdb": 70452
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

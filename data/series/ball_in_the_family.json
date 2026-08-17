@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ball_in_the_family",
+  "title": "Ball in the Family",
+  "start_year": 2017,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q48781008",
+    "imdb": "tt7441102",
+    "tmdb": 111917
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

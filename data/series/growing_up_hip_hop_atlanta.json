@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_growing_up_hip_hop_atlanta",
+  "title": "Growing Up Hip Hop: Atlanta",
+  "start_year": 2017,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q30643219",
+    "imdb": "tt6905508",
+    "tmdb": 71888
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 9
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_canadian_baking_show",
+  "title": "The Great Canadian Baking Show",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39049905",
+    "imdb": "tt7332358",
+    "tmdb": 75817
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_guyane",
+  "title": "Guyane",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28497081",
+    "imdb": "tt5904172",
+    "tmdb": 69121
+  },
+  "last_updated": "2026-08-17"
+}

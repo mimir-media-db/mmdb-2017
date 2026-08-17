@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_good_son",
+  "title": "The Good Son",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30595613",
+    "imdb": "tt7411912",
+    "tmdb": 105155
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

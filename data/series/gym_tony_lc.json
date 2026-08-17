@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gym_tony_lc",
+  "title": "Gym Tony LC",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q29451108",
+    "tmdb": 62865
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}

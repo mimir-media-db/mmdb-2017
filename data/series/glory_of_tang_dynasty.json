@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_glory_of_tang_dynasty",
+  "title": "The Glory of Tang Dynasty",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q28417322",
+    "imdb": "tt6492378",
+    "tmdb": 70030
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 92
+}

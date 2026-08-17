@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zombielars",
+  "title": "ZombieLars",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56407807",
+    "imdb": "tt6185118",
+    "tmdb": 72236
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

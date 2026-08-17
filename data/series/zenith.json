@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zenith",
+  "title": "Zenith",
+  "start_year": 2016,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107017766",
+    "imdb": "tt6506490",
+    "tmdb": 71153
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

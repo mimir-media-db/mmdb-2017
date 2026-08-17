@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tranquilo_papa",
+  "title": "Tranquilo papá",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28790964",
+    "imdb": "tt7122438",
+    "tmdb": 290465
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 187
+}

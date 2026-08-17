@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_transfers",
+  "title": "Transfers",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47800896",
+    "imdb": "tt6531888",
+    "tmdb": 75074
+  },
+  "last_updated": "2026-08-17"
+}

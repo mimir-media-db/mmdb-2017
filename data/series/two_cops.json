@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_two_cops",
+  "title": "Two Cops",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q41833878",
+    "imdb": "tt7525432",
+    "tmdb": 74785
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

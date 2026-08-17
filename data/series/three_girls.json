@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_three_girls",
+  "title": "Three Girls",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30608747",
+    "imdb": "tt6835252",
+    "tmdb": 71754
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_temperature_of_love",
+  "title": "Temperature of Love",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30947893",
+    "imdb": "tt7208182",
+    "tmdb": 73575
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

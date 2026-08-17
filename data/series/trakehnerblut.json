@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_trakehnerblut",
+  "title": "Trakehnerblut",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q42683361",
+    "imdb": "tt7645474",
+    "tmdb": 76525
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

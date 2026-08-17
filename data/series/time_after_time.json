@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_time_after_time",
+  "title": "Time After Time",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q22946178",
+    "imdb": "tt5031234",
+    "tmdb": 68002
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

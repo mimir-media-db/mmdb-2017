@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tarzan_and_jane",
+  "title": "Tarzan and Jane",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28433222",
+    "imdb": "tt6216718",
+    "tmdb": 69450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

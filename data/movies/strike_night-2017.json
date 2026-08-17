@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strike_night_2017",
+  "title": "Strike Night",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122790308",
+    "imdb": "tt4666926",
+    "tmdb": 496285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-20",
+  "runtime_minutes": 79
+}

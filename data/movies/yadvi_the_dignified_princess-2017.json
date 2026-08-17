@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yadvi_the_dignified_princess_2017",
+  "title": "Yadvi - The Dignified Princess",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34220575",
+    "imdb": "tt4910010",
+    "tmdb": 472469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youth_in_oregon_2017",
+  "title": "Youth in Oregon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21010887",
+    "imdb": "tt3687316",
+    "tmdb": 338387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-03",
+  "runtime_minutes": 105
+}

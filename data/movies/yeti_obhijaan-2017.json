@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeti_obhijaan_2017",
+  "title": "Yeti Obhijaan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30646073",
+    "imdb": "tt7166042",
+    "tmdb": 479052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22"
+}

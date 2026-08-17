@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_flesh_your_curse_2017",
+  "title": "Your Flesh, Your Curse",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47459296",
+    "imdb": "tt5125562",
+    "tmdb": 516028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-29",
+  "runtime_minutes": 100
+}

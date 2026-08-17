@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_year_i_lost_my_mind_2017",
+  "title": "The Year I Lost My Mind",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57234153",
+    "imdb": "tt6117492",
+    "tmdb": 512082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 85
+}

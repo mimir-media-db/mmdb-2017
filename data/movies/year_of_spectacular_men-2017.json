@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_year_of_spectacular_men_2017",
+  "title": "The Year Of Spectacular Men",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29906254",
+    "imdb": "tt5039578",
+    "tmdb": 433448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-16"
+}

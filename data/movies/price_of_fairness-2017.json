@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_price_of_fairness_2017",
+  "title": "The Price of Fairness",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30301513",
+    "imdb": "tt6896058",
+    "tmdb": 479353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-28"
+}

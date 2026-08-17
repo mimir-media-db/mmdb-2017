@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_firardayz_2017",
+  "title": "Firardayız",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39416313",
+    "imdb": "tt9668966",
+    "tmdb": 482601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29"
+}

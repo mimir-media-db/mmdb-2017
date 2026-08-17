@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clint_2017",
+  "title": "Clint",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41449931",
+    "imdb": "tt6697508",
+    "tmdb": 470319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11"
+}

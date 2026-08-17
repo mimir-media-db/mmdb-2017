@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuadros_en_la_oscuridad_2017",
+  "title": "Cuadros en la oscuridad",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64806707",
+    "imdb": "tt8077116",
+    "tmdb": 423597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buena_vista_social_club_adios_2017",
+  "title": "Buena Vista Social Club: Adios",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22074954",
+    "imdb": "tt4653272",
+    "tmdb": 432605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-26",
+  "runtime_minutes": 110
+}

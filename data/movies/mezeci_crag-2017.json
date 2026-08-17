@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mezeci_crag_2017",
+  "title": "Mezeci Çırağı",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29353182",
+    "imdb": "tt6789172",
+    "tmdb": 474606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-14"
+}

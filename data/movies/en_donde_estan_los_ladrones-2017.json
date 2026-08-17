@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_donde_estan_los_ladrones_2017",
+  "title": "¿En dónde están los ladrones?",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64349013",
+    "imdb": "tt6849826",
+    "tmdb": 630459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 93
+}

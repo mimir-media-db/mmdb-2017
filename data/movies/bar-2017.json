@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bar_2017",
+  "title": "The Bar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28775783",
+    "imdb": "tt5121816",
+    "tmdb": 420648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-15",
+  "runtime_minutes": 102
+}

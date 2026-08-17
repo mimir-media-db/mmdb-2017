@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_house_2017",
+  "title": "Dark House",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65241424",
+    "imdb": "tt6902510",
+    "tmdb": 548533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goddess_eowoodong_2017",
+  "title": "Goddess Eowoodong",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840704",
+    "imdb": "tt7441634",
+    "tmdb": 475639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-21"
+}

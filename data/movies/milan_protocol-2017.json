@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_milan_protocol_2017",
+  "title": "The Milan Protocol",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47458918",
+    "imdb": "tt5749698",
+    "tmdb": 435450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-11",
+  "runtime_minutes": 106
+}

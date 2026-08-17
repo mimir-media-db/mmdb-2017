@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plan_b_2017",
+  "title": "Plan B",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29964244",
+    "imdb": "tt6333284",
+    "tmdb": 441542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08",
+  "runtime_minutes": 103
+}

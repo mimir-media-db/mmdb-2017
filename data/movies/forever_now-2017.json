@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forever_now_2017",
+  "title": "Forever Now",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73481486",
+    "imdb": "tt6315086",
+    "tmdb": 446353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 19
+}

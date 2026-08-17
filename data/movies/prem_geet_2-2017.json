@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prem_geet_2_2017",
+  "title": "Prem Geet 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671280",
+    "imdb": "tt7085078",
+    "tmdb": 486502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_augsburger_puppenkiste_als_der_weihnachtsmann_vom_himmel_fiel_2017",
+  "title": "Augsburger Puppenkiste: Als der Weihnachtsmann vom Himmel fiel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60091131",
+    "imdb": "tt7708734",
+    "tmdb": 487142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 64
+}

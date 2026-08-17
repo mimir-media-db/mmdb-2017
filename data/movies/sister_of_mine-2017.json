@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sister_of_mine_2017",
+  "title": "Sister of Mine",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57260911",
+    "imdb": "tt4948838",
+    "tmdb": 432991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-29"
+}

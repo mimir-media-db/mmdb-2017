@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_words_that_built_america_2017",
+  "title": "The Words That Built America",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48967337",
+    "imdb": "tt7370322",
+    "tmdb": 464655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-17"
+}

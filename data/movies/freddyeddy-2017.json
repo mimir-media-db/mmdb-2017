@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freddyeddy_2017",
+  "title": "Freddy/Eddy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47498733",
+    "imdb": "tt5778938",
+    "tmdb": 432688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-28",
+  "runtime_minutes": 94
+}

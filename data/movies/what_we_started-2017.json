@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_we_started_2017",
+  "title": "What We Started",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30501942",
+    "imdb": "tt6191876",
+    "tmdb": 461118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-15"
+}

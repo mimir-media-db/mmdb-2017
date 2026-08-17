@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stopping_traffic_2017",
+  "title": "Stopping Traffic",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30321618",
+    "imdb": "tt6017364",
+    "tmdb": 471939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29"
+}

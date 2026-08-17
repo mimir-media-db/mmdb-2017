@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pretty_cure_dream_stars_2017",
+  "title": "Pretty Cure Dream Stars!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28253313",
+    "imdb": "tt6857304",
+    "tmdb": 432128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-18",
+  "runtime_minutes": 71
+}

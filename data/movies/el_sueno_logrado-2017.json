@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_sueno_logrado_2017",
+  "title": "El sueño logrado",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110304330",
+    "imdb": "tt7578914",
+    "tmdb": 533523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_steam_iron_2017",
+  "title": "Snow Steam Iron",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56316525",
+    "imdb": "tt7365860",
+    "tmdb": 476673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 4
+}

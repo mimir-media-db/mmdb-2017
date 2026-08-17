@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_within_2017",
+  "title": "The Evil Within",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28970814",
+    "imdb": "tt0339736",
+    "tmdb": 444193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-26",
+  "runtime_minutes": 98
+}

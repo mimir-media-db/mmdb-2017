@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_present_2017",
+  "title": "The Present",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755359",
+    "imdb": "tt7762454",
+    "tmdb": 556293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-11",
+  "runtime_minutes": 93
+}

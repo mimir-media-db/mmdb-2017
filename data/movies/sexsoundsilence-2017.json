@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sexsoundsilence_2017",
+  "title": "Sex.Sound.Silence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66771598",
+    "imdb": "tt5651840",
+    "tmdb": 545190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-26"
+}

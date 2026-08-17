@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_club_dei_centenari_2017",
+  "title": "Il club dei centenari",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38101091",
+    "imdb": "tt7394694",
+    "tmdb": 1056181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-13",
+  "runtime_minutes": 32
+}

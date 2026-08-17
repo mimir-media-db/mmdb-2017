@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eighth_day_of_a_week_2017",
+  "title": "The Eighth day of a Week",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116462898",
+    "imdb": "tt10505054",
+    "tmdb": 677261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-28"
+}

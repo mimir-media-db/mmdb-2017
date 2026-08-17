@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ramante_eden_thottam_2017",
+  "title": "Ramante Eden Thottam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344609",
+    "imdb": "tt6517874",
+    "tmdb": 457268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-12"
+}

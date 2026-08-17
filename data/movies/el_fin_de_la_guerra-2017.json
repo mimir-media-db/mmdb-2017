@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_el_fin_de_la_guerra_2017",
+  "title": "El fin de la guerra",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60829400"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 102
+}

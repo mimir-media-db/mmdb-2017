@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mang_kepweng_returns_2017",
+  "title": "Mang Kepweng Returns",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28312021",
+    "imdb": "tt6073558",
+    "tmdb": 433094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-04"
+}

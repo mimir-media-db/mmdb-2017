@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_village_rockstars_2017",
+  "title": "Village Rockstars",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47040481",
+    "imdb": "tt7297966",
+    "tmdb": 473320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-09",
+  "runtime_minutes": 87
+}

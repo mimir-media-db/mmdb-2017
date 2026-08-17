@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thought_of_ecstasy_2017",
+  "title": "A Thought of Ecstasy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47458938",
+    "imdb": "tt6098794",
+    "tmdb": 464842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-25",
+  "runtime_minutes": 90
+}

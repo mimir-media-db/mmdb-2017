@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faces_places_2017",
+  "title": "Faces Places",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29406094",
+    "imdb": "tt5598102",
+    "tmdb": 451995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01",
+  "runtime_minutes": 89
+}

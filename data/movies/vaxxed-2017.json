@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vaxxed_2017",
+  "title": "Vaxxed",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23636033",
+    "imdb": "tt5562652",
+    "tmdb": 390641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-06",
+  "runtime_minutes": 91
+}

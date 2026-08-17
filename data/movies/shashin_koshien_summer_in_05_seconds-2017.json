@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shashin_koshien_summer_in_05_seconds_2017",
+  "title": "Shashin Koshien Summer in 0.5 Seconds",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28683174",
+    "imdb": "tt6929278",
+    "tmdb": 601154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-11",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fruitless_tree_2017",
+  "title": "The Fruitless Tree",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72086428",
+    "imdb": "tt6725248",
+    "tmdb": 457029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

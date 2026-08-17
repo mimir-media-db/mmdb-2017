@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_with_all_the_gifts_2017",
+  "title": "The Girl with All the Gifts",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649318",
+    "imdb": "tt4547056",
+    "tmdb": 375366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-09",
+  "runtime_minutes": 111
+}

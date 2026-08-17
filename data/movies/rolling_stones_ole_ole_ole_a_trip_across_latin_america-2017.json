@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rolling_stones_ole_ole_ole_a_trip_across_latin_america_2017",
+  "title": "The Rolling Stones Olé, Olé, Olé!: A Trip Across Latin America",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26829050",
+    "imdb": "tt5914350",
+    "tmdb": 408623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 105
+}

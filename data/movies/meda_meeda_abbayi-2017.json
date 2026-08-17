@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meda_meeda_abbayi_2017",
+  "title": "Meda Meeda Abbayi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43969243",
+    "imdb": "tt7411396",
+    "tmdb": 474958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08"
+}

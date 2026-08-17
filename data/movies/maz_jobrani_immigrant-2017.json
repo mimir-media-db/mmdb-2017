@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maz_jobrani_immigrant_2017",
+  "title": "Maz Jobrani: Immigrant",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100431",
+    "imdb": "tt7164714",
+    "tmdb": 468366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-01"
+}

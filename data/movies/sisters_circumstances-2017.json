@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_circumstances_2017",
+  "title": "Sister's Circumstances",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840708",
+    "tmdb": 704028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_galih_dan_ratna_2017",
+  "title": "Galih dan Ratna",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28770318",
+    "imdb": "tt6467500",
+    "tmdb": 446156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-09",
+  "runtime_minutes": 112
+}

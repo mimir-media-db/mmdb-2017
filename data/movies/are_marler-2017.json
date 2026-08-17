@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_are_marler_2017",
+  "title": "Are Marler",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30594202",
+    "imdb": "tt7411266"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-01"
+}

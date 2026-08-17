@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaya_janaki_nayaka_2017",
+  "title": "Jaya Janaki Nayaka",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30645676",
+    "imdb": "tt7286562",
+    "tmdb": 466147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11"
+}

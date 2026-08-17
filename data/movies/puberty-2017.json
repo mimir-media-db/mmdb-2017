@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_puberty_2017",
+  "title": "The puberty",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29891465",
+    "imdb": "tt6071084",
+    "tmdb": 422779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-06",
+  "runtime_minutes": 94
+}

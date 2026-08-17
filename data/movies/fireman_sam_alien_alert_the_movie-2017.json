@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fireman_sam_alien_alert_the_movie_2017",
+  "title": "Fireman Sam: Alien Alert! The Movie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28841788",
+    "imdb": "tt6562798",
+    "tmdb": 433129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-05",
+  "runtime_minutes": 60
+}

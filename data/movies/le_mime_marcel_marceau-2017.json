@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_mime_marcel_marceau_2017",
+  "title": "Le Mime Marcel Marceau",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63977557",
+    "imdb": "tt10358858"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

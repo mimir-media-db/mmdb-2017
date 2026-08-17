@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_casa_roshell_2017",
+  "title": "Casa Roshell",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140030881",
+    "imdb": "tt6611238",
+    "tmdb": 440100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

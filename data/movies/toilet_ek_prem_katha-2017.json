@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toilet_ek_prem_katha_2017",
+  "title": "Toilet - Ek Prem Katha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28180128",
+    "imdb": "tt5785170",
+    "tmdb": 441875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11",
+  "runtime_minutes": 155
+}

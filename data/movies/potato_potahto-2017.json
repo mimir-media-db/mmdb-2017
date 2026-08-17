@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_potato_potahto_2017",
+  "title": "Potato Potahto",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725793",
+    "imdb": "tt6950250",
+    "tmdb": 490760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

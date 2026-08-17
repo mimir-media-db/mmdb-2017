@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vunnadhi_okate_zindagi_2017",
+  "title": "Vunnadhi Okate Zindagi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39057414",
+    "imdb": "tt7322816",
+    "tmdb": 483839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-27"
+}

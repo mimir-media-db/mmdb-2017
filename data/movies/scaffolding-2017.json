@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scaffolding_2017",
+  "title": "Scaffolding",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073994",
+    "imdb": "tt6253214",
+    "tmdb": 456301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-20",
+  "runtime_minutes": 94
+}

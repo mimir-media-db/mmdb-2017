@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanni_nanni_mehr_als_beste_freunde_2017",
+  "title": "Hanni & Nanni: Mehr als beste Freunde",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29891497",
+    "imdb": "tt6031104",
+    "tmdb": 429971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-25",
+  "runtime_minutes": 98
+}

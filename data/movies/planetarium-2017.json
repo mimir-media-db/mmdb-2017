@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_planetarium_2017",
+  "title": "Planetarium",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21055210",
+    "imdb": "tt4680196",
+    "tmdb": 374464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-14",
+  "runtime_minutes": 106
+}

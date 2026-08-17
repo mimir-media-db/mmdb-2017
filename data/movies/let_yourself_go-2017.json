@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_yourself_go_2017",
+  "title": "Let Yourself Go",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30889904",
+    "imdb": "tt4932388",
+    "tmdb": 447335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 99
+}

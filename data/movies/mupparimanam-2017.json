@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mupparimanam_2017",
+  "title": "Mupparimanam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807336",
+    "imdb": "tt6594820",
+    "tmdb": 410592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-03"
+}

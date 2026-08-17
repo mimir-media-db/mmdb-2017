@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panta_2017",
+  "title": "Panta",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30612717",
+    "imdb": "tt6402728",
+    "tmdb": 1659361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-23"
+}

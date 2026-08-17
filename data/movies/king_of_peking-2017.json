@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_peking_2017",
+  "title": "King of Peking",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55453666",
+    "imdb": "tt6148782",
+    "tmdb": 453404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_communication_lies_2017",
+  "title": "Communication & Lies",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105684",
+    "imdb": "tt5494586",
+    "tmdb": 381189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-09"
+}

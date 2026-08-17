@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pavlensky_man_and_might_2017",
+  "title": "Pavlensky - Man and Might",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28865064",
+    "imdb": "tt6659822",
+    "tmdb": 669497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-16"
+}

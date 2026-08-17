@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_behead_the_king_2017",
+  "title": "Behead the King",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31179393",
+    "imdb": "tt10500382",
+    "tmdb": 448653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-16"
+}

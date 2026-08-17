@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_little_drops_of_happy_2017",
+  "title": "Little Drops of Happy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113285535",
+    "imdb": "tt6839370"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

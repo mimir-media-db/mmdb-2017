@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vezir_parmagi_2017",
+  "title": "Vezir Parmagi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31207687",
+    "imdb": "tt6042446",
+    "tmdb": 443041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-25",
+  "runtime_minutes": 111
+}

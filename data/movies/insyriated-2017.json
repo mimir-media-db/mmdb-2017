@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_insyriated_2017",
+  "title": "Insyriated",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28753456",
+    "imdb": "tt6497898",
+    "tmdb": 441646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-11",
+  "runtime_minutes": 85
+}

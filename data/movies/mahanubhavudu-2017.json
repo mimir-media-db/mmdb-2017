@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahanubhavudu_2017",
+  "title": "Mahanubhavudu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39056070",
+    "imdb": "tt7268732",
+    "tmdb": 478747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29"
+}

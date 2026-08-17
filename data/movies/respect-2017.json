@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_respect_2017",
+  "title": "Respect",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672474",
+    "imdb": "tt7149134",
+    "tmdb": 469455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 80
+}

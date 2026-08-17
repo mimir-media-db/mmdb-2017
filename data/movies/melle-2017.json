@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_melle_2017",
+  "title": "Melle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41449774",
+    "imdb": "tt7244092",
+    "tmdb": 495533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chennaiyil_oru_naal_2_2017",
+  "title": "Chennaiyil oru naal 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30675961",
+    "imdb": "tt7047522",
+    "tmdb": 476450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-18"
+}

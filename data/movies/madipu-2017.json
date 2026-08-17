@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_madipu_2017",
+  "title": "Madipu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29831733",
+    "imdb": "tt38732461"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-10"
+}

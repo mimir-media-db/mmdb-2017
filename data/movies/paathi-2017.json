@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paathi_2017",
+  "title": "Paathi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56452462",
+    "imdb": "tt6399878",
+    "tmdb": 495570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

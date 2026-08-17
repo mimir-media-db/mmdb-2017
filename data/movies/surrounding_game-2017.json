@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_surrounding_game_2017",
+  "title": "The Surrounding Game",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63509895",
+    "imdb": "tt3973724",
+    "tmdb": 375860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

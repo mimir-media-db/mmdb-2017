@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fu_friendship_unlimited_2017",
+  "title": "FU: Friendship Unlimited",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30674702",
+    "imdb": "tt6912558"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-02"
+}

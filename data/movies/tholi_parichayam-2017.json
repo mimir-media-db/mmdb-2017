@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_tholi_parichayam_2017",
+  "title": "Tholi Parichayam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138895380"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

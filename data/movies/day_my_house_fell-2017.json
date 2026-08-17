@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_my_house_fell_2017",
+  "title": "The Day My House Fell",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61960382",
+    "imdb": "tt7081274",
+    "tmdb": 476842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 47
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turn_around_2017",
+  "title": "Turn Around",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30941560",
+    "imdb": "tt6879340",
+    "tmdb": 479707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29"
+}

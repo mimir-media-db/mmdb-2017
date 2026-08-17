@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_charlotte_2017",
+  "title": "Charlotte",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600858",
+    "imdb": "tt6013186",
+    "tmdb": 458008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 70
+}

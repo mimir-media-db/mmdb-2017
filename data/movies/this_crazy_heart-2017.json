@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_crazy_heart_2017",
+  "title": "This Crazy Heart",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40220458",
+    "imdb": "tt6175820",
+    "tmdb": 427033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-21",
+  "runtime_minutes": 106
+}

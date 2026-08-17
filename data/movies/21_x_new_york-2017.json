@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_21_x_new_york_2017",
+  "title": "21 x New York",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85296314",
+    "imdb": "tt6222300",
+    "tmdb": 424094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-21",
+  "runtime_minutes": 70
+}

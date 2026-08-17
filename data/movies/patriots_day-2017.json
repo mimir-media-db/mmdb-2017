@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_patriots_day_2017",
+  "title": "Patriots Day",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23767799",
+    "imdb": "tt4572514",
+    "tmdb": 388399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-13",
+  "runtime_minutes": 133
+}

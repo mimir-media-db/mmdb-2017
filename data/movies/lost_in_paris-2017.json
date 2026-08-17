@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_paris_2017",
+  "title": "Lost in Paris",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21685110",
+    "imdb": "tt2936884",
+    "tmdb": 413778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30"
+}

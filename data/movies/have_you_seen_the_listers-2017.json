@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_have_you_seen_the_listers_2017",
+  "title": "Have You Seen the Listers?",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61466281",
+    "imdb": "tt7050140",
+    "tmdb": 466654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

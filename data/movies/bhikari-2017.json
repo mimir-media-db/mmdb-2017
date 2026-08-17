@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhikari_2017",
+  "title": "Bhikari",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39057842",
+    "imdb": "tt7151480",
+    "tmdb": 483282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 130
+}

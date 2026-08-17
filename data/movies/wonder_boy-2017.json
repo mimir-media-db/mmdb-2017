@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wonder_boy_2017",
+  "title": "Wonder Boy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33308113",
+    "imdb": "tt7080970",
+    "tmdb": 471940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-03"
+}

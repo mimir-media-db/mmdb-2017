@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_arthur_and_the_knights_of_the_round_table_2017",
+  "title": "King Arthur and the Knights of the Round Table",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65238628",
+    "imdb": "tt6735670",
+    "tmdb": 455252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-24",
+  "runtime_minutes": 88
+}

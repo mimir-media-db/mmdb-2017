@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_geo_sar_utha_kay_2017",
+  "title": "Geo Sar Utha Kay",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034645",
+    "imdb": "tt5491752",
+    "tmdb": 563368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11"
+}

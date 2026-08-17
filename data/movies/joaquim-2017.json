@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joaquim_2017",
+  "title": "Joaquim",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28226119",
+    "imdb": "tt4895628",
+    "tmdb": 436349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-16",
+  "runtime_minutes": 101
+}

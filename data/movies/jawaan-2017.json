@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jawaan_2017",
+  "title": "Jawaan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30612076",
+    "imdb": "tt7208648",
+    "tmdb": 460735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-01"
+}

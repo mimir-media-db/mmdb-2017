@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_judwaa_2_2017",
+  "title": "Judwaa 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27962910",
+    "imdb": "tt5456546",
+    "tmdb": 456565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29",
+  "runtime_minutes": 145
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reis_2017",
+  "title": "Reis",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24262179",
+    "imdb": "tt5988370",
+    "tmdb": 421682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-02",
+  "runtime_minutes": 107
+}

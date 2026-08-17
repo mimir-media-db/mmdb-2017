@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manje_bistre_2017",
+  "title": "Manje Bistre",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29227029",
+    "imdb": "tt6705612",
+    "tmdb": 452394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-14"
+}

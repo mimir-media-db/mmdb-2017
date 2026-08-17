@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invited_man_2017",
+  "title": "The Invited Man",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840744",
+    "imdb": "tt12814006",
+    "tmdb": 482592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-23"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_river_2017",
+  "title": "The Hidden River",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055315",
+    "imdb": "tt8466896"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 75
+}

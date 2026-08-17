@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_from_the_lakeside_2017",
+  "title": "Tales from the Lakeside",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51152367",
+    "imdb": "tt6669548",
+    "tmdb": 455892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27"
+}

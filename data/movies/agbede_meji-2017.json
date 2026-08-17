@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_agbede_meji_2017",
+  "title": "Agbede Meji",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113458032",
+    "imdb": "tt20256580"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

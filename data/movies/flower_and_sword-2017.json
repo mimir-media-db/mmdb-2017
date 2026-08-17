@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flower_and_sword_2017",
+  "title": "Flower and Sword",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30928537",
+    "imdb": "tt5493172",
+    "tmdb": 448513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-03",
+  "runtime_minutes": 127
+}

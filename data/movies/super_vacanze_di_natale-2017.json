@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_vacanze_di_natale_2017",
+  "title": "Super vacanze di Natale",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303293",
+    "imdb": "tt7666582",
+    "tmdb": 468221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-14",
+  "runtime_minutes": 86
+}

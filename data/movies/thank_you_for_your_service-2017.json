@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thank_you_for_your_service_2017",
+  "title": "Thank You for Your Service",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755714",
+    "imdb": "tt2776878",
+    "tmdb": 347629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-27",
+  "runtime_minutes": 108
+}

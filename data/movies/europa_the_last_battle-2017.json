@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_europa_the_last_battle_2017",
+  "title": "Europa: The Last Battle",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117530501",
+    "imdb": "tt7528992",
+    "tmdb": 1522272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 746
+}

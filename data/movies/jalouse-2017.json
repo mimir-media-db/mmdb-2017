@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jalouse_2017",
+  "title": "Jalouse",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42859626",
+    "imdb": "tt7156144",
+    "tmdb": 463861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-08",
+  "runtime_minutes": 102
+}

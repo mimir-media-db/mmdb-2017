@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vigo_1972_2017",
+  "title": "Vigo 1972",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109331505",
+    "imdb": "tt7317880",
+    "tmdb": 639804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 62
+}

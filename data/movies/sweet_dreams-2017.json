@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_dreams_2017",
+  "title": "Sweet Dreams",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925032",
+    "imdb": "tt4746506",
+    "tmdb": 394260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-23",
+  "runtime_minutes": 134
+}

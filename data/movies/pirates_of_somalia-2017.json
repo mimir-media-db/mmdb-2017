@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pirates_of_somalia_2017",
+  "title": "The Pirates of Somalia",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28970967",
+    "imdb": "tt5126922",
+    "tmdb": 394537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 117
+}

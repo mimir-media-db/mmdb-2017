@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_i_think_ill_teach_you_2017",
+  "title": "I Think I'll Teach You",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840791",
+    "tmdb": 482215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

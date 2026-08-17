@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witchcraft_xv_blood_rose_2017",
+  "title": "Witchcraft XV: Blood Rose",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105103618",
+    "imdb": "tt4790076",
+    "tmdb": 469262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 81
+}

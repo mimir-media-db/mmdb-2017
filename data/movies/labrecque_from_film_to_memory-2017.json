@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_labrecque_from_film_to_memory_2017",
+  "title": "Labrecque from Film to Memory",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60962867",
+    "imdb": "tt7805920",
+    "tmdb": 484265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 103
+}

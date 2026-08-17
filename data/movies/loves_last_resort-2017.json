@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loves_last_resort_2017",
+  "title": "Love's Last Resort",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117447698",
+    "imdb": "tt6398360",
+    "tmdb": 463314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

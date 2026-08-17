@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shrouding_the_clouds_2017",
+  "title": "Shrouding The Clouds",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97347663",
+    "imdb": "tt8501666",
+    "tmdb": 687027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-12"
+}

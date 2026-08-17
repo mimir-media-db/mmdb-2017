@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_case_for_christ_2017",
+  "title": "The Case for Christ",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28324965",
+    "imdb": "tt6113488",
+    "tmdb": 424998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-07",
+  "runtime_minutes": 113
+}

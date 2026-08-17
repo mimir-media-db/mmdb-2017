@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matadero_2017",
+  "title": "Matadero",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60828062",
+    "imdb": "tt7676562",
+    "tmdb": 957750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-21",
+  "runtime_minutes": 40
+}

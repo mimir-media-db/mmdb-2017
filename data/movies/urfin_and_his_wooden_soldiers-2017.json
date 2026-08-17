@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_urfin_and_his_wooden_soldiers_2017",
+  "title": "Urfin and His Wooden Soldiers",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28667834",
+    "imdb": "tt4685636",
+    "tmdb": 441957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 75
+}

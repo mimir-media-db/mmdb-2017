@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_starting_5_2017",
+  "title": "Starting 5",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29039423",
+    "imdb": "tt5801486",
+    "tmdb": 450851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-06"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sambalpuri_weavers_2017",
+  "title": "Sambalpuri Weavers",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135615316",
+    "imdb": "tt8035806",
+    "tmdb": 1048719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-17",
+  "runtime_minutes": 20
+}

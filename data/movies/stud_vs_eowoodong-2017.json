@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stud_vs_eowoodong_2017",
+  "title": "The Stud VS Eowoodong",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840686",
+    "imdb": "tt12625444",
+    "tmdb": 494911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-31"
+}

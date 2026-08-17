@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marriage_2017",
+  "title": "The Marriage",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56459307",
+    "imdb": "tt6665464",
+    "tmdb": 484815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 97
+}

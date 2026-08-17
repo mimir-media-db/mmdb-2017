@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_safari_2017",
+  "title": "Safari",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26864387",
+    "imdb": "tt5901212",
+    "tmdb": 413043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 91
+}

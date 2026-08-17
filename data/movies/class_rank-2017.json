@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_class_rank_2017",
+  "title": "Class Rank",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646247",
+    "imdb": "tt5219972",
+    "tmdb": 399896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-21",
+  "runtime_minutes": 108
+}

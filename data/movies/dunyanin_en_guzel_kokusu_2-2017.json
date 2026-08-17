@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dunyanin_en_guzel_kokusu_2_2017",
+  "title": "Dünyanin En Güzel Kokusu 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42227222",
+    "imdb": "tt7535900",
+    "tmdb": 477277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-03",
+  "runtime_minutes": 93
+}

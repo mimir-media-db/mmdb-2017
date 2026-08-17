@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paddington_2_2017",
+  "title": "Paddington 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590871",
+    "imdb": "tt4468740",
+    "tmdb": 346648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-05",
+  "runtime_minutes": 103
+}

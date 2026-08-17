@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_there_was_brasilia_2017",
+  "title": "Once There Was Brasília",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107363544",
+    "imdb": "tt7173890",
+    "tmdb": 426420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

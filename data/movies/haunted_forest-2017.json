@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_forest_2017",
+  "title": "Haunted Forest",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674040",
+    "imdb": "tt7248324",
+    "tmdb": 495094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-25"
+}

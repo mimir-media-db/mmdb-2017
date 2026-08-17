@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_stuck_in_the_80s_2017",
+  "title": "Stuck in the 80's",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60325239",
+    "imdb": "tt7600602"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-30"
+}

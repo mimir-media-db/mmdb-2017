@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agente_nero_nero_7_2017",
+  "title": "Agente Ñero Ñero 7",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80629080",
+    "imdb": "tt7940914",
+    "tmdb": 483442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

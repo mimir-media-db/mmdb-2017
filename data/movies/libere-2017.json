@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_libere_2017",
+  "title": "Libere",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55830868",
+    "imdb": "tt6837882",
+    "tmdb": 454014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 76
+}

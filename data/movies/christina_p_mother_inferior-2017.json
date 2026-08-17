@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christina_p_mother_inferior_2017",
+  "title": "Christina P: Mother Inferior",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100373",
+    "imdb": "tt7057376",
+    "tmdb": 480409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-10",
+  "runtime_minutes": 59
+}

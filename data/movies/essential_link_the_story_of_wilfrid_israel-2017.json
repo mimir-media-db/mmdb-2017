@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_essential_link_the_story_of_wilfrid_israel_2017",
+  "title": "The Essential Link: The Story of Wilfrid Israel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95457758",
+    "imdb": "tt5921554",
+    "tmdb": 511052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 71
+}

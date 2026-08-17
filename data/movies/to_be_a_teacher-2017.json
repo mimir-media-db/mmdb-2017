@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_be_a_teacher_2017",
+  "title": "To be a Teacher",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29264797",
+    "imdb": "tt6907466",
+    "tmdb": 424772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-18",
+  "runtime_minutes": 106
+}

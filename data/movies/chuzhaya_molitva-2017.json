@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chuzhaya_molitva_2017",
+  "title": "Chuzhaya molitva",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25439114",
+    "imdb": "tt8134670",
+    "tmdb": 452737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-18",
+  "runtime_minutes": 100
+}

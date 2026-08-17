@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_na_maloom_afraad_2_2017",
+  "title": "Na Maloom Afraad 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33101484",
+    "imdb": "tt7301070",
+    "tmdb": 463236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-31"
+}

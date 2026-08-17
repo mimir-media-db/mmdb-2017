@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tempting_fate_2017",
+  "title": "Tempting Fate",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20684082",
+    "imdb": "tt3428882",
+    "tmdb": 323634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-05",
+  "runtime_minutes": 115
+}

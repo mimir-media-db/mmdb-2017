@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unter_deutschen_betten_2017",
+  "title": "Unter deutschen Betten",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41364302",
+    "imdb": "tt5868162",
+    "tmdb": 434175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-05",
+  "runtime_minutes": 96
+}

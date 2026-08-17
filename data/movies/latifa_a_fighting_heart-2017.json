@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_latifa_a_fighting_heart_2017",
+  "title": "Latifa: A Fighting Heart",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56304418",
+    "imdb": "tt6647068",
+    "tmdb": 479896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-04",
+  "runtime_minutes": 97
+}

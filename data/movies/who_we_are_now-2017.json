@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_we_are_now_2017",
+  "title": "Who We Are Now",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29906263",
+    "imdb": "tt6680312",
+    "tmdb": 466410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-09",
+  "runtime_minutes": 95
+}

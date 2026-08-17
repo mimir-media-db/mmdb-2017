@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_price_of_success_2017",
+  "title": "The Price of Success",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39071681",
+    "imdb": "tt6194540",
+    "tmdb": 459965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-24"
+}

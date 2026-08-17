@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_of_a_family_2017",
+  "title": "Birth of a Family",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50819332",
+    "imdb": "tt7109066",
+    "tmdb": 454625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darkness_rising_2017",
+  "title": "Darkness Rising",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43301956",
+    "imdb": "tt4314716",
+    "tmdb": 459068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-29",
+  "runtime_minutes": 81
+}

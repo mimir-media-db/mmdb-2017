@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machines_2017",
+  "title": "Machines",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29052733",
+    "imdb": "tt5690244",
+    "tmdb": 433086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-09",
+  "runtime_minutes": 71
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_pity_and_loneliness_2017",
+  "title": "Sex, Pity and Loneliness",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29579061",
+    "imdb": "tt4217878",
+    "tmdb": 435850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-17",
+  "runtime_minutes": 119
+}

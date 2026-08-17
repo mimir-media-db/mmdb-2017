@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bekar_bekir_2017",
+  "title": "Bekar Bekir",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52401116",
+    "imdb": "tt9555284",
+    "tmdb": 474711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01",
+  "runtime_minutes": 94
+}

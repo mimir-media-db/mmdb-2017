@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_newness_2017",
+  "title": "Newness",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28212128",
+    "imdb": "tt6408226",
+    "tmdb": 434203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-25",
+  "runtime_minutes": 112
+}

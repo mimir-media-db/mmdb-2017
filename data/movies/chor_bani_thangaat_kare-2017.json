@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chor_bani_thangaat_kare_2017",
+  "title": "Chor Bani Thangaat Kare",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33101571",
+    "imdb": "tt7117376",
+    "tmdb": 601913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-21"
+}

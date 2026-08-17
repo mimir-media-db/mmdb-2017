@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_god_say_2017",
+  "title": "God Say",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28146526",
+    "imdb": "tt6395948",
+    "tmdb": 465143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-07"
+}

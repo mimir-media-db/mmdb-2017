@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_enemy_2017",
+  "title": "The Invisible Enemy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24661957",
+    "imdb": "tt4466384",
+    "tmdb": 394143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27",
+  "runtime_minutes": 133
+}

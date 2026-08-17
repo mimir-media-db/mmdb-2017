@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_valhalla_2017",
+  "title": "American Valhalla",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31937231",
+    "imdb": "tt6875564",
+    "tmdb": 460102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-26",
+  "runtime_minutes": 81
+}

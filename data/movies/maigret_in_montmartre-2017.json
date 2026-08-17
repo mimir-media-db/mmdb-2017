@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maigret_in_montmartre_2017",
+  "title": "Maigret in Montmartre",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110740058",
+    "imdb": "tt6429934",
+    "tmdb": 1500603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

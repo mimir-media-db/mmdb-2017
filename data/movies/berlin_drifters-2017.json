@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_drifters_2017",
+  "title": "Berlin Drifters",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118527770",
+    "imdb": "tt7392070",
+    "tmdb": 511617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 123
+}

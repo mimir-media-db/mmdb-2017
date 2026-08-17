@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_buscadores_2017",
+  "title": "Los Buscadores",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41025791",
+    "imdb": "tt4912622",
+    "tmdb": 430219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 102
+}

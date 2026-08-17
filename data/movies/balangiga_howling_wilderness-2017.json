@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_balangiga_howling_wilderness_2017",
+  "title": "Balangiga: Howling Wilderness",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65253062",
+    "imdb": "tt7670864",
+    "tmdb": 482061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

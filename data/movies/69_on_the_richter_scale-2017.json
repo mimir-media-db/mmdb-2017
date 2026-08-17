@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_69_on_the_richter_scale_2017",
+  "title": "6.9 on the Richter Scale",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29581051",
+    "imdb": "tt5289520",
+    "tmdb": 435009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-06",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_in_flight_2017",
+  "title": "Girl in Flight",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86996395",
+    "imdb": "tt3831032",
+    "tmdb": 507199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01",
+  "runtime_minutes": 78
+}

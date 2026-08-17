@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sewol_paused_in_time_2017",
+  "title": "Sewol - Paused in Time",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31212731",
+    "imdb": "tt7087876",
+    "tmdb": 577691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-07"
+}

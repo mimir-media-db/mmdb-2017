@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mountain_2017",
+  "title": "Mountain",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672740",
+    "imdb": "tt6203570",
+    "tmdb": 462145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-12",
+  "runtime_minutes": 74
+}

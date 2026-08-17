@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pure_charcoal_2017",
+  "title": "Pure Charcoal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55431023",
+    "imdb": "tt9701382",
+    "tmdb": 500133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-03",
+  "runtime_minutes": 93
+}

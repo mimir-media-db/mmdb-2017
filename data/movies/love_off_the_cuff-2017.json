@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_off_the_cuff_2017",
+  "title": "Love Off the Cuff",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28045442",
+    "imdb": "tt5956006",
+    "tmdb": 447954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-11",
+  "runtime_minutes": 121
+}

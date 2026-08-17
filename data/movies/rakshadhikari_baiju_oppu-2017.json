@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rakshadhikari_baiju_oppu_2017",
+  "title": "Rakshadhikari Baiju Oppu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29018076",
+    "imdb": "tt6576288",
+    "tmdb": 453979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-21"
+}

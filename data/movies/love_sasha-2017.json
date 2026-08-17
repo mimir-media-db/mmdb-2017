@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_sasha_2017",
+  "title": "Love Sasha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55097353",
+    "imdb": "tt6620138",
+    "tmdb": 495880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12"
+}

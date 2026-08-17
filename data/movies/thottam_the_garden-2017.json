@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thottam_the_garden_2017",
+  "title": "Thottam: The Garden",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125984455",
+    "imdb": "tt7671146",
+    "tmdb": 536451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-23"
+}

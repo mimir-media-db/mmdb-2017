@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalathur_gramam_2017",
+  "title": "Kalathur Gramam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30639944",
+    "imdb": "tt7059784",
+    "tmdb": 483701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01"
+}

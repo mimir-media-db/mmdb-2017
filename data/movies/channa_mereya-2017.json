@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_channa_mereya_2017",
+  "title": "Channa Mereya",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274185",
+    "imdb": "tt6750962",
+    "tmdb": 491708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-14"
+}

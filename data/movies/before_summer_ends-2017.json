@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_summer_ends_2017",
+  "title": "Before Summer Ends",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66364091",
+    "imdb": "tt7028250",
+    "tmdb": 455265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

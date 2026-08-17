@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_replace_2017",
+  "title": "Replace",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65247846",
+    "imdb": "tt5563862",
+    "tmdb": 434986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

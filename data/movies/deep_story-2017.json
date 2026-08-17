@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_story_2017",
+  "title": "Deep Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840715",
+    "imdb": "tt7389740",
+    "tmdb": 444148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-27"
+}

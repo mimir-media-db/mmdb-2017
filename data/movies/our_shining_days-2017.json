@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_shining_days_2017",
+  "title": "Our Shining Days",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47495133",
+    "imdb": "tt7013194",
+    "tmdb": 477306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-20"
+}

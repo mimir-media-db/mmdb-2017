@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_beyond_me_2017",
+  "title": "Life Beyond Me",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30249657",
+    "imdb": "tt5508576",
+    "tmdb": 430007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-22",
+  "runtime_minutes": 96
+}

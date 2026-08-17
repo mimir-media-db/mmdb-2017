@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strangeways_here_we_come_2017",
+  "title": "Strangeways Here We Come",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738106",
+    "imdb": "tt4299774",
+    "tmdb": 550216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

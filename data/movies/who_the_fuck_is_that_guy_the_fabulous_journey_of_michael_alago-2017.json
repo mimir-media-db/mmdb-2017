@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_the_fuck_is_that_guy_the_fabulous_journey_of_michael_alago_2017",
+  "title": "Who the Fuck is That Guy? The Fabulous Journey of Michael Alago",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47483224",
+    "imdb": "tt4958390",
+    "tmdb": 348529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-21",
+  "runtime_minutes": 85
+}

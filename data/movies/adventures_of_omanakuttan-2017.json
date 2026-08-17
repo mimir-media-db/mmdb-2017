@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_omanakuttan_2017",
+  "title": "Adventures of Omanakuttan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28974061",
+    "imdb": "tt5447136",
+    "tmdb": 339900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-01"
+}

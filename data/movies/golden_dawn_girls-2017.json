@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_dawn_girls_2017",
+  "title": "Golden Dawn Girls",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51529962",
+    "imdb": "tt7690522",
+    "tmdb": 489172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-19",
+  "runtime_minutes": 92
+}

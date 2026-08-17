@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nisabdham_2017",
+  "title": "Nisabdham",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344727",
+    "imdb": "tt6984716",
+    "tmdb": 448773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-10"
+}

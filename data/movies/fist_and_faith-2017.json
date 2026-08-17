@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fist_and_faith_2017",
+  "title": "Fist and Faith",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29831789",
+    "imdb": "tt7619402",
+    "tmdb": 464912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_loves_somebody_2017",
+  "title": "Everybody Loves Somebody",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859116",
+    "imdb": "tt5537228",
+    "tmdb": 431093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-07",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_far_the_story_of_a_journey_around_the_world_2017",
+  "title": "FAR. The Story of a Journey around the World",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29487550",
+    "imdb": "tt6802522",
+    "tmdb": 453386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08",
+  "runtime_minutes": 125
+}

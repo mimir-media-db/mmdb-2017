@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wandering_soap_opera_2017",
+  "title": "The Wandering Soap Opera",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56279436",
+    "imdb": "tt0100275",
+    "tmdb": 467254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

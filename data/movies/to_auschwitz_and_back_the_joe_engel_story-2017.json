@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_auschwitz_and_back_the_joe_engel_story_2017",
+  "title": "To Auschwitz and Back: The Joe Engel Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643474",
+    "imdb": "tt7583072",
+    "tmdb": 842376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 47
+}

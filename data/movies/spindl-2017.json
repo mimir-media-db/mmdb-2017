@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spindl_2017",
+  "title": "Spindl",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46078991",
+    "imdb": "tt7296234",
+    "tmdb": 493822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-21",
+  "runtime_minutes": 98
+}

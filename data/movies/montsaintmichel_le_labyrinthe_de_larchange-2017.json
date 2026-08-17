@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_montsaintmichel_le_labyrinthe_de_larchange_2017",
+  "title": "Mont-Saint-Michel - Le labyrinthe de l’archange",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128013978",
+    "imdb": "tt8019420",
+    "tmdb": 497309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 88
+}

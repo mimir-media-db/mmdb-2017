@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_clgn_kolej_2017",
+  "title": "Çılğın Kolej",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33110076",
+    "imdb": "tt10520878"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-28"
+}

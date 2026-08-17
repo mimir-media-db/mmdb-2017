@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prom_king_2010_2017",
+  "title": "Prom King, 2010",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30321625",
+    "imdb": "tt5241538",
+    "tmdb": 456642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-03"
+}

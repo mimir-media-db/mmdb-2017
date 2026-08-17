@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_te_esperare_2017",
+  "title": "Te esperaré",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111805184",
+    "imdb": "tt6182222",
+    "tmdb": 485057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-02",
+  "runtime_minutes": 92
+}

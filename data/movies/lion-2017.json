@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lion_2017",
+  "title": "Lion",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23013699",
+    "imdb": "tt3741834",
+    "tmdb": 334543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-19",
+  "runtime_minutes": 118
+}

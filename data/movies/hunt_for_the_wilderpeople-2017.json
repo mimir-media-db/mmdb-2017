@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunt_for_the_wilderpeople_2017",
+  "title": "Hunt for the Wilderpeople",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22236109",
+    "imdb": "tt4698684",
+    "tmdb": 371645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-11",
+  "runtime_minutes": 101
+}

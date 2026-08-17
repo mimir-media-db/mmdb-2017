@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mending_hugos_heart_2017",
+  "title": "Mending Hugo's Heart",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47008158",
+    "imdb": "tt7160394",
+    "tmdb": 479354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20",
+  "runtime_minutes": 119
+}

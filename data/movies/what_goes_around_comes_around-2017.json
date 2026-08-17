@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_goes_around_comes_around_2017",
+  "title": "What Goes Around Comes Around",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600859",
+    "imdb": "tt5536910",
+    "tmdb": 464428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_toutes_mes_forces_2017",
+  "title": "De toutes mes forces",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806985",
+    "imdb": "tt6253942",
+    "tmdb": 443119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-16",
+  "runtime_minutes": 98
+}

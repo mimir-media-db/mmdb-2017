@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scent_of_rain_and_lightning_2017",
+  "title": "The Scent of Rain and Lightning",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528140",
+    "imdb": "tt4746102",
+    "tmdb": 411141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-25"
+}

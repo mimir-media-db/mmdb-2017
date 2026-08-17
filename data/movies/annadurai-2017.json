@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_annadurai_2017",
+  "title": "Annadurai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43259923",
+    "imdb": "tt7512592",
+    "tmdb": 478200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-30"
+}

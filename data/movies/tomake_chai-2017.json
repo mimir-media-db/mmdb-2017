@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tomake_chai_2017",
+  "title": "Tomake Chai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28225579",
+    "imdb": "tt6975084",
+    "tmdb": 537838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-01"
+}

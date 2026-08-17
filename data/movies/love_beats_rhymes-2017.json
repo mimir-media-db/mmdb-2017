@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_beats_rhymes_2017",
+  "title": "Love Beats Rhymes",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22251923",
+    "imdb": "tt4686108",
+    "tmdb": 376658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-01",
+  "runtime_minutes": 106
+}

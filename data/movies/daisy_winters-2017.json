@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daisy_winters_2017",
+  "title": "Daisy Winters",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33032783",
+    "imdb": "tt3702088",
+    "tmdb": 476195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-01",
+  "runtime_minutes": 90
+}

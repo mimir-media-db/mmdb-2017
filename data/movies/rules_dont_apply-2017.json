@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rules_dont_apply_2017",
+  "title": "Rules Don't Apply",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17028317",
+    "imdb": "tt1974420",
+    "tmdb": 291328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-04",
+  "runtime_minutes": 127
+}

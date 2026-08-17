@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surrogates_deadly_nightmare_2017",
+  "title": "A Surrogate's Deadly Nightmare",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56306481",
+    "imdb": "tt6130742",
+    "tmdb": 449899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

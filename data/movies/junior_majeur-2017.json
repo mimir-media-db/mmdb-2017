@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_junior_majeur_2017",
+  "title": "Junior Majeur",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597489",
+    "imdb": "tt7610830",
+    "tmdb": 483407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 115
+}

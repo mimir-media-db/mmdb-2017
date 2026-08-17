@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_silence_2017",
+  "title": "The Power of Silence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55848868",
+    "imdb": "tt6189268",
+    "tmdb": 485745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-03",
+  "runtime_minutes": 97
+}

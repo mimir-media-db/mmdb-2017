@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_sick_2017",
+  "title": "The Big Sick",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24901880",
+    "imdb": "tt5462602",
+    "tmdb": 416477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-23",
+  "runtime_minutes": 119
+}

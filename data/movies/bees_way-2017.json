@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bees_way_2017",
+  "title": "The Bees' Way",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126373524",
+    "imdb": "tt8012126"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-26"
+}

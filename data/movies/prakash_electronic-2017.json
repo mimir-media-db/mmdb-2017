@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prakash_electronic_2017",
+  "title": "Prakash Electronic",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28753399",
+    "imdb": "tt6375532",
+    "tmdb": 843100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-06"
+}

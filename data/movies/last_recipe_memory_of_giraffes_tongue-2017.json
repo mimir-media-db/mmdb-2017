@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_recipe_memory_of_giraffes_tongue_2017",
+  "title": "The Last Recipe: Memory of Giraffe's Tongue",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135689096",
+    "imdb": "tt5894876",
+    "tmdb": 458909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_state_theatre_of_shadows_2017",
+  "title": "Haunted State: Theatre Of Shadows",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30049979",
+    "imdb": "tt6500934",
+    "tmdb": 578978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-25"
+}

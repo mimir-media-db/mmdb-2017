@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kodi_veeran_2017",
+  "title": "Kodi Veeran",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33101558",
+    "imdb": "tt7536636",
+    "tmdb": 458724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07"
+}

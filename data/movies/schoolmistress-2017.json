@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schoolmistress_2017",
+  "title": "Schoolmistress",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840675",
+    "imdb": "tt8619984",
+    "tmdb": 700211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-20"
+}

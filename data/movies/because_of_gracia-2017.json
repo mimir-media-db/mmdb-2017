@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_because_of_gracia_2017",
+  "title": "Because of Grácia",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107336163",
+    "imdb": "tt4372736",
+    "tmdb": 452709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 107
+}

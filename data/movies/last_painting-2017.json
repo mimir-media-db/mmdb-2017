@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_painting_2017",
+  "title": "The Last Painting",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48885283",
+    "imdb": "tt7010366",
+    "tmdb": 436088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22"
+}

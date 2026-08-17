@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slamma_jamma_2017",
+  "title": "Slamma Jamma",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28922267",
+    "imdb": "tt5319866",
+    "tmdb": 428323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23",
+  "runtime_minutes": 104
+}

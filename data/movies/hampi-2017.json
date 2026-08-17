@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hampi_2017",
+  "title": "Hampi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104843531",
+    "imdb": "tt7679852",
+    "tmdb": 615344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-17"
+}

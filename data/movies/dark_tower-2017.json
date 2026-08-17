@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_tower_2017",
+  "title": "The Dark Tower",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647114",
+    "imdb": "tt1648190",
+    "tmdb": 353491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-03",
+  "runtime_minutes": 95
+}

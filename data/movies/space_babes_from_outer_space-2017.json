@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_space_babes_from_outer_space_2017",
+  "title": "Space Babes From Outer Space",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133457646",
+    "imdb": "tt6644286",
+    "tmdb": 446680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mommy_i_didnt_do_it_2017",
+  "title": "Mommy, I Didn't Do It",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123765714",
+    "imdb": "tt6359600",
+    "tmdb": 430031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

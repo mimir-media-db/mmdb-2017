@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guardians_of_the_galaxy_vol_2_2017",
+  "title": "Guardians of the Galaxy Vol. 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001199",
+    "imdb": "tt3896198",
+    "tmdb": 283995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05",
+  "runtime_minutes": 136
+}

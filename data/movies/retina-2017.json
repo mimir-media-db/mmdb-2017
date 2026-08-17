@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_retina_2017",
+  "title": "Retina",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65247405",
+    "imdb": "tt1225856",
+    "tmdb": 523792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

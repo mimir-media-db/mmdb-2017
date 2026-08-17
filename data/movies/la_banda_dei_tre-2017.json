@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_banda_dei_tre_2017",
+  "title": "La banda dei tre",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56323301",
+    "imdb": "tt6855060",
+    "tmdb": 748658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

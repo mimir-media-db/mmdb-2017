@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_benzersiz_2017",
+  "title": "Benzersiz",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35579467",
+    "imdb": "tt7190418",
+    "tmdb": 474719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-15",
+  "runtime_minutes": 94
+}

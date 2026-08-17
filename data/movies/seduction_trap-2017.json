@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_seduction_trap_2017",
+  "title": "The Seduction Trap",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840742",
+    "tmdb": 698757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-19"
+}

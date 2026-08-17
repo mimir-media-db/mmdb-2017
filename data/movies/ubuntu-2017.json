@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ubuntu_2017",
+  "title": "Ubuntu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672566",
+    "imdb": "tt10034168",
+    "tmdb": 475331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-15"
+}

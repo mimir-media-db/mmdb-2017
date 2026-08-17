@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_again_2017",
+  "title": "Once Again",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48900535",
+    "imdb": "tt7505208",
+    "tmdb": 488932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-31"
+}

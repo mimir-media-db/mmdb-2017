@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kissaton_virne_2017",
+  "title": "Kissaton virne",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63498589",
+    "imdb": "tt7435360",
+    "tmdb": 925830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

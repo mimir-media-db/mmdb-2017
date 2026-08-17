@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_end_2017",
+  "title": "After The End",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543781",
+    "imdb": "tt6035396",
+    "tmdb": 731911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

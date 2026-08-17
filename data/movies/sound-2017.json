@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_2017",
+  "title": "The Sound",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20711555",
+    "imdb": "tt4669278",
+    "tmdb": 441647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29",
+  "runtime_minutes": 92
+}

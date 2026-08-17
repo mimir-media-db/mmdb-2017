@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karutha_joothan_2017",
+  "title": "Karutha Joothan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29018081",
+    "imdb": "tt7243720",
+    "tmdb": 471451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-18"
+}

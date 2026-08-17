@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_mothers_son_2017",
+  "title": "Another Mother's Son",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527464",
+    "imdb": "tt5193790",
+    "tmdb": 437848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-16",
+  "runtime_minutes": 98
+}

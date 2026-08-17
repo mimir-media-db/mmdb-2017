@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_porady_na_zdrady_2017",
+  "title": "Porady na zdrady",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30906065",
+    "imdb": "tt6575062",
+    "tmdb": 447767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-24",
+  "runtime_minutes": 96
+}

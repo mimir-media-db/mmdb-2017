@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_of_you_2017",
+  "title": "All of You",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672600",
+    "imdb": "tt7736536",
+    "tmdb": 494804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-25"
+}

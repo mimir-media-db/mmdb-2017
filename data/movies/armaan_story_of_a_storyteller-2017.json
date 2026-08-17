@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_armaan_story_of_a_storyteller_2017",
+  "title": "Armaan: Story of a Storyteller",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344604",
+    "imdb": "tt6399490",
+    "tmdb": 434126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-10"
+}

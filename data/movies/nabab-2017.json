@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nabab_2017",
+  "title": "Nabab",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28149791",
+    "imdb": "tt6660112",
+    "tmdb": 520211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-26"
+}

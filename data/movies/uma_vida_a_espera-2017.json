@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uma_vida_a_espera_2017",
+  "title": "Uma Vida À Espera",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60999980",
+    "imdb": "tt4381588",
+    "tmdb": 458038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

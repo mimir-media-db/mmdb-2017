@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_house_2017",
+  "title": "Our House",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56857546",
+    "imdb": "tt7797250",
+    "tmdb": 488789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

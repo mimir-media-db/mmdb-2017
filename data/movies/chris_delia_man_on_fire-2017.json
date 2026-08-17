@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chris_delia_man_on_fire_2017",
+  "title": "Chris D'Elia: Man on Fire",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100366",
+    "imdb": "tt7068896",
+    "tmdb": 462108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-27",
+  "runtime_minutes": 65
+}

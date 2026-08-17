@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snakes_ladder_2017",
+  "title": "Snakes & Ladder",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25471396",
+    "imdb": "tt5742836",
+    "tmdb": 405039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-09",
+  "runtime_minutes": 93
+}

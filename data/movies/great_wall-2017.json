@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_wall_2017",
+  "title": "The Great Wall",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19587336",
+    "imdb": "tt2034800",
+    "tmdb": 311324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-05",
+  "runtime_minutes": 103
+}

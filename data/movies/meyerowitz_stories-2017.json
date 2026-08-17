@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meyerowitz_stories_2017",
+  "title": "The Meyerowitz Stories",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755497",
+    "imdb": "tt5536736",
+    "tmdb": 396398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_medea_2017",
+  "title": "Medea",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56742670",
+    "imdb": "tt5656980",
+    "tmdb": 417436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 70
+}

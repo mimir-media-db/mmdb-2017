@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_loving_the_story_of_michalina_wislocka_2017",
+  "title": "The Art of Loving: The Story of Michalina Wislocka",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28675312",
+    "imdb": "tt5370828",
+    "tmdb": 432025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-27",
+  "runtime_minutes": 121
+}

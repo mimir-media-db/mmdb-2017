@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kashmir_daily_2017",
+  "title": "Kashmir Daily",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344760",
+    "imdb": "tt5436698",
+    "tmdb": 588147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-01"
+}

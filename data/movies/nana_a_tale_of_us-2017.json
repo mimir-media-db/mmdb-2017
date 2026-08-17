@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nana_a_tale_of_us_2017",
+  "title": "Nana - A Tale of Us",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33101619",
+    "imdb": "tt12611990",
+    "tmdb": 1052928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-18"
+}

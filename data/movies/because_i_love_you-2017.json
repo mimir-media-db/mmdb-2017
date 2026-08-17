@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_because_i_love_you_2017",
+  "title": "Because I Love You",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27953706",
+    "imdb": "tt5836246",
+    "tmdb": 422545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-04"
+}

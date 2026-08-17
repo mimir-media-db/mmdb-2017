@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_shadows_2017",
+  "title": "A Tale of Shadows",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031163",
+    "imdb": "tt6840928"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-17"
+}

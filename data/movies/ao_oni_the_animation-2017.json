@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ao_oni_the_animation_2017",
+  "title": "Ao Oni The Animation",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55731519",
+    "imdb": "tt6531060",
+    "tmdb": 432130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

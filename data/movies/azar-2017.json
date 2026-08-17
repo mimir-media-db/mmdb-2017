@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_azar_2017",
+  "title": "Azar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28100715",
+    "imdb": "tt6209534",
+    "tmdb": 503115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-29"
+}

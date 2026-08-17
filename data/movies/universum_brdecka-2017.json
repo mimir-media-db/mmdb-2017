@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_universum_brdecka_2017",
+  "title": "Universum Brdecka",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46078998",
+    "imdb": "tt8555602",
+    "tmdb": 533427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-21",
+  "runtime_minutes": 84
+}

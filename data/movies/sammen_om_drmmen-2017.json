@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sammen_om_drmmen_2017",
+  "title": "Sammen om drømmen",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28718094",
+    "imdb": "tt6088016",
+    "tmdb": 435827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 86
+}

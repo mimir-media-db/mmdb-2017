@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_own_country_2017",
+  "title": "God's Own Country",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28212152",
+    "imdb": "tt5635086",
+    "tmdb": 428493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-23",
+  "runtime_minutes": 104
+}

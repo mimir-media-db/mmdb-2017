@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_convergence_2017",
+  "title": "Alien Convergence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65272550",
+    "imdb": "tt6874406",
+    "tmdb": 460962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 87
+}

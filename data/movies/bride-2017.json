@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_2017",
+  "title": "The Bride",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27961934",
+    "imdb": "tt6095090",
+    "tmdb": 422715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-19",
+  "runtime_minutes": 90
+}

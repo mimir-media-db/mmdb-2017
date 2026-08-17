@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bir_nefes_yeter_2017",
+  "title": "Bir Nefes Yeter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39642949",
+    "imdb": "tt7526426",
+    "tmdb": 477269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-13",
+  "runtime_minutes": 114
+}

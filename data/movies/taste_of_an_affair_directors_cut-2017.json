@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_of_an_affair_directors_cut_2017",
+  "title": "The Taste of an Affair - Director's Cut",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840678",
+    "tmdb": 507326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-14"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thodi_thodi_si_manmaaniyan_2017",
+  "title": "Thodi Thodi Si Manmaaniyan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344813",
+    "imdb": "tt4695016",
+    "tmdb": 457260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-12"
+}

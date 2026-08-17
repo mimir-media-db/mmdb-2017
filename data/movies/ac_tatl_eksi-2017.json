@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ac_tatl_eksi_2017",
+  "title": "Acı Tatlı Ekşi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43235888",
+    "imdb": "tt7535964",
+    "tmdb": 474720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-22",
+  "runtime_minutes": 100
+}

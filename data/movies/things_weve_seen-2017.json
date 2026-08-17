@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_things_weve_seen_2017",
+  "title": "The Things We've Seen",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47500705",
+    "imdb": "tt4907976",
+    "tmdb": 521646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-28"
+}

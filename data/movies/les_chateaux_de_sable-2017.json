@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_chateaux_de_sable_2017",
+  "title": "Les Châteaux de sable",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19952096",
+    "imdb": "tt3223302",
+    "tmdb": 331114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27"
+}

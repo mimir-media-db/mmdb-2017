@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_like_magic_2017",
+  "title": "Girls Like Magic",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56301668",
+    "imdb": "tt4557998",
+    "tmdb": 505390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

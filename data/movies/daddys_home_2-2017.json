@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daddys_home_2_2017",
+  "title": "Daddy's Home 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28975643",
+    "imdb": "tt5657846",
+    "tmdb": 419680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-10",
+  "runtime_minutes": 100
+}

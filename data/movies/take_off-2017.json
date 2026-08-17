@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_take_off_2017",
+  "title": "Take Off",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29226396",
+    "imdb": "tt6315524",
+    "tmdb": 430521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_claires_camera_2017",
+  "title": "Claire's Camera",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29406218",
+    "imdb": "tt5989220",
+    "tmdb": 432507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-01",
+  "runtime_minutes": 69
+}

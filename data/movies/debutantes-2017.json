@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_debutantes_2017",
+  "title": "The Debutantes",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672862",
+    "imdb": "tt7467612",
+    "tmdb": 479636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-13"
+}

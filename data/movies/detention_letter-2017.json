@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_detention_letter_2017",
+  "title": "Detention Letter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27907936",
+    "imdb": "tt6034164",
+    "tmdb": 463905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-25"
+}

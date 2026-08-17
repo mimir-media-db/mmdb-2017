@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iii_smoking_barrels_2017",
+  "title": "III Smoking Barrels",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738646",
+    "imdb": "tt5791986",
+    "tmdb": 466210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

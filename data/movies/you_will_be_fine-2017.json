@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_will_be_fine_2017",
+  "title": "You Will Be Fine",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86333626",
+    "imdb": "tt7275126",
+    "tmdb": 479912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 15
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weg_van_jou_2017",
+  "title": "Weg van Jou",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108434638",
+    "imdb": "tt6132250",
+    "tmdb": 478180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-19"
+}

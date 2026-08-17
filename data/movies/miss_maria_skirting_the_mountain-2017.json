@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_maria_skirting_the_mountain_2017",
+  "title": "Miss María, Skirting the Mountain",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61937847",
+    "imdb": "tt7197576",
+    "tmdb": 439614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

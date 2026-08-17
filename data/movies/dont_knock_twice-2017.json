@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_knock_twice_2017",
+  "title": "Don't Knock Twice",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28842722",
+    "imdb": "tt3622110",
+    "tmdb": 420245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 93
+}

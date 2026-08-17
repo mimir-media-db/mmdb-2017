@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_number_2017",
+  "title": "The Number",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073904",
+    "imdb": "tt6247314",
+    "tmdb": 473350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-01"
+}

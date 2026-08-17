@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benefit_of_the_doubt_2017",
+  "title": "The Benefit of the Doubt",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56303495",
+    "imdb": "tt6109080",
+    "tmdb": 479379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

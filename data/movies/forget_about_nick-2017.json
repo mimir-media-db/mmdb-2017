@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forget_about_nick_2017",
+  "title": "Forget About Nick",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45315326",
+    "imdb": "tt5373854",
+    "tmdb": 479834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07"
+}

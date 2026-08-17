@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_misbehavior_2017",
+  "title": "Misbehavior",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22974472",
+    "imdb": "tt6302006",
+    "tmdb": 428395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-04",
+  "runtime_minutes": 96
+}

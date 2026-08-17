@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fukrey_returns_2017",
+  "title": "Fukrey Returns",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344580",
+    "imdb": "tt6712014",
+    "tmdb": 454776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-08",
+  "runtime_minutes": 141
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_silence_2017",
+  "title": "Blue Silence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56868119",
+    "imdb": "tt6518782",
+    "tmdb": 468268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

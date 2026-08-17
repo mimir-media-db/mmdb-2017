@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meghnad_badh_rahasya_2017",
+  "title": "Meghnad Badh Rahasya",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33101413",
+    "imdb": "tt6791638",
+    "tmdb": 468052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-14"
+}

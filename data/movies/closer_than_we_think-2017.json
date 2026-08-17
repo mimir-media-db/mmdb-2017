@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closer_than_we_think_2017",
+  "title": "Closer Than We Think",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136387400",
+    "imdb": "tt5652518",
+    "tmdb": 490111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-09",
+  "runtime_minutes": 85
+}

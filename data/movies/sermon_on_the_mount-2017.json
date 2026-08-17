@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sermon_on_the_mount_2017",
+  "title": "Sermon on the Mount",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55730642",
+    "imdb": "tt7946548",
+    "tmdb": 462080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

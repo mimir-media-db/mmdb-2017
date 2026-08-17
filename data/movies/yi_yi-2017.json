@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yi_yi_2017",
+  "title": "Yi Yi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q704513",
+    "imdb": "tt0244316",
+    "tmdb": 25538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-28",
+  "runtime_minutes": 173
+}

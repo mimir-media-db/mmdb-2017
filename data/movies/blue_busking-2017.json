@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_busking_2017",
+  "title": "Blue Busking",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29652919",
+    "imdb": "tt10474366",
+    "tmdb": 459711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-18",
+  "runtime_minutes": 97
+}

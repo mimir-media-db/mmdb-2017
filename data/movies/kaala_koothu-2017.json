@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaala_koothu_2017",
+  "title": "Kaala Koothu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806765",
+    "imdb": "tt7235930",
+    "tmdb": 410611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-01"
+}

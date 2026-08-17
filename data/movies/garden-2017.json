@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_2017",
+  "title": "The Garden",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39074575",
+    "imdb": "tt5945724",
+    "tmdb": 434371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-27",
+  "runtime_minutes": 97
+}

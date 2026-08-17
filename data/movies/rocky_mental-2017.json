@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rocky_mental_2017",
+  "title": "Rocky Mental",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39047472",
+    "imdb": "tt7102426",
+    "tmdb": 471444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-19"
+}

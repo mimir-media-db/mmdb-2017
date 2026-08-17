@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mirgorod_2017",
+  "title": "Mirgorod",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27045120",
+    "imdb": "tt4929014",
+    "tmdb": 1492072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29"
+}

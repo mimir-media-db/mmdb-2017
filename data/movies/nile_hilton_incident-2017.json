@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nile_hilton_incident_2017",
+  "title": "The Nile Hilton Incident",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28532724",
+    "imdb": "tt5540188",
+    "tmdb": 428495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-21",
+  "runtime_minutes": 106
+}

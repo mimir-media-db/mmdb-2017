@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_ugly_2017",
+  "title": "Blind & Ugly",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39736092",
+    "imdb": "tt5034090",
+    "tmdb": 379138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-21",
+  "runtime_minutes": 105
+}

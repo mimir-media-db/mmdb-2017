@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_honey_2017",
+  "title": "Blood Honey",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55605617",
+    "imdb": "tt1380151",
+    "tmdb": 477113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breakout_to_the_unknown_2017",
+  "title": "Break-Out to the Unknown",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48074682",
+    "imdb": "tt6848282",
+    "tmdb": 503985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-27",
+  "runtime_minutes": 88
+}

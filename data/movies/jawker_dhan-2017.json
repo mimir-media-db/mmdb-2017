@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jawker_dhan_2017",
+  "title": "Jawker Dhan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34334172",
+    "imdb": "tt7099142",
+    "tmdb": 716734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04"
+}

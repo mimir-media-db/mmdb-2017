@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_get_me_2017",
+  "title": "You Get Me",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958291",
+    "imdb": "tt5539054",
+    "tmdb": 412105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-23",
+  "runtime_minutes": 89
+}

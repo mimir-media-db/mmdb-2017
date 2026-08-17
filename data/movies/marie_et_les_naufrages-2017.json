@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marie_et_les_naufrages_2017",
+  "title": "Marie et les naufragés",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899211",
+    "imdb": "tt4428774",
+    "tmdb": 384589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08",
+  "runtime_minutes": 104
+}

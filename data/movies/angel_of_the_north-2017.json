@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_of_the_north_2017",
+  "title": "Angel of the North",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56259831",
+    "imdb": "tt7551198",
+    "tmdb": 555451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

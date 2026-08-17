@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_accidents_2017",
+  "title": "Beautiful Accidents",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463122",
+    "imdb": "tt3534836",
+    "tmdb": 962788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-20"
+}

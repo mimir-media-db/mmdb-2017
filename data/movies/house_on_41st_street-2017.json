@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_on_41st_street_2017",
+  "title": "A House on 41st Street",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25424429",
+    "imdb": "tt6219484",
+    "tmdb": 420320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-11"
+}

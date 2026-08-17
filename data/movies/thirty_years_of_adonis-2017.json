@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thirty_years_of_adonis_2017",
+  "title": "Thirty Years of Adonis",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245126",
+    "imdb": "tt7397146",
+    "tmdb": 550059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

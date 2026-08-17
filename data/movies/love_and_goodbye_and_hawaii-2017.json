@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_goodbye_and_hawaii_2017",
+  "title": "Love and Goodbye and Hawaii",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56565721",
+    "imdb": "tt6609010",
+    "tmdb": 461230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

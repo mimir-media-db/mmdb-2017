@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_roses_2017",
+  "title": "Wild Roses",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672792",
+    "imdb": "tt5774796",
+    "tmdb": 486484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-29"
+}

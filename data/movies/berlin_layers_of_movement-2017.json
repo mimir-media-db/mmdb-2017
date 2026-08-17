@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_layers_of_movement_2017",
+  "title": "Berlin Layers of Movement",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42414282",
+    "imdb": "tt4506246",
+    "tmdb": 486292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-13"
+}

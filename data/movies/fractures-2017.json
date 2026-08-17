@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fractures_2017",
+  "title": "Fractures",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111209095",
+    "imdb": "tt7469922",
+    "tmdb": 570451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20"
+}

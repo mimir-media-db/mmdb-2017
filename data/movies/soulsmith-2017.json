@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soulsmith_2017",
+  "title": "Soulsmith",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67207073",
+    "imdb": "tt4623726",
+    "tmdb": 450382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

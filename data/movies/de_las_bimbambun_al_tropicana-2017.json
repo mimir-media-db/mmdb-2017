@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_de_las_bimbambun_al_tropicana_2017",
+  "title": "De las Bimbambun al Tropicana",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123502273",
+    "tmdb": 1144574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ilha_dos_caes_2017",
+  "title": "A Ilha dos Cães",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60999925",
+    "imdb": "tt2749334",
+    "tmdb": 374697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

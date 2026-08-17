@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resident_evil_the_final_chapter_2017",
+  "title": "Resident Evil: The Final Chapter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12049257",
+    "imdb": "tt2592614",
+    "tmdb": 173897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26",
+  "runtime_minutes": 106
+}

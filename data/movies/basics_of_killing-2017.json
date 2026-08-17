@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_basics_of_killing_2017",
+  "title": "The basics of killing",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107299153",
+    "imdb": "tt5865834",
+    "tmdb": 476241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indictment_the_crimes_of_shelly_chartier_2017",
+  "title": "Indictment: The Crimes of Shelly Chartier",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123184526",
+    "imdb": "tt7845578",
+    "tmdb": 1301622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

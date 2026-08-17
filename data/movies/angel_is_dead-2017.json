@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_is_dead_2017",
+  "title": "Angel Is Dead",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31176977",
+    "imdb": "tt20249814",
+    "tmdb": 482122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-25"
+}

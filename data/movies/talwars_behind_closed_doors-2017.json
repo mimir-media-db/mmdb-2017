@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_talwars_behind_closed_doors_2017",
+  "title": "The Talwars: Behind Closed Doors",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55739715",
+    "imdb": "tt7614442"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-26"
+}

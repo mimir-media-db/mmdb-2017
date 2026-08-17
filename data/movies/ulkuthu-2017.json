@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ulkuthu_2017",
+  "title": "Ulkuthu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647239",
+    "imdb": "tt7666222",
+    "tmdb": 349194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_spells_2_2017",
+  "title": "Dark Spells 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29963817",
+    "imdb": "tt10392490",
+    "tmdb": 468958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-23"
+}

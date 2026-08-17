@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_tour_my_last_49_days_2017",
+  "title": "Le Tour: My Last 49 Days",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432087",
+    "tmdb": 434231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fond_2017",
+  "title": "À fond",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20971320",
+    "imdb": "tt4993964",
+    "tmdb": 382598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-05",
+  "runtime_minutes": 96
+}

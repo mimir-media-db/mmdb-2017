@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_youre_not_in_the_obit_eat_breakfast_2017",
+  "title": "If You're Not in the Obit, Eat Breakfast",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51031201",
+    "imdb": "tt6963760",
+    "tmdb": 446020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19",
+  "runtime_minutes": 86
+}

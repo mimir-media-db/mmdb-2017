@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_story_in_taipei_2017",
+  "title": "Story in Taipei",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30947360",
+    "imdb": "tt6985060",
+    "tmdb": 459187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19",
+  "runtime_minutes": 118
+}

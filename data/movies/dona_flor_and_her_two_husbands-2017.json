@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dona_flor_and_her_two_husbands_2017",
+  "title": "Dona Flor and Her Two Husbands",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56354779",
+    "imdb": "tt7901878",
+    "tmdb": 476724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 108
+}

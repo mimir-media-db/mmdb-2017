@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whisper_3_2017",
+  "title": "Whisper 3",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28542238",
+    "imdb": "tt5311972",
+    "tmdb": 422766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-27",
+  "runtime_minutes": 110
+}

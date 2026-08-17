@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gold_2017",
+  "title": "Gold",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649346",
+    "imdb": "tt1800302",
+    "tmdb": 334524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-16",
+  "runtime_minutes": 121
+}

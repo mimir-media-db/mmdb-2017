@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demain_tout_commence_2017",
+  "title": "Demain tout commence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899238",
+    "imdb": "tt5078204",
+    "tmdb": 382591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-05",
+  "runtime_minutes": 115
+}

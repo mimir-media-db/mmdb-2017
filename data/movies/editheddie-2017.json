@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_editheddie_2017",
+  "title": "Edith+Eddie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47487573",
+    "imdb": "tt6519356",
+    "tmdb": 443946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-02",
+  "runtime_minutes": 29
+}

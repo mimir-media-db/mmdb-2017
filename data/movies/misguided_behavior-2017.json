@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_misguided_behavior_2017",
+  "title": "Misguided Behavior",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28101333",
+    "imdb": "tt5974066",
+    "tmdb": 559814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-11"
+}

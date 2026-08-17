@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yuddham_sharanam_2017",
+  "title": "Yuddham Sharanam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39047297",
+    "imdb": "tt6644636",
+    "tmdb": 474955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08"
+}

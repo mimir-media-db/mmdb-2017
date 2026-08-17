@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_runnin_from_my_roots_2017",
+  "title": "Runnin' from My Roots",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590967",
+    "imdb": "tt4883336",
+    "tmdb": 573953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-12"
+}

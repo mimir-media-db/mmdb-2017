@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_african_doctor_2017",
+  "title": "The African Doctor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21007639",
+    "imdb": "tt5555502",
+    "tmdb": 393764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 96
+}

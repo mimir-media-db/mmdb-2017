@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slovo_house_2017",
+  "title": "Slovo House",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42586642",
+    "imdb": "tt7526894",
+    "tmdb": 519692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-09"
+}

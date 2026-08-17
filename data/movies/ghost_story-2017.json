@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_story_2017",
+  "title": "A Ghost Story",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964497",
+    "imdb": "tt6265828",
+    "tmdb": 428449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_they_killed_my_father_2017",
+  "title": "First They Killed My Father",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22908422",
+    "imdb": "tt4882376",
+    "tmdb": 433247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-18",
+  "runtime_minutes": 136
+}

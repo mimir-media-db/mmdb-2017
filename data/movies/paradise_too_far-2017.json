@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_too_far_2017",
+  "title": "A Paradise Too Far",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99534469",
+    "imdb": "tt7477812",
+    "tmdb": 549168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

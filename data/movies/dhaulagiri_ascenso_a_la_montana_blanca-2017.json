@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dhaulagiri_ascenso_a_la_montana_blanca_2017",
+  "title": "Dhaulagiri - Ascenso a la Montaña Blanca",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108065010",
+    "imdb": "tt7134214",
+    "tmdb": 487880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swan_princess_royally_undercover_2017",
+  "title": "The Swan Princess: Royally Undercover",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30682831",
+    "imdb": "tt6687748",
+    "tmdb": 443484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-28"
+}

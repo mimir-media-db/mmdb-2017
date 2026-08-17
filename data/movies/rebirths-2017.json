@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rebirths_2017",
+  "title": "Re-Births",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136079386",
+    "imdb": "tt5807488",
+    "tmdb": 807223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

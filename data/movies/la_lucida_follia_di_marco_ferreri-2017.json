@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_lucida_follia_di_marco_ferreri_2017",
+  "title": "La lucida follia di Marco Ferreri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63498581",
+    "imdb": "tt10345946",
+    "tmdb": 517004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 77
+}

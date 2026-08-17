@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_train_to_busan_2017",
+  "title": "Train to Busan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20948236",
+    "imdb": "tt5700672",
+    "tmdb": 396535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-21",
+  "runtime_minutes": 118
+}

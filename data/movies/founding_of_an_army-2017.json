@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_founding_of_an_army_2017",
+  "title": "The Founding of an Army",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28410427",
+    "imdb": "tt7185492",
+    "tmdb": 468892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-27",
+  "runtime_minutes": 133
+}

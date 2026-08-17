@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_lies_upstream_2017",
+  "title": "What Lies Upstream",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109313639",
+    "imdb": "tt5165878",
+    "tmdb": 433881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

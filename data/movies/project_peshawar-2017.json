@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_project_peshawar_2017",
+  "title": "Project Peshawar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36951295",
+    "imdb": "tt7622556",
+    "tmdb": 608306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-20"
+}

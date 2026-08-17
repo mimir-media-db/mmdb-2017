@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nur_eta_herensugearen_tenplua_2017",
+  "title": "Nur eta herensugearen tenplua",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91003775",
+    "imdb": "tt6896378",
+    "tmdb": 459903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-02",
+  "runtime_minutes": 65
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sin_mover_los_labios_2017",
+  "title": "Sin mover los labios",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67067792",
+    "imdb": "tt4641290",
+    "tmdb": 425299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

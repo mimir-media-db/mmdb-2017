@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_instant_dreams_2017",
+  "title": "Instant Dreams",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56816862",
+    "imdb": "tt5458406",
+    "tmdb": 489838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

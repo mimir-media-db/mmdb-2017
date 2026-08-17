@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maanagaram_2017",
+  "title": "Maanagaram",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034515",
+    "imdb": "tt5559528",
+    "tmdb": 412096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bad_fox_and_other_tales_2017",
+  "title": "The Big Bad Fox and Other Tales...",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30541707",
+    "imdb": "tt5851904",
+    "tmdb": 453191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-21",
+  "runtime_minutes": 87
+}

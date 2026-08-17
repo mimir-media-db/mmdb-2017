@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faithful_son_2017",
+  "title": "The Faithful Son",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738574",
+    "imdb": "tt6175496",
+    "tmdb": 479382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-05"
+}

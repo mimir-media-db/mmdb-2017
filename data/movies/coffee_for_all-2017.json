@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coffee_for_all_2017",
+  "title": "Coffee for All",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65159276",
+    "imdb": "tt6721132",
+    "tmdb": 521753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 69
+}

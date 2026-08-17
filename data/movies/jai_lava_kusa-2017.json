@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_lava_kusa_2017",
+  "title": "Jai Lava Kusa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344775",
+    "imdb": "tt6861726",
+    "tmdb": 101736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-10"
+}

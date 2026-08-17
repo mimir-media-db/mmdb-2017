@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_times_of_fading_light_2017",
+  "title": "In Times of Fading Light",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28776060",
+    "imdb": "tt6020104",
+    "tmdb": 432892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-16",
+  "runtime_minutes": 100
+}

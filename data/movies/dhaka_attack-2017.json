@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhaka_attack_2017",
+  "title": "Dhaka Attack",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998190",
+    "imdb": "tt5534436",
+    "tmdb": 482239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-06"
+}

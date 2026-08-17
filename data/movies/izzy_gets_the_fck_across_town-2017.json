@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_izzy_gets_the_fck_across_town_2017",
+  "title": "Izzy Gets the F*ck Across Town",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26963176",
+    "imdb": "tt5198796",
+    "tmdb": 373209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-17",
+  "runtime_minutes": 86
+}

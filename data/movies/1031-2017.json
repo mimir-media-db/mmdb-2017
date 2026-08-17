@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1031_2017",
+  "title": "10/31",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97933114",
+    "imdb": "tt6235650",
+    "tmdb": 483068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-28",
+  "runtime_minutes": 93
+}

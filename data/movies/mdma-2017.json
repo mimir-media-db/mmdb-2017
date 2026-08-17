@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mdma_2017",
+  "title": "MDMA",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032878",
+    "imdb": "tt3664992",
+    "tmdb": 382380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

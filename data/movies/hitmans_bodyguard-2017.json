@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hitmans_bodyguard_2017",
+  "title": "The Hitman's Bodyguard",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23796644",
+    "imdb": "tt1959563",
+    "tmdb": 390043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-18",
+  "runtime_minutes": 118
+}

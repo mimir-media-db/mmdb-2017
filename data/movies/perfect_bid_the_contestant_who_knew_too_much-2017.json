@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_bid_the_contestant_who_knew_too_much_2017",
+  "title": "Perfect Bid: The Contestant Who Knew Too Much",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61951949",
+    "imdb": "tt6854248",
+    "tmdb": 491766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 72
+}

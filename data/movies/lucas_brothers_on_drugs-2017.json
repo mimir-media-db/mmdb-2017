@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lucas_brothers_on_drugs_2017",
+  "title": "Lucas Brothers: On Drugs",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65102081",
+    "imdb": "tt6218048",
+    "tmdb": 451709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-18"
+}

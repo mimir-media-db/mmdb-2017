@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schatten_der_lust_2017",
+  "title": "Schatten der Lust",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126916273",
+    "imdb": "tt31947925"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 58
+}

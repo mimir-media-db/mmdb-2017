@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shaadi_mein_zaroor_aana_2017",
+  "title": "Shaadi Mein Zaroor Aana",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42303976",
+    "imdb": "tt7469726",
+    "tmdb": 480810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-10"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_please_please_please_2017",
+  "title": "Please Please Please",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28690407",
+    "imdb": "tt6167996"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-14"
+}

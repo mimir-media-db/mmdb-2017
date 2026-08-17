@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_trucks_2017",
+  "title": "Monster Trucks",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16939122",
+    "imdb": "tt3095734",
+    "tmdb": 262841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-13",
+  "runtime_minutes": 104
+}

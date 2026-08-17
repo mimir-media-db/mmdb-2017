@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_julian_schnabel_a_private_portrait_2017",
+  "title": "Julian Schnabel: A Private Portrait",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303163",
+    "imdb": "tt6794464",
+    "tmdb": 455359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-28",
+  "runtime_minutes": 84
+}

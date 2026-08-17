@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaelic_king_2017",
+  "title": "The Gaelic King",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30321627",
+    "imdb": "tt5072852",
+    "tmdb": 427395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-10"
+}

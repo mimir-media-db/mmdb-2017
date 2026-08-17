@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_challenge_defending_julian_assange_2017",
+  "title": "The Challenge: Defending Julian Assange",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50316483",
+    "imdb": "tt6654984",
+    "tmdb": 773133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-20",
+  "runtime_minutes": 91
+}

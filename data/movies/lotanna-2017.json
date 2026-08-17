@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lotanna_2017",
+  "title": "Lotanna",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50649579",
+    "imdb": "tt2610732",
+    "tmdb": 527091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-08",
+  "runtime_minutes": 90
+}

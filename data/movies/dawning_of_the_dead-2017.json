@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dawning_of_the_dead_2017",
+  "title": "Dawning of the Dead",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65271326",
+    "imdb": "tt3332282",
+    "tmdb": 462263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kosovo_a_moment_in_civilization_2017",
+  "title": "Kosovo: A Moment in Civilization",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43208877",
+    "imdb": "tt9417594",
+    "tmdb": 608838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-15"
+}

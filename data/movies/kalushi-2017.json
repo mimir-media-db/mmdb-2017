@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalushi_2017",
+  "title": "Kalushi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28452150",
+    "imdb": "tt3487278",
+    "tmdb": 449479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-10"
+}

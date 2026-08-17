@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pilgrimage_to_the_holy_land_2017",
+  "title": "Pilgrimage to the Holy Land",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573857",
+    "imdb": "tt36970645"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

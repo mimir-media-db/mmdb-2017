@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_of_a_sacred_deer_2017",
+  "title": "The Killing of a Sacred Deer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27492140",
+    "imdb": "tt5715874",
+    "tmdb": 399057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-22",
+  "runtime_minutes": 109
+}

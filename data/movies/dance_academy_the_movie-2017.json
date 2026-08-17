@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_academy_the_movie_2017",
+  "title": "Dance Academy: The Movie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41783910",
+    "imdb": "tt5834660",
+    "tmdb": 429765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-06"
+}

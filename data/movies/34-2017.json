@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_34_2017",
+  "title": "3/4",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38650507",
+    "imdb": "tt7133384",
+    "tmdb": 467266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-06",
+  "runtime_minutes": 83
+}

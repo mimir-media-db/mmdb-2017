@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voevoda_2017",
+  "title": "Voevoda",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28055309",
+    "imdb": "tt5029208",
+    "tmdb": 435938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-13",
+  "runtime_minutes": 126
+}

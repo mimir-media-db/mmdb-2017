@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unique_movie_2017",
+  "title": "A Unique Movie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840768",
+    "imdb": "tt16058768",
+    "tmdb": 444143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-07"
+}

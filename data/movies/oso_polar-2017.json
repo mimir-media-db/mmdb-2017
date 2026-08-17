@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oso_polar_2017",
+  "title": "Oso Polar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125985058",
+    "imdb": "tt5049580",
+    "tmdb": 483494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-01"
+}

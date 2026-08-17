@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nachtschicht_ladies_first_2017",
+  "title": "Nachtschicht – Ladies First",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28940868",
+    "imdb": "tt5520408"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-20",
+  "runtime_minutes": 90
+}

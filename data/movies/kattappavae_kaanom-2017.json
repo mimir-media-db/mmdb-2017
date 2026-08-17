@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kattappavae_kaanom_2017",
+  "title": "Kattappavae Kaanom",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24887523",
+    "imdb": "tt6656784",
+    "tmdb": 411280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-24"
+}

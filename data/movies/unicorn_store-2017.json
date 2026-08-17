@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unicorn_store_2017",
+  "title": "Unicorn Store",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28222787",
+    "imdb": "tt2338454",
+    "tmdb": 423949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-11",
+  "runtime_minutes": 92
+}

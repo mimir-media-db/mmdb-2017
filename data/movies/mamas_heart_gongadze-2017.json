@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mamas_heart_gongadze_2017",
+  "title": "Mama's Heart. Gongadze",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573880",
+    "imdb": "tt3746274"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-14",
+  "runtime_minutes": 77
+}

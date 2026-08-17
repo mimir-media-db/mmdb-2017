@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snl_polska_2017",
+  "title": "SNL Polska",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56343808",
+    "imdb": "tt8144912"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 50
+}

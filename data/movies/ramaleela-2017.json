@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ramaleela_2017",
+  "title": "Ramaleela",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39070198",
+    "imdb": "tt6104268",
+    "tmdb": 464403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-28"
+}

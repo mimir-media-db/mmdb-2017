@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brindavanam_2017",
+  "title": "Brindavanam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958514",
+    "imdb": "tt6760704",
+    "tmdb": 413042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_shadows_2017",
+  "title": "Valley of Shadows",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38699098",
+    "imdb": "tt6796742",
+    "tmdb": 472388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08",
+  "runtime_minutes": 91
+}

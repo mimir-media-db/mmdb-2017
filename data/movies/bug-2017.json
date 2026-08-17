@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bug_2017",
+  "title": "Bug",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65300572",
+    "imdb": "tt3749926",
+    "tmdb": 535787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hickok_2017",
+  "title": "Hickok",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35151950",
+    "imdb": "tt6334884",
+    "tmdb": 455675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-07",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nur_ein_tag_2017",
+  "title": "Nur ein Tag",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30505211",
+    "imdb": "tt5566590",
+    "tmdb": 433597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-29"
+}

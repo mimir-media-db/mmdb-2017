@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abducted_in_plain_sight_2017",
+  "title": "Abducted in Plain Sight",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60683565",
+    "imdb": "tt3444312",
+    "tmdb": 470401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

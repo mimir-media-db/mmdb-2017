@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neruppu_da_2017",
+  "title": "Neruppu Da",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957976",
+    "imdb": "tt7221950",
+    "tmdb": 410323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08"
+}

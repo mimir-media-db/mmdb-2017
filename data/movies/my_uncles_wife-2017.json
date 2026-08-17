@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_uncles_wife_2017",
+  "title": "My Uncle's Wife",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840702",
+    "imdb": "tt8914118",
+    "tmdb": 479212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-28"
+}

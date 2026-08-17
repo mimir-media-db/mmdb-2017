@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jessica_drake_is_wicked_2017",
+  "title": "Jessica Drake Is Wicked",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139709366",
+    "imdb": "tt7645022",
+    "tmdb": 475233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 154
+}

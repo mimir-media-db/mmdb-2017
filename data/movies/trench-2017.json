@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trench_2017",
+  "title": "Trench",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600964",
+    "imdb": "tt5585580",
+    "tmdb": 448136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

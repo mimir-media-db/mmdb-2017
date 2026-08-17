@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grendel_2017",
+  "title": "Grendel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105677",
+    "imdb": "tt6494606",
+    "tmdb": 512266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

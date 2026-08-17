@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_the_disappeared_2017",
+  "title": "House of the Disappeared",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29045378",
+    "imdb": "tt6814252",
+    "tmdb": 438070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-05",
+  "runtime_minutes": 100
+}

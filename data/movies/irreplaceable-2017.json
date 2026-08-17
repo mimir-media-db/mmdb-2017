@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_irreplaceable_2017",
+  "title": "Irreplaceable",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23722461",
+    "imdb": "tt5078326",
+    "tmdb": 375950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-05",
+  "runtime_minutes": 102
+}

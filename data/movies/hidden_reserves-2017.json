@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_reserves_2017",
+  "title": "Hidden Reserves",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26836951",
+    "imdb": "tt4734102",
+    "tmdb": 418747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 96
+}

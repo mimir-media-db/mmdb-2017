@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beast_2017",
+  "title": "Beast",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674188",
+    "imdb": "tt5628302",
+    "tmdb": 470918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-09",
+  "runtime_minutes": 106
+}

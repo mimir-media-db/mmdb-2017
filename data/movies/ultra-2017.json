@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ultra_2017",
+  "title": "Ultra",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87921252",
+    "imdb": "tt5943606",
+    "tmdb": 451691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 81
+}

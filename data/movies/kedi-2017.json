@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kedi_2017",
+  "title": "Kedi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24672271",
+    "imdb": "tt4420704",
+    "tmdb": 392011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-10",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_party_2017",
+  "title": "The Wedding Party",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26684632",
+    "imdb": "tt5978822",
+    "tmdb": 412196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-01",
+  "runtime_minutes": 90
+}

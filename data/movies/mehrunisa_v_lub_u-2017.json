@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mehrunisa_v_lub_u_2017",
+  "title": "Mehrunisa V Lub U",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30645188",
+    "imdb": "tt7063130",
+    "tmdb": 463238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-26"
+}

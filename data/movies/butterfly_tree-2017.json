@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_butterfly_tree_2017",
+  "title": "The Butterfly Tree",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463307",
+    "imdb": "tt3719948",
+    "tmdb": 429762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11"
+}

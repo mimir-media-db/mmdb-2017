@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_science_moms_2017",
+  "title": "Science Moms",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302275",
+    "imdb": "tt8668240",
+    "tmdb": 489978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-01"
+}

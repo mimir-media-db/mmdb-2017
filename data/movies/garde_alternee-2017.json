@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garde_alternee_2017",
+  "title": "Garde alternée",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30742369",
+    "imdb": "tt7217028",
+    "tmdb": 451504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-20",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_karl_marx_2017",
+  "title": "The Young Karl Marx",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28228149",
+    "imdb": "tt1699518",
+    "tmdb": 400020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-12",
+  "runtime_minutes": 118
+}

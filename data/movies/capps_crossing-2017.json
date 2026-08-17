@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_capps_crossing_2017",
+  "title": "Capps Crossing",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123984652",
+    "imdb": "tt3148978",
+    "tmdb": 461562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-09",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_34th_2017",
+  "title": "The 34th",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59152321",
+    "imdb": "tt7288652",
+    "tmdb": 507686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

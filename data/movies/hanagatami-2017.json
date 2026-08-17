@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanagatami_2017",
+  "title": "Hanagatami",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48755382",
+    "imdb": "tt6887624",
+    "tmdb": 483542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-16",
+  "runtime_minutes": 168
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhanapati_2017",
+  "title": "Dhanapati",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30077950",
+    "imdb": "tt6580708",
+    "tmdb": 466256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_of_illumination_2017",
+  "title": "Dream Of Illumination",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38279338",
+    "imdb": "tt7094086",
+    "tmdb": 496386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-15"
+}

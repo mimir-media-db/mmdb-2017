@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_spirit_2017",
+  "title": "A New Spirit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122463524",
+    "imdb": "tt7398716",
+    "tmdb": 492318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 99
+}

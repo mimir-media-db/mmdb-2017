@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_like_our_parents_2017",
+  "title": "Just Like Our Parents",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28753457",
+    "imdb": "tt5631456",
+    "tmdb": 439066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-11",
+  "runtime_minutes": 102
+}

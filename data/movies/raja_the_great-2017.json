@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raja_the_great_2017",
+  "title": "Raja The Great",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28532748",
+    "imdb": "tt7322850",
+    "tmdb": 456431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-25"
+}

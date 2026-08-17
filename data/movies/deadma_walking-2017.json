@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadma_walking_2017",
+  "title": "Deadma Walking",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671204",
+    "imdb": "tt7736550",
+    "tmdb": 494797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-25"
+}

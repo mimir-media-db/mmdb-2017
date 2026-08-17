@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fc_de_kampioenen_3_forever_2017",
+  "title": "F.C. De Kampioenen 3: Forever",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45232314",
+    "imdb": "tt5331532",
+    "tmdb": 493355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_ugly_2017",
+  "title": "Hard & Ugly",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30671537",
+    "imdb": "tt5714916",
+    "tmdb": 466685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-24",
+  "runtime_minutes": 71
+}

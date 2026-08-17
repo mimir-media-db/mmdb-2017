@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mindhorn_2017",
+  "title": "Mindhorn",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832180",
+    "imdb": "tt4799064",
+    "tmdb": 381518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05",
+  "runtime_minutes": 89
+}

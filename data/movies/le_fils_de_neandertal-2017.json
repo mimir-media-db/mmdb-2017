@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_fils_de_neandertal_2017",
+  "title": "Le fils de Neandertal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104516549",
+    "imdb": "tt7205810",
+    "tmdb": 805722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

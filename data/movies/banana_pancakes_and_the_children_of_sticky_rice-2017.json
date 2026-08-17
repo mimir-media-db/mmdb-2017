@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_banana_pancakes_and_the_children_of_sticky_rice_2017",
+  "title": "Banana Pancakes and the Children of Sticky Rice",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38218525",
+    "imdb": "tt4372118",
+    "tmdb": 317988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 90
+}

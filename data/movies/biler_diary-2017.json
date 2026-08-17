@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_biler_diary_2017",
+  "title": "Biler Diary",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39058129",
+    "imdb": "tt6856538",
+    "tmdb": 1018923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-01"
+}

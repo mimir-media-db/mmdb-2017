@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_out_2017",
+  "title": "Get Out",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136235",
+    "imdb": "tt5052448",
+    "tmdb": 419430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-24",
+  "runtime_minutes": 104
+}

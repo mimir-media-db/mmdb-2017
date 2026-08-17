@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_years_of_love_2017",
+  "title": "2 Years of Love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111513045",
+    "imdb": "tt3752610",
+    "tmdb": 435664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 88
+}

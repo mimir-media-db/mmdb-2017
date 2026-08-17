@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muthuramalingam_2017",
+  "title": "Muthuramalingam",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806754",
+    "imdb": "tt6567406",
+    "tmdb": 413019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-24"
+}

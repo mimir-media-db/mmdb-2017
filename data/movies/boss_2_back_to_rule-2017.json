@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boss_2_back_to_rule_2017",
+  "title": "Boss 2: Back to Rule",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29344602",
+    "imdb": "tt7066030",
+    "tmdb": 490801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-25"
+}

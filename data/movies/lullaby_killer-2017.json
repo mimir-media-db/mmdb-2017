@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lullaby_killer_2017",
+  "title": "Lullaby Killer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48850226",
+    "imdb": "tt7135128",
+    "tmdb": 480974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20",
+  "runtime_minutes": 97
+}

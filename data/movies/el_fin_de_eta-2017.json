@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_fin_de_eta_2017",
+  "title": "El fin de ETA",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48143013",
+    "imdb": "tt6431828",
+    "tmdb": 451329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-27",
+  "runtime_minutes": 109
+}

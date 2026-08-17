@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_the_girl_2017",
+  "title": "Get the Girl",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29558667",
+    "imdb": "tt4045894",
+    "tmdb": 433621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-27",
+  "runtime_minutes": 87
+}

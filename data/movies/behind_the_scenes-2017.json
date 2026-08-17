@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_scenes_2017",
+  "title": "Behind the Scenes",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108257926",
+    "imdb": "tt15292952",
+    "tmdb": 904346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-22",
+  "runtime_minutes": 161
+}

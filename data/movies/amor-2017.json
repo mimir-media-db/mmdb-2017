@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amor_2017",
+  "title": "Amor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21511492",
+    "imdb": "tt4531764",
+    "tmdb": 579440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-19",
+  "runtime_minutes": 90
+}

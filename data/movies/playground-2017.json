@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_playground_2017",
+  "title": "The Playground",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32717764",
+    "imdb": "tt4460122",
+    "tmdb": 468326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-13",
+  "runtime_minutes": 154
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dunkirk_2017",
+  "title": "Dunkirk",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21935651",
+    "imdb": "tt5013056",
+    "tmdb": 374720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-13",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_6_below_miracle_on_the_mountain_2017",
+  "title": "6 Below: Miracle on the Mountain",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41100591",
+    "imdb": "tt5503688",
+    "tmdb": 423087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-12",
+  "runtime_minutes": 98
+}

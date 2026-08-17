@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_party_2017",
+  "title": "The Party",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28173298",
+    "imdb": "tt5814592",
+    "tmdb": 415401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-13",
+  "runtime_minutes": 71
+}

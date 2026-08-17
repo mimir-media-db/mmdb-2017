@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wifes_friend_reunion_2017",
+  "title": "Wife's Friend Reunion",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840765",
+    "imdb": "tt12945880",
+    "tmdb": 444985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-09"
+}

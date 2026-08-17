@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_us_who_went_ahead_2017",
+  "title": "Us who went ahead",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311177",
+    "imdb": "tt7918830"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 43
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_her_sey_mumkun_2017",
+  "title": "Her Sey Mümkün",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29577857",
+    "imdb": "tt6922786",
+    "tmdb": 494502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-19",
+  "runtime_minutes": 105
+}

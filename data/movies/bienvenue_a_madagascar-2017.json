@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bienvenue_a_madagascar_2017",
+  "title": "Bienvenue à Madagascar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65158346",
+    "imdb": "tt5376184",
+    "tmdb": 431265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-15",
+  "runtime_minutes": 102
+}

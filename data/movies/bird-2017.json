@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bird_2017",
+  "title": "Bird",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30891036",
+    "imdb": "tt4958928",
+    "tmdb": 458030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-18",
+  "runtime_minutes": 90
+}

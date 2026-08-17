@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_highlow_the_movie_2017",
+  "title": "High&Low The Movie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84599769",
+    "imdb": "tt5659172",
+    "tmdb": 436356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 130
+}

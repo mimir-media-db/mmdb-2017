@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wake_2017",
+  "title": "The Wake",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60849534",
+    "imdb": "tt7070634",
+    "tmdb": 490334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 51
+}

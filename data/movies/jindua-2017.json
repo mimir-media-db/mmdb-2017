@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jindua_2017",
+  "title": "Jindua",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27701450",
+    "imdb": "tt5917052",
+    "tmdb": 447043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-17"
+}

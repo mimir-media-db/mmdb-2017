@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poorna_courage_has_no_limit_2017",
+  "title": "Poorna: Courage Has No Limit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29026114",
+    "imdb": "tt6180274",
+    "tmdb": 449777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-06"
+}

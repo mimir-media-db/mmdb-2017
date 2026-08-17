@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_in_color_2017",
+  "title": "Playing in Color",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840790",
+    "tmdb": 482584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

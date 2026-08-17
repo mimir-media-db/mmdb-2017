@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spyder_2017",
+  "title": "Spyder",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720700",
+    "imdb": "tt6522546",
+    "tmdb": 452447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-27"
+}

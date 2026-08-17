@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_come_swim_2017",
+  "title": "Come Swim",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29413449",
+    "imdb": "tt5968238",
+    "tmdb": 436035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-19",
+  "runtime_minutes": 17
+}

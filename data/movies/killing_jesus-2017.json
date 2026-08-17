@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_jesus_2017",
+  "title": "Killing Jesus",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53023683",
+    "imdb": "tt7272242",
+    "tmdb": 466175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-27",
+  "runtime_minutes": 95
+}

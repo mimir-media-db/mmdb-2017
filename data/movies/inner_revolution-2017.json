@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inner_revolution_2017",
+  "title": "Inner Revolution",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86734139",
+    "imdb": "tt5303562",
+    "tmdb": 437464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-25"
+}

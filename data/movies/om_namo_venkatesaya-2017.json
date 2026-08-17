@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_om_namo_venkatesaya_2017",
+  "title": "Om Namo Venkatesaya",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26158119",
+    "imdb": "tt6182372",
+    "tmdb": 443640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-10"
+}

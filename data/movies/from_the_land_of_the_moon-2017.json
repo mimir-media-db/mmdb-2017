@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_the_land_of_the_moon_2017",
+  "title": "From the Land of the Moon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009215",
+    "imdb": "tt3794028",
+    "tmdb": 376166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-02",
+  "runtime_minutes": 120
+}

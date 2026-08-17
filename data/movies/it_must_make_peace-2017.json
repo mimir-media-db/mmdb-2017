@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_must_make_peace_2017",
+  "title": "It Must Make Peace",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74913865",
+    "imdb": "tt6152592",
+    "tmdb": 499452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monkey_and_the_mouth_2017",
+  "title": "The Monkey and the Mouth",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56248297",
+    "imdb": "tt7664786",
+    "tmdb": 490731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07",
+  "runtime_minutes": 99
+}

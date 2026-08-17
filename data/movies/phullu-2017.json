@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phullu_2017",
+  "title": "Phullu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33101602",
+    "imdb": "tt6941560",
+    "tmdb": 462064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-16"
+}

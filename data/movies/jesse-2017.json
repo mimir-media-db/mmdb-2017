@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesse_2017",
+  "title": "Jesse",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41783249",
+    "imdb": "tt7470980",
+    "tmdb": 475479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-04",
+  "runtime_minutes": 52
+}

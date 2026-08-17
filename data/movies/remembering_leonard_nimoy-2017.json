@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_remembering_leonard_nimoy_2017",
+  "title": "Remembering Leonard Nimoy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48314075",
+    "imdb": "tt5886842",
+    "tmdb": 495399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transformer_2017",
+  "title": "Transformer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65078488",
+    "imdb": "tt7935784",
+    "tmdb": 512218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-28",
+  "runtime_minutes": 78
+}

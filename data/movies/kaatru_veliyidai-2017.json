@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaatru_veliyidai_2017",
+  "title": "Kaatru Veliyidai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957965",
+    "imdb": "tt5902484",
+    "tmdb": 405684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-07",
+  "runtime_minutes": 140
+}

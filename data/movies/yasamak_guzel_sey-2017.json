@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yasamak_guzel_sey_2017",
+  "title": "Yasamak Güzel Sey",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29353161",
+    "imdb": "tt6822518",
+    "tmdb": 464847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-14",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kilimandscharo_reise_ins_leben_2017",
+  "title": "Kilimandscharo – Reise ins Leben",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65689177",
+    "imdb": "tt7617900",
+    "tmdb": 488795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 88
+}

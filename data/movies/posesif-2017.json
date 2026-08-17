@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_posesif_2017",
+  "title": "Posesif",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56392289",
+    "imdb": "tt7541708",
+    "tmdb": 476781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-26"
+}

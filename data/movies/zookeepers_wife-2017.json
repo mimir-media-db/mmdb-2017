@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zookeepers_wife_2017",
+  "title": "The Zookeeper's Wife",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528262",
+    "imdb": "tt1730768",
+    "tmdb": 289222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indigo_lake_2017",
+  "title": "Indigo Lake",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599824",
+    "imdb": "tt4991868",
+    "tmdb": 547295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

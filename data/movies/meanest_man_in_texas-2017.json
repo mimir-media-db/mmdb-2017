@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meanest_man_in_texas_2017",
+  "title": "The Meanest Man in Texas",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671918",
+    "imdb": "tt5601792",
+    "tmdb": 455532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-27"
+}

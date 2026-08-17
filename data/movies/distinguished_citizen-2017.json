@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_distinguished_citizen_2017",
+  "title": "The Distinguished Citizen",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18674502",
+    "imdb": "tt4562518",
+    "tmdb": 408537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-02",
+  "runtime_minutes": 118
+}

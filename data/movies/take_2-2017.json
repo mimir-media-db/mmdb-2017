@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_take_2_2017",
+  "title": "Take 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28531809",
+    "imdb": "tt6441310",
+    "tmdb": 438776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26"
+}

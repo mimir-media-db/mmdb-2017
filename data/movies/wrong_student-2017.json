@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_student_2017",
+  "title": "The Wrong Student",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60177336",
+    "imdb": "tt6311572",
+    "tmdb": 447023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

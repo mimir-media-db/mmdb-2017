@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bear_creek_2017",
+  "title": "Bear Creek",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65933578",
+    "imdb": "tt5779960",
+    "tmdb": 491043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-19"
+}

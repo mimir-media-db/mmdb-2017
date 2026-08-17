@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_scorpions_2017",
+  "title": "The Song of Scorpions",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39058711",
+    "imdb": "tt5178120",
+    "tmdb": 452095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-09",
+  "runtime_minutes": 119
+}

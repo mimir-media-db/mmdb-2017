@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monopoly_the_bank_of_luck_2017",
+  "title": "Monopoly (The Bank of Luck)",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43061179",
+    "imdb": "tt6922972",
+    "tmdb": 463752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-01",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_voyante_2017",
+  "title": "La voyante",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055404",
+    "imdb": "tt7418960",
+    "tmdb": 687489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 18
+}

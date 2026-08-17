@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fahr_ma_obi_am_wasser_2017",
+  "title": "Fahr ma obi am Wasser",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29578963",
+    "imdb": "tt12318166",
+    "tmdb": 487423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-11"
+}

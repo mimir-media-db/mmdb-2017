@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_nathan_2017",
+  "title": "Dear Nathan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31174320",
+    "imdb": "tt7088006",
+    "tmdb": 466672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23"
+}

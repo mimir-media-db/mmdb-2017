@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happiest_day_in_the_life_of_olli_maki_2017",
+  "title": "The Happiest Day in the Life of Olli Mäki",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23838435",
+    "imdb": "tt4771932",
+    "tmdb": 392807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-05",
+  "runtime_minutes": 96
+}

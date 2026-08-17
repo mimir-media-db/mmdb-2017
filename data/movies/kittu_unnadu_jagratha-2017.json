@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kittu_unnadu_jagratha_2017",
+  "title": "Kittu Unnadu Jagratha",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28127603",
+    "imdb": "tt6750796",
+    "tmdb": 446008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-03"
+}

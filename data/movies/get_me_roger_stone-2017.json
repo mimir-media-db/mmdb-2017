@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_me_roger_stone_2017",
+  "title": "Get Me Roger Stone",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30000525",
+    "imdb": "tt6714534",
+    "tmdb": 448448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-23",
+  "runtime_minutes": 92
+}

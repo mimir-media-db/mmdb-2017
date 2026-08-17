@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_swallow_my_heart_alligator_girl_2017",
+  "title": "Don't Swallow My Heart, Alligator Girl!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28532722",
+    "imdb": "tt6103318",
+    "tmdb": 364691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-22",
+  "runtime_minutes": 106
+}

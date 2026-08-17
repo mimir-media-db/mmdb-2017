@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bar_boys_2017",
+  "title": "Bar Boys",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39049192",
+    "imdb": "tt6900584",
+    "tmdb": 469691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-16"
+}

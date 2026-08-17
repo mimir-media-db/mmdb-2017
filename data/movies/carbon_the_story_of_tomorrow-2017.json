@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carbon_the_story_of_tomorrow_2017",
+  "title": "Carbon: The Story of Tomorrow",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39057126",
+    "imdb": "tt7172800",
+    "tmdb": 492793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-28"
+}

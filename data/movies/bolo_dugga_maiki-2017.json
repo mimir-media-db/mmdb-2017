@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bolo_dugga_maiki_2017",
+  "title": "Bolo Dugga Maiki",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39057519",
+    "imdb": "tt8016500",
+    "tmdb": 519267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22"
+}

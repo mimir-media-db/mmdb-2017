@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sodom_2017",
+  "title": "Sodom",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123741133",
+    "imdb": "tt5948190",
+    "tmdb": 461598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 94
+}

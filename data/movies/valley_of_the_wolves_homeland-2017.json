@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_the_wolves_homeland_2017",
+  "title": "Valley of the Wolves: Homeland",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35717447",
+    "imdb": "tt6973386",
+    "tmdb": 469469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-28",
+  "runtime_minutes": 105
+}

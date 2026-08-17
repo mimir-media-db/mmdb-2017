@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_withdrawn_2017",
+  "title": "Withdrawn",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114740274",
+    "imdb": "tt6281936",
+    "tmdb": 433622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maya_dardel_2017",
+  "title": "Maya Dardel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35775518",
+    "imdb": "tt6218440",
+    "tmdb": 438426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-12"
+}

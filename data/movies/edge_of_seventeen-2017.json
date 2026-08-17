@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_seventeen_2017",
+  "title": "The Edge of Seventeen",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21925075",
+    "imdb": "tt1878870",
+    "tmdb": 376660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-02",
+  "runtime_minutes": 102
+}

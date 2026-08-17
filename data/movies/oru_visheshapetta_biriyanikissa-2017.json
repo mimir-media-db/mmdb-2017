@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_visheshapetta_biriyanikissa_2017",
+  "title": "Oru Visheshapetta BiriyaniKissa",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29018077",
+    "imdb": "tt6688098",
+    "tmdb": 472046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-25"
+}

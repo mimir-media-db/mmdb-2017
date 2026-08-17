@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_nawariyan_2017",
+  "title": "Dr. Nawariyan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671258",
+    "imdb": "tt7730042",
+    "tmdb": 514417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-08"
+}

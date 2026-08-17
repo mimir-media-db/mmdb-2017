@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trespass_against_us_2017",
+  "title": "Trespass Against Us",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002648",
+    "imdb": "tt3305308",
+    "tmdb": 256569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 99
+}

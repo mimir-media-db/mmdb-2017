@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_counterfeiters_2017",
+  "title": "Counterfeiters",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672694",
+    "imdb": "tt6710772",
+    "tmdb": 502227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08",
+  "runtime_minutes": 73
+}

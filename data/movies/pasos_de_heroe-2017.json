@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pasos_de_heroe_2017",
+  "title": "Pasos de héroe",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42298785",
+    "imdb": "tt3588782",
+    "tmdb": 455302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-24",
+  "runtime_minutes": 92
+}

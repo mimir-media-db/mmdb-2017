@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mona_darling_2017",
+  "title": "Mona Darling",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28419461",
+    "imdb": "tt6094992",
+    "tmdb": 468513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-24"
+}

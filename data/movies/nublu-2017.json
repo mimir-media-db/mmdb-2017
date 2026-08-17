@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nublu_2017",
+  "title": "Nublu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41667769",
+    "imdb": "tt6598222",
+    "tmdb": 699292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-06"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_canaries_2017",
+  "title": "Canaries",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106205278",
+    "imdb": "tt4082644",
+    "tmdb": 461767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-26",
+  "runtime_minutes": 84
+}

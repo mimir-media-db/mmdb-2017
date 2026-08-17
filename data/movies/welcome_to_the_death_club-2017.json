@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_the_death_club_2017",
+  "title": "Welcome to the Death Club",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105319904",
+    "imdb": "tt7036616",
+    "tmdb": 497711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 11
+}

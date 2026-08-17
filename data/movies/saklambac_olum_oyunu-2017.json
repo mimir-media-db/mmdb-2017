@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_saklambac_olum_oyunu_2017",
+  "title": "Saklambaç: Ölüm Oyunu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33110026",
+    "imdb": "tt10392590"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-21"
+}

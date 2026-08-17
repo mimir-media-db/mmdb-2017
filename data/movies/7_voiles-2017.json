@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7_voiles_2017",
+  "title": "7 voiles",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119359345",
+    "imdb": "tt7290698",
+    "tmdb": 493826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

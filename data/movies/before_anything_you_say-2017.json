@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_anything_you_say_2017",
+  "title": "Before Anything You Say",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61851133",
+    "imdb": "tt5187532",
+    "tmdb": 547649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_yellow_boots_2017",
+  "title": "Little Yellow Boots",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107211340",
+    "imdb": "tt3798566",
+    "tmdb": 437011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

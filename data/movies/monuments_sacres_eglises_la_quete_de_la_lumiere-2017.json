@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monuments_sacres_eglises_la_quete_de_la_lumiere_2017",
+  "title": "Monuments sacrés - Églises : la quête de la lumière",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134732296",
+    "imdb": "tt9551594"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 89
+}

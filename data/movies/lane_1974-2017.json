@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lane_1974_2017",
+  "title": "Lane 1974",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117789235",
+    "imdb": "tt4135326",
+    "tmdb": 438461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-11",
+  "runtime_minutes": 79
+}

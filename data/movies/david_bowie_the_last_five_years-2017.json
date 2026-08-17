@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_david_bowie_the_last_five_years_2017",
+  "title": "David Bowie: The Last Five Years",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57080218",
+    "imdb": "tt6375308",
+    "tmdb": 430156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

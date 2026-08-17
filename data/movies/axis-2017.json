@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_axis_2017",
+  "title": "Axis",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672646",
+    "imdb": "tt4971346",
+    "tmdb": 392524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-07"
+}

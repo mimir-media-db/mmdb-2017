@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_photon_2017",
+  "title": "Photon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60408970",
+    "imdb": "tt4119208",
+    "tmdb": 455550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

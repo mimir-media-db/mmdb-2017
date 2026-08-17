@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scarred_hearts_2017",
+  "title": "Scarred Hearts",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26265464",
+    "imdb": "tt5204020",
+    "tmdb": 406535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-09",
+  "runtime_minutes": 141
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_luckunnodu_2017",
+  "title": "Luckunnodu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31499473",
+    "imdb": "tt6237548",
+    "tmdb": 440454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26"
+}

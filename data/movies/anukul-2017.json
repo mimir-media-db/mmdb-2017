@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anukul_2017",
+  "title": "Anukul",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42530131",
+    "imdb": "tt7493710",
+    "tmdb": 578435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-04"
+}

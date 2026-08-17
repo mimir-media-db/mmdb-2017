@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coin_operated_2017",
+  "title": "Coin Operated",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55607869",
+    "imdb": "tt6749332",
+    "tmdb": 486807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_erbarme_dich_matthaus_passion_stories_2017",
+  "title": "Erbarme dich -- Matthäus Passion Stories",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29052044",
+    "imdb": "tt4362388",
+    "tmdb": 319592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-13",
+  "runtime_minutes": 98
+}

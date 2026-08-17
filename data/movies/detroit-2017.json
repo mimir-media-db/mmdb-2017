@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_detroit_2017",
+  "title": "Detroit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27965056",
+    "imdb": "tt5390504",
+    "tmdb": 407448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04",
+  "runtime_minutes": 143
+}

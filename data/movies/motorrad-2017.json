@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_motorrad_2017",
+  "title": "Motorrad",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073892",
+    "imdb": "tt5958060",
+    "tmdb": 471445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-09"
+}

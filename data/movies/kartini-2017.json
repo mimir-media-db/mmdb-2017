@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kartini_2017",
+  "title": "Kartini",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28096386",
+    "imdb": "tt5882416",
+    "tmdb": 451899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-21",
+  "runtime_minutes": 122
+}

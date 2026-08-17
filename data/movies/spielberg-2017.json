@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spielberg_2017",
+  "title": "Spielberg",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41816257",
+    "imdb": "tt7133092",
+    "tmdb": 467062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-07",
+  "runtime_minutes": 147
+}

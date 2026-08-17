@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_summer_2017",
+  "title": "End of Summer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65659433",
+    "imdb": "tt5644394",
+    "tmdb": 491815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-01"
+}

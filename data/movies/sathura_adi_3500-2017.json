@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sathura_adi_3500_2017",
+  "title": "Sathura Adi 3500",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39049997",
+    "imdb": "tt7919786",
+    "tmdb": 469473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-04"
+}

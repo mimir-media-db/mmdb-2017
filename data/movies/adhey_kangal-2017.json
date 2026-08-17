@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adhey_kangal_2017",
+  "title": "Adhey Kangal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959473",
+    "imdb": "tt6348454",
+    "tmdb": 415669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-13"
+}

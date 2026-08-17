@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_kathmandu_the_adventures_of_nelly_simon_2017",
+  "title": "Mission Kathmandu: The Adventures of Nelly & Simon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50194189",
+    "imdb": "tt5433884",
+    "tmdb": 490694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-05",
+  "runtime_minutes": 80
+}

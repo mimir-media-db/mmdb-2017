@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_like_an_old_house_2017",
+  "title": "Like an old house",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56051802",
+    "imdb": "tt6785324",
+    "tmdb": 478640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-03"
+}

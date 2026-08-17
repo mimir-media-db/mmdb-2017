@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_def_comedy_jam_25_2017",
+  "title": "Def Comedy Jam 25",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65102075",
+    "imdb": "tt7427130",
+    "tmdb": 478054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-26"
+}

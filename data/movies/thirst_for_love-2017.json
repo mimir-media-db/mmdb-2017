@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thirst_for_love_2017",
+  "title": "Thirst for love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140753465",
+    "imdb": "tt5039912",
+    "tmdb": 1305986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-03",
+  "runtime_minutes": 108
+}

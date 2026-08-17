@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaalagandi_2017",
+  "title": "Kaalagandi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26252645",
+    "imdb": "tt6102396",
+    "tmdb": 468469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-21"
+}

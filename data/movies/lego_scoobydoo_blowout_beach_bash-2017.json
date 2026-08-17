@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lego_scoobydoo_blowout_beach_bash_2017",
+  "title": "Lego Scooby-Doo! Blowout Beach Bash",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30101324",
+    "imdb": "tt6946580",
+    "tmdb": 461054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-25",
+  "runtime_minutes": 77
+}

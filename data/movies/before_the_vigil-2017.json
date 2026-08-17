@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_vigil_2017",
+  "title": "Before the Vigil",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56452466",
+    "imdb": "tt2215466",
+    "tmdb": 213908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

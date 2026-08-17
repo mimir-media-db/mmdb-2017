@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desierto_2017",
+  "title": "Desierto",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21076281",
+    "imdb": "tt3147312",
+    "tmdb": 258363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-20",
+  "runtime_minutes": 94
+}

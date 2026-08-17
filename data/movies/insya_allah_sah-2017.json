@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_insya_allah_sah_2017",
+  "title": "Insya Allah Sah",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31174329",
+    "imdb": "tt7088210",
+    "tmdb": 460574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-25"
+}

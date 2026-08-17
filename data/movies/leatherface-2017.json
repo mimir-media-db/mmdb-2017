@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leatherface_2017",
+  "title": "Leatherface",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20026854",
+    "imdb": "tt2620590",
+    "tmdb": 300665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-20",
+  "runtime_minutes": 110
+}

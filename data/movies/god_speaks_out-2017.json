@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_speaks_out_2017",
+  "title": "God Speaks Out",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28529502",
+    "imdb": "tt6227148",
+    "tmdb": 460199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-21",
+  "runtime_minutes": 90
+}

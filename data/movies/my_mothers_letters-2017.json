@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mothers_letters_2017",
+  "title": "My Mother's Letters",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132903950",
+    "imdb": "tt8336218"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-17",
+  "runtime_minutes": 87
+}

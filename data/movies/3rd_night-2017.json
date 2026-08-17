@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3rd_night_2017",
+  "title": "3rd Night",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28912379",
+    "imdb": "tt5980242",
+    "tmdb": 464752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-26",
+  "runtime_minutes": 72
+}

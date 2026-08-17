@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_667_2017",
+  "title": "667",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61110822",
+    "imdb": "tt7611096",
+    "tmdb": 686285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

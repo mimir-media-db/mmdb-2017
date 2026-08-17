@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_national_theatre_live_angels_in_america_part_one_millennium_approaches_2017",
+  "title": "National Theatre Live: Angels in America Part One - Millennium Approaches",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136757845",
+    "imdb": "tt6846664",
+    "tmdb": 444459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-20",
+  "runtime_minutes": 235
+}

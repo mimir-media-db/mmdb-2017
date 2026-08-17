@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_like_a_pebble_in_the_boot_2017",
+  "title": "Like a Pebble in the Boot",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055333",
+    "imdb": "tt6793852"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 70
+}

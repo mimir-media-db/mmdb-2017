@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_kiets_children_2017",
+  "title": "Miss Kiet’s Children",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43432396",
+    "imdb": "tt6192878",
+    "tmdb": 424188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07",
+  "runtime_minutes": 115
+}

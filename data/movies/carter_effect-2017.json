@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carter_effect_2017",
+  "title": "The Carter Effect",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56045029",
+    "imdb": "tt7284952",
+    "tmdb": 475013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

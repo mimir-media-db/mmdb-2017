@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valerian_and_the_city_of_a_thousand_planets_2017",
+  "title": "Valérian and the City of a Thousand Planets",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20926273",
+    "imdb": "tt2239822",
+    "tmdb": 339964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-20",
+  "runtime_minutes": 137
+}

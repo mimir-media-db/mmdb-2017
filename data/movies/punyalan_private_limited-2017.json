@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punyalan_private_limited_2017",
+  "title": "Punyalan Private Limited",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39056668",
+    "imdb": "tt6921302",
+    "tmdb": 471754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-17"
+}

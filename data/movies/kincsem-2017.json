@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kincsem_2017",
+  "title": "Kincsem",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28974159",
+    "imdb": "tt4964310",
+    "tmdb": 447236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-16",
+  "runtime_minutes": 122
+}

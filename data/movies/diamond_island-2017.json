@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diamond_island_2017",
+  "title": "Diamond Island",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25218457",
+    "imdb": "tt5689590",
+    "tmdb": 396253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-19",
+  "runtime_minutes": 103
+}

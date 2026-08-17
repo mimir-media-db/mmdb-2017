@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_swapping_2017",
+  "title": "The Day of Swapping",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840731",
+    "imdb": "tt7331908",
+    "tmdb": 538751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-10"
+}

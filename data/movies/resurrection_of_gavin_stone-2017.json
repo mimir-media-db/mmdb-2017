@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resurrection_of_gavin_stone_2017",
+  "title": "The Resurrection of Gavin Stone",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26252640",
+    "imdb": "tt4902904",
+    "tmdb": 422114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 92
+}

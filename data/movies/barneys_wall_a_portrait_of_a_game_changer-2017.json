@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barneys_wall_a_portrait_of_a_game_changer_2017",
+  "title": "Barney's Wall: A Portrait of a Game Changer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64584604",
+    "imdb": "tt7746926",
+    "tmdb": 598378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

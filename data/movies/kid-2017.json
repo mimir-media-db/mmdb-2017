@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kid_2017",
+  "title": "A Kid",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26689406",
+    "imdb": "tt4741708",
+    "tmdb": 382503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-14",
+  "runtime_minutes": 98
+}

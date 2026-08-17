@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_10_days_in_sun_city_2017",
+  "title": "10 Days in Sun City",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51756477",
+    "imdb": "tt10499474",
+    "tmdb": 471872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-17"
+}

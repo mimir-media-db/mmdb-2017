@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_high_low_the_movie_3_final_mission_2017",
+  "title": "High & Low the Movie 3: Final Mission",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56302270",
+    "imdb": "tt7624932",
+    "tmdb": 525831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

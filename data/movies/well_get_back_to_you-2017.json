@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_well_get_back_to_you_2017",
+  "title": "We'll Get Back to You",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29022411",
+    "imdb": "tt6559642",
+    "tmdb": 450456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-13"
+}

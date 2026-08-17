@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_last_days_of_the_city_2017",
+  "title": "In the Last Days of the City",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22915180",
+    "imdb": "tt5424898",
+    "tmdb": 381722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-07",
+  "runtime_minutes": 118
+}

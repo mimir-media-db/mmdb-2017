@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_step_behind_the_seraphim_2017",
+  "title": "One Step Behind the Seraphim",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44876066",
+    "imdb": "tt5335314",
+    "tmdb": 449752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22"
+}

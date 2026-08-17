@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_athisayangalude_venal_2017",
+  "title": "Athisayangalude Venal",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65320626",
+    "imdb": "tt7491826",
+    "tmdb": 485084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-13",
+  "runtime_minutes": 117
+}

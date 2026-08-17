@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_founder_2017",
+  "title": "The Founder",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20031748",
+    "imdb": "tt4276820",
+    "tmdb": 310307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 115
+}

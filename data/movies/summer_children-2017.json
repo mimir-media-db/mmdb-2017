@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_children_2017",
+  "title": "Summer Children",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110184522",
+    "imdb": "tt6044548",
+    "tmdb": 484817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-13"
+}

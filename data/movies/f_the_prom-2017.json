@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_f_the_prom_2017",
+  "title": "F the Prom",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44491954",
+    "imdb": "tt5612742",
+    "tmdb": 487702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-05",
+  "runtime_minutes": 92
+}

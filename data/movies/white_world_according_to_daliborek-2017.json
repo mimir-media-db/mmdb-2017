@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_world_according_to_daliborek_2017",
+  "title": "The White World According to Daliborek",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46078989",
+    "imdb": "tt7086512",
+    "tmdb": 465450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-13",
+  "runtime_minutes": 105
+}

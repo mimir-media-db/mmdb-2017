@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neko_atsume_no_ie_2017",
+  "title": "Neko atsume no ie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28687278",
+    "imdb": "tt6227846",
+    "tmdb": 436816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-08"
+}

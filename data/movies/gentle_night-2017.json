@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentle_night_2017",
+  "title": "A Gentle Night",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30333309",
+    "imdb": "tt7003952",
+    "tmdb": 457221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-27",
+  "runtime_minutes": 15
+}

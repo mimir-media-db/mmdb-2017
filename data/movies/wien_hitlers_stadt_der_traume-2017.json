@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wien_hitlers_stadt_der_traume_2017",
+  "title": "Wien - Hitlers Stadt der Träume",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643475",
+    "imdb": "tt7105010"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 50
+}

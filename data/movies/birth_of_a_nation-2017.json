@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_of_a_nation_2017",
+  "title": "The Birth of a Nation",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022670",
+    "imdb": "tt4196450",
+    "tmdb": 339408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-13",
+  "runtime_minutes": 110
+}

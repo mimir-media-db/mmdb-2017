@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kathalo_rajakumari_2017",
+  "title": "Kathalo Rajakumari",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646598",
+    "imdb": "tt7111614",
+    "tmdb": 476850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-15"
+}

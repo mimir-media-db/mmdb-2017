@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_bus_2017",
+  "title": "Night Bus",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56389759",
+    "imdb": "tt6574480",
+    "tmdb": 486579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 139
+}

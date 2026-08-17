@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_in_bodrum_2017",
+  "title": "A Night in Bodrum",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29572005",
+    "imdb": "tt6697556",
+    "tmdb": 564973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-28",
+  "runtime_minutes": 93
+}

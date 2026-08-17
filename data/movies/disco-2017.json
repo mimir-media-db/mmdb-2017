@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disco_2017",
+  "title": "Disco",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112749945",
+    "imdb": "tt7401540",
+    "tmdb": 494323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-14"
+}

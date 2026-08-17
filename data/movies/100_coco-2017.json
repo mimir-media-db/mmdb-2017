@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_100_coco_2017",
+  "title": "100% Coco",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38053095",
+    "imdb": "tt5803528",
+    "tmdb": 461590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-01"
+}

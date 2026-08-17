@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_heavenly_2017",
+  "title": "I Love You Heavenly",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27097613",
+    "imdb": "tt5736290",
+    "tmdb": 476144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26",
+  "runtime_minutes": 90
+}

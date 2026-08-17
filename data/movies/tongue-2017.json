@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tongue_2017",
+  "title": "Tongue",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81889742",
+    "imdb": "tt6617252"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

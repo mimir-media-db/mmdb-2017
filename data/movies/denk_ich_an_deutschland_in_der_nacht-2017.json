@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_denk_ich_an_deutschland_in_der_nacht_2017",
+  "title": "Denk ich an Deutschland in der Nacht",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29563831",
+    "imdb": "tt6620260",
+    "tmdb": 440267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-11",
+  "runtime_minutes": 105
+}

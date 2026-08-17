@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_just_live_in_bando_2017",
+  "title": "I'll Just Live in Bando",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55737099",
+    "imdb": "tt7031862",
+    "tmdb": 464902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-12"
+}

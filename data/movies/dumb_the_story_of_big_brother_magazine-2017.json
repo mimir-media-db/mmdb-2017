@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dumb_the_story_of_big_brother_magazine_2017",
+  "title": "Dumb: The Story of Big Brother Magazine",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42531263",
+    "imdb": "tt6794450",
+    "tmdb": 453053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-13",
+  "runtime_minutes": 79
+}

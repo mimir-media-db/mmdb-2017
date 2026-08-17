@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_with_jikji_2017",
+  "title": "Dancing with Jikji",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61095126",
+    "tmdb": 455421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

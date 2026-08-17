@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reys_education_2017",
+  "title": "Rey's Education",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101405882",
+    "imdb": "tt6107102",
+    "tmdb": 417431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 103
+}

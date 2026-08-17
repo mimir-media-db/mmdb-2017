@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daughters_of_destiny_2017",
+  "title": "Daughters of Destiny",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24577634",
+    "imdb": "tt1877895"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-28",
+  "runtime_minutes": 60
+}

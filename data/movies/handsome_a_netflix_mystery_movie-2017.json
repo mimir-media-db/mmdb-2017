@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_handsome_a_netflix_mystery_movie_2017",
+  "title": "Handsome: A Netflix Mystery Movie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29259063",
+    "imdb": "tt5809020",
+    "tmdb": 402582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-05",
+  "runtime_minutes": 81
+}

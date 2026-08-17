@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_person_to_person_2017",
+  "title": "Person to Person",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350758",
+    "imdb": "tt5247026",
+    "tmdb": 386623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 84
+}

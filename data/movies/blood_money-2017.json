@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_money_2017",
+  "title": "Blood Money",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672700",
+    "imdb": "tt3758852",
+    "tmdb": 422821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-13",
+  "runtime_minutes": 100
+}

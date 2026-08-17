@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullyparade_der_film_2017",
+  "title": "Bullyparade – Der Film",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24262605",
+    "imdb": "tt5538704",
+    "tmdb": 393575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-17",
+  "runtime_minutes": 100
+}

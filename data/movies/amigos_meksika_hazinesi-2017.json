@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_amigos_meksika_hazinesi_2017",
+  "title": "Amigos Meksika Hazinesi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34559707",
+    "tmdb": 1643630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-11"
+}

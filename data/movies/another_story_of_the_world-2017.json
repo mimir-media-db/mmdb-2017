@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_story_of_the_world_2017",
+  "title": "Another Story of the World",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35695819",
+    "imdb": "tt7069148",
+    "tmdb": 466645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-07-20",
+  "runtime_minutes": 105
+}

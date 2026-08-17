@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doll_fucking_movie_2017",
+  "title": "The Doll Fucking Movie",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55497446",
+    "imdb": "tt7352904",
+    "tmdb": 798443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-01",
+  "runtime_minutes": 40
+}

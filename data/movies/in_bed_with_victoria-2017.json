@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_bed_with_victoria_2017",
+  "title": "In Bed with Victoria",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23925076",
+    "imdb": "tt5078214",
+    "tmdb": 377275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-04",
+  "runtime_minutes": 97
+}

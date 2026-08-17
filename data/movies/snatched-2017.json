@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snatched_2017",
+  "title": "Snatched",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24806681",
+    "imdb": "tt2334871",
+    "tmdb": 373569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-11",
+  "runtime_minutes": 97
+}

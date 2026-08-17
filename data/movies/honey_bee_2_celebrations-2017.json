@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honey_bee_2_celebrations_2017",
+  "title": "Honey Bee 2: Celebrations",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27963047",
+    "imdb": "tt6244876",
+    "tmdb": 439613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23"
+}

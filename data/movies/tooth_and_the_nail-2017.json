@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tooth_and_the_nail_2017",
+  "title": "The Tooth and the Nail",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27951910",
+    "imdb": "tt7479314",
+    "tmdb": 452714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-09"
+}

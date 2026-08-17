@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_judd_apatow_the_return_2017",
+  "title": "Judd Apatow: The Return",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65102078",
+    "imdb": "tt7738550",
+    "tmdb": 487156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-12"
+}

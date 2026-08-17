@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zazy_2017",
+  "title": "Zazy",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28865286",
+    "imdb": "tt4517450",
+    "tmdb": 450352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 104
+}

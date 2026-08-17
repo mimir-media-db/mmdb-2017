@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_hunter_2017",
+  "title": "The Tiger Hunter",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20720837",
+    "imdb": "tt3853830",
+    "tmdb": 353570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-22",
+  "runtime_minutes": 94
+}

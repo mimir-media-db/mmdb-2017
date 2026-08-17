@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wilson_2017",
+  "title": "Wilson",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20650048",
+    "imdb": "tt1781058",
+    "tmdb": 346681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-03",
+  "runtime_minutes": 101
+}

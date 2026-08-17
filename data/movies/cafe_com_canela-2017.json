@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cafe_com_canela_2017",
+  "title": "Café com Canela",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61672556",
+    "imdb": "tt7414162",
+    "tmdb": 469915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-18",
+  "runtime_minutes": 102
+}

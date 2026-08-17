@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7th_century_before_birth_2017",
+  "title": "7th Century Before Birth",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66753138",
+    "imdb": "tt7007914"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 55
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oxygen_2017",
+  "title": "Oxygen",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23647127",
+    "imdb": "tt6735678",
+    "tmdb": 482477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-30",
+  "runtime_minutes": 157
+}

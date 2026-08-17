@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_korper_der_astronauten_2017",
+  "title": "Die Körper der Astronauten",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137708732",
+    "imdb": "tt5145366",
+    "tmdb": 503609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 75
+}

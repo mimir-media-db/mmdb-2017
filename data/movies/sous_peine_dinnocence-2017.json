@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sous_peine_dinnocence_2017",
+  "title": "Sous peine d'innocence",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101570990",
+    "imdb": "tt6562614",
+    "tmdb": 593342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-01",
+  "runtime_minutes": 94
+}

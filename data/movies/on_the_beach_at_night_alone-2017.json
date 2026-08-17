@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_beach_at_night_alone_2017",
+  "title": "On the Beach at Night Alone",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28193328",
+    "imdb": "tt6412864",
+    "tmdb": 434773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-16",
+  "runtime_minutes": 101
+}

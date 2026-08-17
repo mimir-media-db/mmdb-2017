@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_those_longhaired_nights_2017",
+  "title": "Those Long-Haired Nights",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61672515",
+    "imdb": "tt7671450",
+    "tmdb": 481060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-15",
+  "runtime_minutes": 72
+}

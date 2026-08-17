@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_seema_na_akase_2017",
+  "title": "Seema Na Akase",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39050877",
+    "imdb": "tt7637322"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-10"
+}

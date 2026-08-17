@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_q82_2017",
+  "title": "Back to Q82",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68167652",
+    "imdb": "tt6225842",
+    "tmdb": 545380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 105
+}

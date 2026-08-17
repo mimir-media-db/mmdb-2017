@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flock_of_four_2017",
+  "title": "Flock of Four",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60177215",
+    "imdb": "tt6060208",
+    "tmdb": 484867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

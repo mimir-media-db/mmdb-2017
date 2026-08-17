@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_arousers_2017",
+  "title": "The Arousers",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31177662",
+    "tmdb": 490143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-22"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_imfura_2017",
+  "title": "Imfura",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245303",
+    "imdb": "tt8055646",
+    "tmdb": 504985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

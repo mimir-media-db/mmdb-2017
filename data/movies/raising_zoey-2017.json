@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raising_zoey_2017",
+  "title": "Raising Zoey",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125870334",
+    "imdb": "tt5575256",
+    "tmdb": 466774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 54
+}

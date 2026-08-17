@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_easy_living_2017",
+  "title": "Easy Living",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108208195",
+    "imdb": "tt5067958",
+    "tmdb": 438459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

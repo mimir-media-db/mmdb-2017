@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_julieta_2017",
+  "title": "Julieta",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20026867",
+    "imdb": "tt4326444",
+    "tmdb": 332872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-04",
+  "runtime_minutes": 99
+}

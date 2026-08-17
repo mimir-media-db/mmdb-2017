@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karakum_2017",
+  "title": "Karakum",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649934",
+    "imdb": "tt0107306",
+    "tmdb": 289993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-12",
+  "runtime_minutes": 101
+}

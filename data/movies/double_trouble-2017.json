@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_trouble_2017",
+  "title": "Double Trouble",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19269903",
+    "imdb": "tt6737834",
+    "tmdb": 476439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-15",
+  "runtime_minutes": 85
+}

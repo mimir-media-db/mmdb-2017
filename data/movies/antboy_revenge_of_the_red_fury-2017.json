@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antboy_revenge_of_the_red_fury_2017",
+  "title": "Antboy: Revenge of the Red Fury",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20202215",
+    "imdb": "tt3606698",
+    "tmdb": 314285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-29",
+  "runtime_minutes": 90
+}

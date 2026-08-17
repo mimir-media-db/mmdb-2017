@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_only_the_end_of_the_world_2017",
+  "title": "It's Only the End of the World",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19885882",
+    "imdb": "tt4645368",
+    "tmdb": 338189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-19",
+  "runtime_minutes": 97
+}

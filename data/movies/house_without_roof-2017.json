@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_without_roof_2017",
+  "title": "House Without Roof",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26836957",
+    "imdb": "tt5970290",
+    "tmdb": 402896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-31",
+  "runtime_minutes": 117
+}

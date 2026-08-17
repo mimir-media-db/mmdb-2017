@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bring_it_on_worldwide_cheersmack_2017",
+  "title": "Bring It On: Worldwide #Cheersmack",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47500692",
+    "imdb": "tt7014110",
+    "tmdb": 467248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-29",
+  "runtime_minutes": 95
+}

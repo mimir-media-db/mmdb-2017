@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_epic_sessions_2017",
+  "title": "The American Epic Sessions",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47064145",
+    "imdb": "tt6140044",
+    "tmdb": 381078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-06"
+}

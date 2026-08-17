@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_xtc_this_is_pop_2017",
+  "title": "XTC: This Is Pop",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59329013",
+    "imdb": "tt7465694",
+    "tmdb": 479892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closeknit_2017",
+  "title": "Close-Knit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28687720",
+    "imdb": "tt5633706",
+    "tmdb": 428733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-10",
+  "runtime_minutes": 127
+}

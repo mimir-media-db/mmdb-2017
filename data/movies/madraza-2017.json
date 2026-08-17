@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madraza_2017",
+  "title": "Madraza",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29110121",
+    "imdb": "tt2520046",
+    "tmdb": 458842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-25",
+  "runtime_minutes": 93
+}

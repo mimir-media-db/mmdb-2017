@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_called_memory_2017",
+  "title": "A Hotel Called Memory",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725575",
+    "imdb": "tt9160112",
+    "tmdb": 572035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-19",
+  "runtime_minutes": 49
+}

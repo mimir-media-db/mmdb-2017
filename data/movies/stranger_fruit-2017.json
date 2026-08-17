@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stranger_fruit_2017",
+  "title": "Stranger Fruit",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56291946",
+    "imdb": "tt6642264",
+    "tmdb": 438481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

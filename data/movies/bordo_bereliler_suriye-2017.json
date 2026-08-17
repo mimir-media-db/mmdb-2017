@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bordo_bereliler_suriye_2017",
+  "title": "Bordo Bereliler: Suriye",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29183506",
+    "imdb": "tt7380574",
+    "tmdb": 468956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-04-07"
+}

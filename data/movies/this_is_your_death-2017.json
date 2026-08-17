@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_your_death_2017",
+  "title": "This Is Your Death",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350848",
+    "imdb": "tt2088950",
+    "tmdb": 375098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-11"
+}

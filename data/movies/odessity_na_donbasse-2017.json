@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_odessity_na_donbasse_2017",
+  "title": "Odessity na Donbasse",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573971",
+    "imdb": "tt7927424",
+    "tmdb": 920094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-08"
+}

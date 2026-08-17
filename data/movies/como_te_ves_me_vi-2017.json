@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_como_te_ves_me_vi_2017",
+  "title": "Como te ves me vi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77895508",
+    "imdb": "tt4387532",
+    "tmdb": 496468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

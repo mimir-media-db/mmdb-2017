@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blank_13_2017",
+  "title": "Blank 13",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56347452",
+    "imdb": "tt6640390",
+    "tmdb": 461352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

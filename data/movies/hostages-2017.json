@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hostages_2017",
+  "title": "Hostages",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47461797",
+    "imdb": "tt13110154",
+    "tmdb": 530279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-07",
+  "runtime_minutes": 95
+}

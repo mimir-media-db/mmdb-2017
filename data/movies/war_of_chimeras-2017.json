@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_of_chimeras_2017",
+  "title": "The War of Chimeras",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37788354",
+    "imdb": "tt6702956",
+    "tmdb": 474203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23",
+  "runtime_minutes": 94
+}

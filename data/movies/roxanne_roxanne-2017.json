@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roxanne_roxanne_2017",
+  "title": "Roxanne Roxanne",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28148408",
+    "imdb": "tt5796838",
+    "tmdb": 426257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-22",
+  "runtime_minutes": 100
+}

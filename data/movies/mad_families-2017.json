@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_families_2017",
+  "title": "Mad Families",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28287781",
+    "imdb": "tt6086080",
+    "tmdb": 431071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 90
+}

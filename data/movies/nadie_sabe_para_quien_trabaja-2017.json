@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nadie_sabe_para_quien_trabaja_2017",
+  "title": "Nadie sabe para quién trabaja",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56266782",
+    "imdb": "tt7939564",
+    "tmdb": 493557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

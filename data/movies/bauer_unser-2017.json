@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bauer_unser_2017",
+  "title": "Bauer unser",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27038252",
+    "imdb": "tt4915946",
+    "tmdb": 423011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23",
+  "runtime_minutes": 92
+}

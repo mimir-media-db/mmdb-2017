@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meda_or_the_not_so_bright_side_of_things_2017",
+  "title": "Meda or the Not So Bright Side of Things",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98804318",
+    "imdb": "tt7165426",
+    "tmdb": 471762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-08-15",
+  "runtime_minutes": 82
+}

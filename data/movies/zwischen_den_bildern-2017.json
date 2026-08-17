@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_zwischen_den_bildern_2017",
+  "title": "Zwischen den Bildern",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62128202"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-13",
+  "runtime_minutes": 70
+}

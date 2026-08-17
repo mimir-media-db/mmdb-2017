@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gen_hi8_2017",
+  "title": "Gen Hi8",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123502278",
+    "imdb": "tt10448578",
+    "tmdb": 936795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 75
+}

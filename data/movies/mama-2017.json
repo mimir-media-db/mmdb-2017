@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mama_2017",
+  "title": "Mamá",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61893456",
+    "imdb": "tt6978310",
+    "tmdb": 420302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

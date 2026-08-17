@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sultana_bibiana_2017",
+  "title": "Sultana Bibiana",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53554711",
+    "imdb": "tt6751046",
+    "tmdb": 1032028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-31"
+}

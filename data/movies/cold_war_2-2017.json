@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_war_2_2017",
+  "title": "Cold War 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24731518",
+    "imdb": "tt5112622",
+    "tmdb": 416249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-10",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kirdaresardar_2017",
+  "title": "Kirdar-E-Sardar",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671174",
+    "imdb": "tt7920444",
+    "tmdb": 517294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-01"
+}

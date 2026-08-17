@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_facing_darkness_2017",
+  "title": "Facing Darkness",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28848480",
+    "imdb": "tt5835100",
+    "tmdb": 449948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-30",
+  "runtime_minutes": 93
+}

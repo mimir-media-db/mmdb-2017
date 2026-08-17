@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_basmati_blues_2017",
+  "title": "Basmati Blues",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15053900",
+    "imdb": "tt1131728",
+    "tmdb": 271715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-05",
+  "runtime_minutes": 106
+}

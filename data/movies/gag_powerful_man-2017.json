@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gag_powerful_man_2017",
+  "title": "Gag Powerful Man",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31178453",
+    "tmdb": 448834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_be_blue_2017",
+  "title": "Born to Be Blue",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20755772",
+    "imdb": "tt2133196",
+    "tmdb": 327528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-08",
+  "runtime_minutes": 97
+}

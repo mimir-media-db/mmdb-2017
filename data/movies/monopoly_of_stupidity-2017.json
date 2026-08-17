@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monopoly_of_stupidity_2017",
+  "title": "The monopoly of stupidity",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140673948",
+    "imdb": "tt6820180",
+    "tmdb": 1108879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 20
+}

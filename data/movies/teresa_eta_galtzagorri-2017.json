@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teresa_eta_galtzagorri_2017",
+  "title": "Teresa eta Galtzagorri",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70575479",
+    "imdb": "tt6447022",
+    "tmdb": 438591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-03",
+  "runtime_minutes": 72
+}

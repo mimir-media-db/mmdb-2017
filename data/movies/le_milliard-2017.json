@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_milliard_2017",
+  "title": "Le Milliard",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64691529",
+    "imdb": "tt7144670"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

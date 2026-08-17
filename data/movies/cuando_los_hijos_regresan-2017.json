@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cuando_los_hijos_regresan_2017",
+  "title": "Cuando los hijos regresan",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77903930",
+    "imdb": "tt3281920",
+    "tmdb": 484150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

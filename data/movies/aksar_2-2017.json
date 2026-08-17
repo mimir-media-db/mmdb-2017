@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aksar_2_2017",
+  "title": "Aksar 2",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590070",
+    "imdb": "tt5784860",
+    "tmdb": 473014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-06"
+}

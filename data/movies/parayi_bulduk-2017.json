@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parayi_bulduk_2017",
+  "title": "Parayi Bulduk",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45602638",
+    "imdb": "tt7642890",
+    "tmdb": 491941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-29",
+  "runtime_minutes": 88
+}

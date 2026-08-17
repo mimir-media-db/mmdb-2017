@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_getting_started_2017",
+  "title": "Just Getting Started",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27701445",
+    "imdb": "tt5721088",
+    "tmdb": 398177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-08",
+  "runtime_minutes": 91
+}

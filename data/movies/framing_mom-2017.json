@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_framing_mom_2017",
+  "title": "Framing Mom",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26822340",
+    "imdb": "tt5044332",
+    "tmdb": 414268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-05-25",
+  "runtime_minutes": 94
+}

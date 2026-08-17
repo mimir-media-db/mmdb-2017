@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_42_grams_2017",
+  "title": "42 Grams",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105013856",
+    "imdb": "tt4760186",
+    "tmdb": 471949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 82
+}

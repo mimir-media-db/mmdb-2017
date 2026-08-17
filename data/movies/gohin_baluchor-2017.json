@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gohin_baluchor_2017",
+  "title": "Gohin Baluchor",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39926641",
+    "imdb": "tt6520926",
+    "tmdb": 499567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-29"
+}

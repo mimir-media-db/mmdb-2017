@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ash_lad_in_the_hall_of_the_mountain_king_2017",
+  "title": "The Ash Lad in the Hall of the Mountain King",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43231040",
+    "imdb": "tt5628418",
+    "tmdb": 444090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-29",
+  "runtime_minutes": 104
+}

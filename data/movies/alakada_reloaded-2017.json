@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alakada_reloaded_2017",
+  "title": "Alakada Reloaded",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894394",
+    "imdb": "tt13275228",
+    "tmdb": 678893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_of_the_killer_donuts_2017",
+  "title": "Attack of the Killer Donuts",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29075113",
+    "imdb": "tt4480398",
+    "tmdb": 400649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 78
+}

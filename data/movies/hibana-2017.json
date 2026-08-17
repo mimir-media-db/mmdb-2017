@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hibana_2017",
+  "title": "Hibana",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110210693",
+    "imdb": "tt6538416",
+    "tmdb": 448306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-11-23"
+}

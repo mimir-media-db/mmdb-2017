@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tremble_all_you_want_2017",
+  "title": "Tremble All You Want",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96050417",
+    "imdb": "tt6782708",
+    "tmdb": 479255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-12-23",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_of_the_dragon_2017",
+  "title": "Birth of the Dragon",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527490",
+    "imdb": "tt2720826",
+    "tmdb": 408266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-09-08",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kung_fu_yoga_2017",
+  "title": "Kung Fu Yoga",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961444",
+    "imdb": "tt4217392",
+    "tmdb": 383785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-26",
+  "runtime_minutes": 140
+}

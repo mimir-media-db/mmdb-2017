@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rappelletoi_2017",
+  "title": "Rappelle-toi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30742401",
+    "imdb": "tt6693016",
+    "tmdb": 448559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-23",
+  "runtime_minutes": 89
+}

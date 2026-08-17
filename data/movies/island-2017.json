@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_island_2017",
+  "title": "Island",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61672500",
+    "imdb": "tt7321266",
+    "tmdb": 510839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-10-07",
+  "runtime_minutes": 90
+}

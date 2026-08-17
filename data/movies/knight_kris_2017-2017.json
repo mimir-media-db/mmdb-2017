@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knight_kris_2017_2017",
+  "title": "Knight Kris 2017",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63614974",
+    "imdb": "tt7765974",
+    "tmdb": 483305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

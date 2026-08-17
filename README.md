@@ -1,2 +1,3 @@
-# mmdb-2017
-MMDB 2017 — Movies and series from 2017
+# MMDB — 2017
+
+Movies and series released in 2017.

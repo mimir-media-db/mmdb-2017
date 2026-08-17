@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_an_arctic_sky_2017",
+  "title": "Under an Arctic Sky",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45752224",
+    "imdb": "tt6680858",
+    "tmdb": 469108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 39
+}

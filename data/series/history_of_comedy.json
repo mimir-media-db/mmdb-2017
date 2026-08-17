@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_history_of_comedy",
+  "title": "The History of Comedy",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q39048684",
+    "imdb": "tt5737466",
+    "tmdb": 73192
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

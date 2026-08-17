@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hot_date",
+  "title": "Hot Date",
+  "start_year": 2017,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48800015",
+    "imdb": "tt7603386",
+    "tmdb": 75951
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

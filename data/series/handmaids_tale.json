@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_handmaids_tale",
+  "title": "The Handmaid's Tale",
+  "start_year": 2017,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q25207350",
+    "imdb": "tt5834204",
+    "tmdb": 69478
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 66
+}

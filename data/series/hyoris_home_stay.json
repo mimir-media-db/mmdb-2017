@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hyoris_home_stay",
+  "title": "Hyori's Home Stay",
+  "start_year": 2017,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30590269",
+    "imdb": "tt7997214",
+    "tmdb": 72763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hetisingewikkeld",
+  "title": "#hetisingewikkeld",
+  "start_year": 2017,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q42109614",
+    "imdb": "tt7328194",
+    "tmdb": 122958
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

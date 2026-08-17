@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_sisters",
+  "title": "Happy Sisters",
+  "start_year": 2017,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q43283497",
+    "imdb": "tt7795286",
+    "tmdb": 75455
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peregrinacao_2017",
+  "title": "Peregrinação",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48877771",
+    "imdb": "tt6697634",
+    "tmdb": 468727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

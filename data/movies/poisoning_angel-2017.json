@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poisoning_angel_2017",
+  "title": "The Poisoning Angel",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28497217",
+    "imdb": "tt5286250",
+    "tmdb": 428226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 100
+}

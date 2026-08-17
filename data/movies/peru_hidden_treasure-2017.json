@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peru_hidden_treasure_2017",
+  "title": "Peru: Hidden Treasure",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302278",
+    "imdb": "tt7679306",
+    "tmdb": 495843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 80
+}

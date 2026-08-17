@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parrot_heads_2017",
+  "title": "Parrot Heads",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50314116",
+    "imdb": "tt4841610",
+    "tmdb": 430966
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

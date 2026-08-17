@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pup_star_better_2gether_2017",
+  "title": "Pup Star: Better 2Gether",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45321340",
+    "imdb": "tt6357074",
+    "tmdb": 469922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 92
+}

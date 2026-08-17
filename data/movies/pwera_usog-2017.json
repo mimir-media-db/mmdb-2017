@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pwera_usog_2017",
+  "title": "Pwera Usog",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55393209",
+    "imdb": "tt6582784",
+    "tmdb": 445778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

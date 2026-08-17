@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pretty_far_from_okay_2017",
+  "title": "Pretty Far from Okay",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28945792",
+    "imdb": "tt5252564",
+    "tmdb": 432660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 86
+}

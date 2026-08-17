@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_partners_the_movie_iv_2017",
+  "title": "Partners: The Movie IV",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28686965",
+    "imdb": "tt5738264",
+    "tmdb": 456643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puppet_master_axis_termination_2017",
+  "title": "Puppet Master: Axis Termination",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302284",
+    "imdb": "tt5257554",
+    "tmdb": 384978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

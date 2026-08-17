@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pipe_the_sex_the_omelette_2017",
+  "title": "The pipe, the sex & the omelette",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44871442",
+    "imdb": "tt6290746",
+    "tmdb": 1269219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

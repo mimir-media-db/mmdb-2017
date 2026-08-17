@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aake_2017",
+  "title": "Aake",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30608891",
+    "imdb": "tt6395782",
+    "tmdb": 552375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

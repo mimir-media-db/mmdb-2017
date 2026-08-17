@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_epic_2017",
+  "title": "American Epic",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674703",
+    "imdb": "tt4587946"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 310
+}

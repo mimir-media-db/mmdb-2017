@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_auer_2017",
+  "title": "Auer",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28584549",
+    "imdb": "tt6391168",
+    "tmdb": 572507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

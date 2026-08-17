@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ang_panday_2017",
+  "title": "Ang Panday",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39070160",
+    "imdb": "tt6947630",
+    "tmdb": 494971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 128
+}

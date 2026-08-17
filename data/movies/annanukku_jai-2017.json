@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_annanukku_jai_2017",
+  "title": "Annanukku Jai",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958226",
+    "imdb": "tt7023452",
+    "tmdb": 66534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

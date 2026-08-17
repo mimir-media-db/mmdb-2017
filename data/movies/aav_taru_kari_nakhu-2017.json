@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aav_taru_kari_nakhu_2017",
+  "title": "Aav Taru Kari Nakhu",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30642134",
+    "imdb": "tt6796284",
+    "tmdb": 534026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

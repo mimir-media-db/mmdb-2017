@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_am_tag_die_sterne_2017",
+  "title": "Am Tag die Sterne",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55339920",
+    "imdb": "tt6134212",
+    "tmdb": 484843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

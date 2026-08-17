@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_and_then_there_was_eve_2017",
+  "title": "And Then There Was Eve",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35775375",
+    "imdb": "tt4795730",
+    "tmdb": 460089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_addio_fottuti_musi_verdi_2017",
+  "title": "Addio Fottuti Musi Verdi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303264",
+    "imdb": "tt7512574",
+    "tmdb": 469876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alley_cat_2017",
+  "title": "Alley Cat",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28690358",
+    "imdb": "tt6347492",
+    "tmdb": 461215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

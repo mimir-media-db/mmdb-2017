@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_that_divides_us_2017",
+  "title": "All That Divides Us",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494450",
+    "imdb": "tt5825052",
+    "tmdb": 432614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

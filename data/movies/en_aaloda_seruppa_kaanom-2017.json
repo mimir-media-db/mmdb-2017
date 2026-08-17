@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_aaloda_seruppa_kaanom_2017",
+  "title": "En Aaloda Seruppa Kaanom",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832055",
+    "imdb": "tt7088050",
+    "tmdb": 456296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

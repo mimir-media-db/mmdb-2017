@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elephant_king_2017",
+  "title": "The Elephant King",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48911617",
+    "imdb": "tt6355328",
+    "tmdb": 565235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

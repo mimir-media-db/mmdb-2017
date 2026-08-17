@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_room_2017",
+  "title": "Escape Room",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39843662",
+    "imdb": "tt5159414",
+    "tmdb": 449664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 81
+}

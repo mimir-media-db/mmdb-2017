@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_expo_67_mission_impossible_2017",
+  "title": "Expo 67 Mission Impossible",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48780876",
+    "imdb": "tt7066156",
+    "tmdb": 457034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ein_lacheln_nachts_um_vier_2017",
+  "title": "Ein Lächeln nachts um vier",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45322621",
+    "imdb": "tt6586440",
+    "tmdb": 492390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 90
+}

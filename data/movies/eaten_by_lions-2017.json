@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eaten_by_lions_2017",
+  "title": "Eaten by Lions",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30612315",
+    "imdb": "tt6809094",
+    "tmdb": 525906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

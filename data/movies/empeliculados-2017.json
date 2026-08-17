@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_empeliculados_2017",
+  "title": "Empeliculados",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56243656",
+    "imdb": "tt6693070",
+    "tmdb": 470452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 95
+}

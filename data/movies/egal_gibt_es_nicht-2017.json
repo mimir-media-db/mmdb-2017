@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_egal_gibt_es_nicht_2017",
+  "title": "Egal gibt es nicht",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47186667",
+    "tmdb": 486693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

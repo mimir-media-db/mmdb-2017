@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exodus_1826_2017",
+  "title": "Exodus 1826",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28758400",
+    "imdb": "tt6443138",
+    "tmdb": 439615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quartette_2017",
+  "title": "The Quartette",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21685585",
+    "imdb": "tt5785016",
+    "tmdb": 481249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 89
+}

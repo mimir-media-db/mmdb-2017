@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ottamuri_velicham_2017",
+  "title": "Ottamuri Velicham",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55627972",
+    "imdb": "tt7345948",
+    "tmdb": 510048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

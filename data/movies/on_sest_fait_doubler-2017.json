@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_on_sest_fait_doubler_2017",
+  "title": "On s'est fait doubler !",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48756535",
+    "imdb": "tt6239682",
+    "tmdb": 709743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

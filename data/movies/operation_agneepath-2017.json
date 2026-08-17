@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_agneepath_2017",
+  "title": "Operation Agneepath",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27591005",
+    "imdb": "tt6075690",
+    "tmdb": 520220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

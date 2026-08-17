@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_onde_nascem_os_bravos_2017",
+  "title": "Onde Nascem os Bravos",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303072",
+    "imdb": "tt7252414",
+    "tmdb": 674506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heretics_2017",
+  "title": "The Heretics",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42279997",
+    "imdb": "tt6318848",
+    "tmdb": 438736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

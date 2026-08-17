@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hills_of_arirang_2017",
+  "title": "Hills of Arirang",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26822801",
+    "imdb": "tt5993426"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

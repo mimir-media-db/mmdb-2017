@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_high_value_target_2017",
+  "title": "High Value Target",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34560154",
+    "imdb": "tt2226264"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_meet_a_mermaid_2017",
+  "title": "How to Meet a Mermaid",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33540108",
+    "imdb": "tt6204524",
+    "tmdb": 426441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 94
+}

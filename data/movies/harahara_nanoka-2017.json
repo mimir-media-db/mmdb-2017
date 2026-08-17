@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harahara_nanoka_2017",
+  "title": "Harahara nanoka.",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30938133",
+    "imdb": "tt5803374",
+    "tmdb": 469276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

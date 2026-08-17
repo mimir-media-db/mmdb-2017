@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haltlos_2017",
+  "title": "Halt!Los!",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26693264",
+    "imdb": "tt5925244",
+    "tmdb": 488367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uncertainty_has_settled_2017",
+  "title": "The Uncertainty Has Settled",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30644218",
+    "imdb": "tt6206758",
+    "tmdb": 438600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-02-09"
+}

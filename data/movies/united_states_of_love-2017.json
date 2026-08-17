@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_united_states_of_love_2017",
+  "title": "United States of Love",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22087543",
+    "imdb": "tt5333110",
+    "tmdb": 377158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-12",
+  "runtime_minutes": 104
+}

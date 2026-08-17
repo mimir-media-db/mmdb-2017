@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_um_tio_quase_perfeito_2017",
+  "title": "Um Tio Quase Perfeito",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65167763",
+    "imdb": "tt6853930",
+    "tmdb": 448949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 96
+}

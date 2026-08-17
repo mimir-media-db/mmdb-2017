@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_comedia_macabra_2017",
+  "title": "Una comedia macabra",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115776420",
+    "imdb": "tt6562002",
+    "tmdb": 476565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unearthed_untold_the_path_to_pet_sematary_2017",
+  "title": "Unearthed & Untold: The Path to Pet Sematary",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24675445",
+    "imdb": "tt3109830",
+    "tmdb": 430035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-13",
+  "runtime_minutes": 75
+}

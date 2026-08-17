@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_smoky_roof_2017",
+  "title": "Under the Smoky Roof",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28713057",
+    "imdb": "tt6211480",
+    "tmdb": 440913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-06-07",
+  "runtime_minutes": 110
+}

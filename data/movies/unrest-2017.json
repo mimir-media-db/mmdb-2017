@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unrest_2017",
+  "title": "Unrest",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24577642",
+    "imdb": "tt3268850",
+    "tmdb": 433033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-20",
+  "runtime_minutes": 90
+}

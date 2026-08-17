@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_urvi_2017",
+  "title": "Urvi",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28419691",
+    "imdb": "tt6203964",
+    "tmdb": 447562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-03-17",
+  "runtime_minutes": 148
+}

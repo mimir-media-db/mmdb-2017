@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_222_2017",
+  "title": "2:22",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4633009",
+    "imdb": "tt1131724",
+    "tmdb": 269795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 98
+}

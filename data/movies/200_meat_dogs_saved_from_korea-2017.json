@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_200_meat_dogs_saved_from_korea_2017",
+  "title": "200 Meat Dogs Saved from Korea",
+  "year": 2017,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40314487",
+    "imdb": "tt7123204"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2017-01-01",
+  "runtime_minutes": 19
+}
